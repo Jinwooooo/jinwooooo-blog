@@ -14,7 +14,7 @@ categories:
 - Visualization
 ---
 
-##Abstract (개요)
+## Abstract (개요)
 
 There was a costume voting event in a mobile SRPG game called Browndust. The voting was held in Browndust Official NaverCafe
 and people were able to vote in the format '[username] / [unitname]'. There were over 1800 comments and I thought to myself that
@@ -28,7 +28,7 @@ result!
 사용할수가 없어서 **셀레늄** 을 사용하게 되었다. 그래서 큰그림으로 보면, 웹 크롤링은 **파이썬** 과 **셀레늄** 으로 처리를 했고, **R** 과 **하이차터** 로 데이터
 시각화를 했다!
 
-##Web Crawling (웹 크롤링)
+## Web Crawling (웹 크롤링)
 
 I used Chrome as Webdriver (웹 드라이버는 크롬을 사용했습니다).
 
@@ -129,7 +129,7 @@ I will add them when I have the time! :^)
 df.to_csv('~/Desktop/browndust-related/browndust-costume-event-crawled-comment.csv', sep=',', encoding='utf-8')
 {% endhighlight %}
 
-##Data Handling and Visualization (데이터 핸들링 및 시각화)
+## Data Handling and Visualization (데이터 핸들링 및 시각화)
 
 **Data Handling (데이터 핸들링)**
 {% highlight r %}
@@ -178,7 +178,7 @@ highchart() %>%
  hc_title(text = "코스튬 투표 현황 (유형 맞춘 투표만 적용)")
 {% endhighlight %}
 
-<img src="uploads/naver-cafe-crawl-and-visualization-pie-1.png">
+<img src="../uploads/naver-cafe-crawl-and-visualization-pie-1.png">
 
 Due to too much data, removing unit votes less than 10
 
@@ -193,7 +193,7 @@ highchart() %>%
  hc_title(text = "코스튬 투표 현황 (유형 맞춘 투표만 적용 + 투표 < 10 용병은 무시)")
 {% endhighlight %}
 
-<img src="uploads/naver-cafe-crawl-and-visualization-pie-2.png">
+<img src="../uploads/naver-cafe-crawl-and-visualization-pie-2.png">
 
 Due to one unit getting overwhemling votes from users, there was no need to go through the informal dataframe to extract
 votes. (better for me XD)
