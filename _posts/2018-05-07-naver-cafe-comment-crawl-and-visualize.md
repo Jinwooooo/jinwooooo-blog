@@ -19,7 +19,7 @@ categories:
 There was a costume voting event in a mobile SRPG game called Browndust. The voting was held in Browndust Official NaverCafe
 and people were able to vote in the format '[username] / [unitname]'. There were over 1800 comments and I thought to myself that
 making a web crawler here wouldn't be so bad. There was a slight problem when trying to crawl in NaverCafe because the url are
-hidden, so I cannot use a orthodox method of going reading html of each unique url. This is where I approached **Selenium**.
+hidden, so I could not use a orthodox method of going reading html of each unique url. This is where I approached **Selenium**.
 After crawling with **Python** and **Selenium**, and making a simple dataframe, I used **R** and **Highcharter** to visualize the
 result!
 
@@ -105,29 +105,36 @@ If you are a programmer with a bit of knowledge in selenium, you might have some
 Here are some explanations on why such code was inserted in some areas. If I see any additional questions in comments,
 I will add them when I have the time! :^)
 
-> 1. Why do you need time.sleep when you're already using WebDriverWait?
->
-> The xPath for current comment page and the next comment page are the same, so before it goes on to the next comment page, it checks xPath for current comment page (which will return True and continue that results as an error). So in order to wait for not checking for xPath in the current page, added time.sleep.
->
-> 2. Why do you need send_keys, when you only need to do click?
->
-> If the clicking element is not currently viewed on the browser (physically), it returns an error. I've googled about this problem, and other people also had this problem. So, the send_keys will scroll the browser to actually see the element that's about to be clicked, which solves the error.
+**1. Why do you need time.sleep when you're already using WebDriverWait?**
+
+The xPath for current comment page and the next comment page are the same, so before it goes on to the next comment page, it checks xPath for current comment page (which will return True and continue that results as an error). So in order to wait for not checking for xPath in the current page, added time.sleep.
+
+**2. Why do you need send_keys, when you only need to do click?**
+
+If the clicking element is not currently viewed on the browser (physically), it returns an error. I've googled about this problem, and other people also had this problem. So, the send_keys will scroll the browser to actually see the element that's about to be clicked, which solves the error.
+
 
 셀레늄을 다뤄보신분들이나 따라하시면서 '이걸 왜하지?'라는 생각이 들게 몇개 있어서 미리 FAQ처럼 밑에 설명했습니다. 만약 다른 궁금한거 있으시면 댓글로 달아주세요,
 나중에 시간되면 추가하겠습니다! :^)
 
-> 1. WebDriverWait를 사용하는데, 왜 time.sleep이 필요한가?
->
-> 지금 현재 페이지와 다음페이지 xPath가 같아서, 만약 time.sleep을 안넣으면, 다음 페이지 가기전에 현재 페이지 에서 확인하게 됩니다. xPath가 같아서, 기달리지 않고 바로 실행하려다가 에러나서, time.sleep를 추가하게 되었습니다.
->
-> 2. click만 하면 되는데, 왜 send_keys까지 필요한가?
->
-> 이건 확실히 왜 바로 click하면 에러가 안뜨는데 인터넷에서 다른 유사한 문제를 읽어보니, 현재 화면이 element에 없으면 에러가 나는 경우가 있다고 합니다. 그래서 send_keys를 사용해서 지금 화면을 다음페이지 가는 element에 고정 후 click을 하는겁니다.
+**1. WebDriverWait를 사용하는데, 왜 time.sleep이 필요한가?**
+
+지금 현재 페이지와 다음페이지 xPath가 같아서, 만약 time.sleep을 안넣으면, 다음 페이지 가기전에 현재 페이지 에서 확인하게 됩니다. xPath가 같아서, 기달리지 않고 바로 실행하려다가 에러나서, time.sleep를 추가하게 되었습니다.
+
+**2. click만 하면 되는데, 왜 send_keys까지 필요한가?**
+
+이건 확실히 왜 바로 click하면 에러가 안뜨는데 인터넷에서 다른 유사한 문제를 읽어보니, 현재 화면이 element에 없으면 에러가 나는 경우가 있다고 합니다. 그래서 send_keys를 사용해서 지금 화면을 다음페이지 가는 element에 고정 후 click을 하는겁니다.
 
 **Exporting Dataframe as csv (csv로 데이터프레임 추출)**
 {% highlight python %}
 df.to_csv('~/Desktop/browndust-related/browndust-costume-event-crawled-comment.csv', sep=',', encoding='utf-8')
 {% endhighlight %}
+
+The output df looks something like this
+
+결과물은 대략 아래와 같습니다
+
+<img src="../uploads/naver-cafe-crawl-and-visualization-view.png">
 
 ## Data Handling and Visualization (데이터 핸들링 및 시각화)
 
