@@ -14,7 +14,7 @@ categories:
 - Visualization
 ---
 
-# Abstract (개요)
+##Abstract (개요)
 
 There was a costume voting event in a mobile SRPG game called Browndust. The voting was held in Browndust Official NaverCafe
 and people were able to vote in the format '[username] / [unitname]'. There were over 1800 comments and I thought to myself that
@@ -28,7 +28,7 @@ result!
 사용할수가 없어서 **셀레늄** 을 사용하게 되었다. 그래서 큰그림으로 보면, 웹 크롤링은 **파이썬** 과 **셀레늄** 으로 처리를 했고, **R** 과 **하이차터** 로 데이터
 시각화를 했다!
 
-# Web Crawling (웹 크롤링)
+##Web Crawling (웹 크롤링)
 
 I used Chrome as Webdriver (웹 드라이버는 크롬을 사용했습니다).
 
@@ -108,7 +108,7 @@ I will add them when I have the time! :^)
 > 1. Why do you need time.sleep when you're already using WebDriverWait?
 >
 > The xPath for current comment page and the next comment page are the same, so before it goes on to the next comment page, it checks xPath for current comment page (which will return True and continue that results as an error). So in order to wait for not checking for xPath in the current page, added time.sleep.
-
+>
 > 2. Why do you need send_keys, when you only need to do click?
 >
 > If the clicking element is not currently viewed on the browser (physically), it returns an error. I've googled about this problem, and other people also had this problem. So, the send_keys will scroll the browser to actually see the element that's about to be clicked, which solves the error.
@@ -119,7 +119,7 @@ I will add them when I have the time! :^)
 > 1. WebDriverWait를 사용하는데, 왜 time.sleep이 필요한가?
 >
 > 지금 현재 페이지와 다음페이지 xPath가 같아서, 만약 time.sleep을 안넣으면, 다음 페이지 가기전에 현재 페이지 에서 확인하게 됩니다. xPath가 같아서, 기달리지 않고 바로 실행하려다가 에러나서, time.sleep를 추가하게 되었습니다.
-
+>
 > 2. click만 하면 되는데, 왜 send_keys까지 필요한가?
 >
 > 이건 확실히 왜 바로 click하면 에러가 안뜨는데 인터넷에서 다른 유사한 문제를 읽어보니, 현재 화면이 element에 없으면 에러가 나는 경우가 있다고 합니다. 그래서 send_keys를 사용해서 지금 화면을 다음페이지 가는 element에 고정 후 click을 하는겁니다.
@@ -129,7 +129,7 @@ I will add them when I have the time! :^)
 df.to_csv('~/Desktop/browndust-related/browndust-costume-event-crawled-comment.csv', sep=',', encoding='utf-8')
 {% endhighlight %}
 
-# Data Handling and Visualization (데이터 핸들링 및 시각화)
+##Data Handling and Visualization (데이터 핸들링 및 시각화)
 
 **Data Handling (데이터 핸들링)**
 {% highlight r %}
@@ -178,6 +178,8 @@ highchart() %>%
  hc_title(text = "코스튬 투표 현황 (유형 맞춘 투표만 적용)")
 {% endhighlight %}
 
+<img src="uploads/naver-cafe-crawl-and-visualization-pie-1.png">
+
 Due to too much data, removing unit votes less than 10
 
 데이터가 너무 많아서 투표 10개보다 낮은 투표는 무시
@@ -190,6 +192,8 @@ highchart() %>%
  hc_tooltip(pointFormat = paste('{point.y} 표<br/><b>{point.percentage:.1f}%</b>')) %>%
  hc_title(text = "코스튬 투표 현황 (유형 맞춘 투표만 적용 + 투표 < 10 용병은 무시)")
 {% endhighlight %}
+
+<img src="uploads/naver-cafe-crawl-and-visualization-pie-2.png">
 
 Due to one unit getting overwhemling votes from users, there was no need to go through the informal dataframe to extract
 votes. (better for me XD)
