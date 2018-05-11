@@ -57,7 +57,7 @@ textbook, it also leaves a question at the end : *How would A XOR B look like?*
 It didn't really say if there could be intermediate nodes to get the inputs, so for the sake of a better looking graph,
 I'm going to assume there can be intermediate nodes to save a computed value. Here is my diagram.
 
-<img src="../uploads/ml-textbook-NN-q2.jpg">
+<img src="../uploads/ml-textbook-NN-q2.png">
 
 ------
 
