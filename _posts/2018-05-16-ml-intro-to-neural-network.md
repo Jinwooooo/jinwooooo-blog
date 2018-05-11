@@ -17,8 +17,8 @@ categories:
 
 I've been interested in Neural Networks recently and I've started to study about it. Here is how I understood the basics of
 Neural Network. (The sources I've referenced the most when learning was
-[MIT OpenCourse Lecture]<https://www.youtube.com/watch?v=uXt8qF2Zzfo> and
-[O'Reilly recent Machine Learning Book]<http://shop.oreilly.com/product/0636920052289.do>)
+[MIT OpenCourse Lecture](https://www.youtube.com/watch?v=uXt8qF2Zzfo) and
+[O'Reilly recent Machine Learning Book](http://shop.oreilly.com/product/0636920052289.do))
 
 -----
 
@@ -47,7 +47,7 @@ signals either makes the other neuron stimulated or not (basically it's either 0
 For simplicity, I'm going to ignore about weights, and just stick with signals as 0 and 1. In the O'Reilly ML Book, it has this
 tree like diagram showing simple logical computations.
 
-<img src="../uploads/ml-textbook-NN-logical-comp.jpg">
+<img src="../uploads/ml-textbook-NN-logical-comp.png">
 
 For 2 signals (in this case A and B), you can see with diagram how signals can lead up to stimulate the other neuron. In the
 textbook, it also leaves a question at the end : *How would A XOR B look like?*
