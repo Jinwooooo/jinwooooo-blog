@@ -125,7 +125,6 @@ First we will load libraries and initialize variables
 {% highlight python %}
 import tensorflow as tf
 import numpy as np
-from tensorflow.examples.tutorials.mnist import input_data
 
 input_dim = 28*28  # MNIST data is 28x28 pixels
 hidden_1 = 300
@@ -208,13 +207,28 @@ saver = tf.train.Saver()
 n_epochs = 40 # this is the number of steps it will take
 batch_size = 50
 
-# loading data into local memory
-mnist = input_data.read_data_sets("/tmp/data/")
+# getting MNIST data and splitting train and test
+(X_train, y_train), (X_test, y_test) = tf.keras.datasets.mnist.load_data()
+X_train = X_train.astype(np.float32).reshape(-1, 28*28) / 255.0
+X_test = X_test.astype(np.float32).reshape(-1, 28*28) / 255.0
+y_train = y_train.astype(np.int32)
+y_test = y_test.astype(np.int32)
+
+X_valid, X_train = X_train[:10000], X_train[10000:]
+y_valid, y_train = y_train[:10000], y_train[10000:]
 {% endhighlight %}
 
 ### Execution
 
 {% highlight python %}
+# shuffling (common practice)
+def shuffle_batch(X, y, batch_size):
+    rnd_idx = np.random.permutation(len(X))
+    n_batches = len(X) // batch_size
+    for batch_idx in np.array_split(rnd_idx, n_batches):
+        X_batch, y_batch = X[batch_idx], y[batch_idx]
+        yield X_batch, y_batch
+
 with tf.Session() as sess:
     init.run()
     for epoch in range(n_epochs):
@@ -223,11 +237,10 @@ with tf.Session() as sess:
         acc_batch = accuracy.eval(feed_dict={X: X_batch, y: y_batch})
         acc_val = accuracy.eval(feed_dict={X: X_valid, y: y_valid})
         print(epoch, "Batch accuracy:", acc_batch, "Val accuracy:", acc_val)
-
     save_path = saver.save(sess, "./my_model_final.ckpt")
 
 # to look at the accuracy (saves accuracy into accuracy_val)
 with tf.Session() as sess:
-    saver.restore(sess, final_model_path)
+    saver.restore(sess, "./my_model_final.ckpt")
     accuracy_val = accuracy.eval(feed_dict={X: X_test, y: y_test})
 {% endhighlight %}    
