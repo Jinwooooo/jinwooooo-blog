@@ -4,7 +4,6 @@ title:  "Introduction to Neural Network"
 image: ''
 date:   2018-05-16 00:12:00
 tags:
-- English
 - Deep Learning
 - Neural Network
 - Python

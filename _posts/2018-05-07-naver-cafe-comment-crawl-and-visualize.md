@@ -4,7 +4,6 @@ title:  "NaverCafe Comment Crawling and Data Handling"
 image: 'https://cdn-images-1.medium.com/max/1600/1*HJpcblBvD8MpqAEZZXWVgg.png'
 date:   2018-05-07 00:12:00
 tags:
-- English
 - NaverCafe
 - Crawling
 - Selenium
