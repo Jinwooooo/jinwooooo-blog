@@ -57,7 +57,7 @@ print(model_1.summary())
 
 You can notice I've dropped GameID, since it's intuitive it's gonna be random and will have no causation to the dependent variable whatsoever. So, the output comes like this.
 
-{% highlight %}
+{% highlight r %}
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:            LeagueIndex   R-squared:                       0.947
@@ -114,7 +114,7 @@ model_2 = sm.OLS(y,x_2).fit()
 print(model_2.summary())
 {% endhighlight %}
 
-{% highlight %}
+{% highlight r %}
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:            LeagueIndex   R-squared:                       0.947
