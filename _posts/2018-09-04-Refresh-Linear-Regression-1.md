@@ -170,6 +170,6 @@ df_league_index_distr.plot(kind='bar',y='LeagueIndex',colormap='Paired')
 plt.show()
 {% endhighlight %}
 
-<img src="../uploads/skillcraft-normal-distr.png">
+<img src="../uploads/skillcraft-normal-distr.jpg">
 
 It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^).
