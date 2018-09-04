@@ -14,6 +14,8 @@ categories:
 - Linear Regression
 ---
 
+---
+
 ## Before reading this post, I strongly suggest you read this part first
 
 I'm going to do a simple linear regression on the variable provided in the dataset and try to visualize some problematic variables and try to make a final model with the most correlated variable. In the end, I will organize and make a kernel up on Kaggle.com if possible, so go to the link on the bottom for an organized report. 'Stream of Progress' tags are a progressive post that are going to talk about stuff that maybe aren't so worth your time.
@@ -57,7 +59,7 @@ print(model_1.summary())
 
 You can notice I've dropped GameID, since it's intuitive it's gonna be random and will have no causation to the dependent variable whatsoever. So, the output comes like this.
 
-<!-- {% highlight r %}
+{% highlight text %}
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:            LeagueIndex   R-squared:                       0.947
@@ -114,7 +116,7 @@ model_2 = sm.OLS(y,x_2).fit()
 print(model_2.summary())
 {% endhighlight %}
 
-{% highlight r %}
+{% highlight text %}
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:            LeagueIndex   R-squared:                       0.947
@@ -168,4 +170,4 @@ plt.show()
 
 <img src="../uploads/skillcraft-normal-distr.png">
 
-It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^). -->
+It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^).
