@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reviewing Linear Regression - Part 1"
-image: '../uploads/starcraft-2.jpg'
+image: ''
 date:   2018-09-04 00:12:00
 tags:
 - Review
@@ -24,7 +24,7 @@ I'm going to do a simple linear regression on the variable provided in the datas
 
 ---
 
-## Getting to Know the Data
+<!-- ## Getting to Know the Data
 
 There are total of 20 variables in the dataset. It's explained quite succinctly on the kaggle page ([Skillcraft Kaggle](https://www.kaggle.com/danofer/skillcraft/home)). I'm going to set the *League Index as the Dependent Variable* and *Other Variables as Independent Variable* first to get the gist of the dataset.
 
@@ -55,7 +55,7 @@ model_1 = sm.OLS(y,x_1).fit()
 print(model_1.summary())
 {% endhighlight %}
 
-You can notice I've dropped GameID, since it's intuitive it's gonna be random and will have no causation to the dependent variable whatsoever. So, the output comes like this.
+You can notice I've dropped GameID, since it's intuitive it's gonna be random and will have no causation to the dependent variable whatsoever. So, the output comes like this. -->
 
 <!-- {% highlight r %}
 OLS Regression Results                            
