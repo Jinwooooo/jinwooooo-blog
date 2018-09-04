@@ -57,7 +57,7 @@ print(model_1.summary())
 
 You can notice I've dropped GameID, since it's intuitive it's gonna be random and will have no causation to the dependent variable whatsoever. So, the output comes like this.
 
-{% highlight r %}
+<!-- {% highlight r %}
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:            LeagueIndex   R-squared:                       0.947
@@ -168,4 +168,4 @@ plt.show()
 
 <img src="../uploads/skillcraft-normal-distr.png">
 
-It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^).
+It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^). -->
