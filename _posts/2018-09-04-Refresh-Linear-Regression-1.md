@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reviewing Linear Regression - Part 1"
-image: '../uploads/starcraft-2.jpg'
+image: ''
 date:   2018-05-16 00:12:00
 tags:
 - Review
