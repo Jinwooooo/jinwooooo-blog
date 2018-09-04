@@ -20,9 +20,10 @@ categories:
 
 I'm going to do a simple linear regression on the variable provided in the dataset and try to visualize some problematic variables and try to make a final model with the most correlated variable. In the end, I will organize and make a kernel up on Kaggle.com if possible, so go to the link on the bottom for an organized report. 'Stream of Progress' tags are a progressive post that are going to talk about stuff that maybe aren't so worth your time.
 
-*Finalized Post/Blog/Kernel*
-[For Kaggle](www.google.com)
-[For My Own Blog](www.google.com)
+**Finalized Post/Blog/Kernel**
+
+* [For Kaggle](www.google.com)
+* [For My Own Blog](www.google.com)
 
 ---
 
@@ -36,7 +37,8 @@ import pandas as pd
 import urllib.request as urllib
 
 # getting data
-url = 'https://raw.githubusercontent.com/Jinwooooo/Kaggle-SC2-Skillcraft-Regression-Analysis/master/data/raw-skillcraft.csv'
+url = 'https://raw.githubusercontent.com/Jinwooooo/Kaggle-SC2' +
+      '-Skillcraft-Regression-Analysis/master/data/raw-skillcraft.csv'
 response = urllib.urlopen(url)
 df_main = pd.read_csv(response)
 response.close()
