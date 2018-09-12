@@ -50,7 +50,7 @@ plt.show()
 
 <img src="../uploads/skillcraft-boxwhisker.jpg">
 
-For me, I thought MinimapAttacks and SelectByHotkeys have more outliers than the rest, so I decided to remove them to see what happens. This is not a common practice by the way, usually you either 1. remove the outlying rows (which is discouraged as well since it means you are mingling with the data which in result may not reflect the real world) or 2. you just acknowledge the outliers and move on.
+For me, I thought MinimapAttacks and SelectByHotkeys have more outliers than the rest, so I decided to remove them to see what happens. This is not a common practice by the way, usually you either 1. remove the outlying rows (which is discouraged as well since it means you are mingling with the data which in result may not reflect the real world) or 2. you just acknowledge the outliers and move on. Usually, the analyzing person or group should check on the outliers and see if it's actually a depiction of the real data or it is a mistake. If the ladder is certain, it's the correct move to drop the outlying data; otherwise, just acknowledge it.
 
 **3rd Model (Removing variables with high number of outliers)**
 {% highlight python %}
