@@ -44,6 +44,21 @@ df_main = pd.read_csv(response)
 response.close()
 {% endhighlight %}
 
+First let's try to see if the league index follows a normal distribution curve. (If it doesn't follow, then it's highly likely going to be a waste of time)
+
+{% highlight python %}
+import matplotlib.pyplot as plt
+
+df_league_index_distr = (df_main['LeagueIndex'].value_counts()).to_frame()
+df_league_index_distr.sort_index(inplace=True)
+df_league_index_distr.plot(kind='bar',y='LeagueIndex',colormap='Paired')
+plt.show()
+{% endhighlight %}
+
+<img src="../uploads/skillcraft-normal-distr.jpg">
+
+It's skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression.
+
 **1st Model (Full)**
 {% highlight python %}
 import statsmodels.api as sm
@@ -159,17 +174,4 @@ Warnings:
 strong multicollinearity or other numerical problems.
 {% endhighlight %}
 
-Looks a bit nicer now in terms of p-value for correlation. However, we still need to check upon other issues here. First let's try to see if the league index follows a normal distribution curve.
-
-{% highlight python %}
-import matplotlib.pyplot as plt
-
-df_league_index_distr = (df_main['LeagueIndex'].value_counts()).to_frame()
-df_league_index_distr.sort_index(inplace=True)
-df_league_index_distr.plot(kind='bar',y='LeagueIndex',colormap='Paired')
-plt.show()
-{% endhighlight %}
-
-<img src="../uploads/skillcraft-normal-distr.jpg">
-
-It's a skewed toward the higher LeagueIndex. Need to keep that in mind as we go on, but since it's somewhat of a normal distribution curve, I think it's okay to do a linear regression. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^).
+Looks a bit nicer now in terms of p-value for correlation. However, we still need to check upon other issues here. For next step I think I will have to check upon outliers in the data. Will come back to that on the next post :^).
