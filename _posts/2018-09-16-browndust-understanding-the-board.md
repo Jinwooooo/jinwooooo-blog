@@ -24,15 +24,15 @@ The mechanics here that should be highlighted is which row does the unit attack.
 
 <img src="../uploads/browndust-sample-board-simplified.jpg">
 
-If your current unit is on the Middle Row and if there is a unit on the enemy's Middle Row, then it's pretty intuitive that it attacks the unit on the enemy's Middle Row. However, what happens if there are no units on the enemy's Middle Row, but on Upper Row and Lower Row? Well, in Brown Dust, the priority goes **down**. I made an example incase it's confusing.
+If your current unit is on the Middle Row and if there is a unit on the enemy's Middle Row, then it's pretty intuitive that it attacks the unit on the enemy's Middle Row. However, what happens if there are no units on the enemy's Middle Row, but on Upper Row and Lower Row? Well, in Brown Dust, the priority goes **down**. For example,
 
 <img src="../uploads/browndust-sample-board-priority.jpg">
 
-It will attack the row that's colored **red**. The only way to forcefully change the row it's naturally going to attack is by using the ability **taunt**. So with taunt the map attack priority can be modified as shown below.
+It will attack the row that's colored **red**. The only way to forcefully change the row it's naturally going to attack is by using the ability **taunt**. So with taunt the row/cell attack priority can be modified as shown below.
 
 <img src="../uploads/browndust-sample-taunt-example.jpg">
 
-But what happens if there are more than 1 taunt? (i.e. 2 units with active taunt) In this case it will attack the unit with highest priority according to the board below.
+But what happens if there are more than 1 taunt? (i.e. 2 units with active taunt) In this case it will attack the unit with highest priority according to the board below. (note that your unit position on the board does not matter, the position of enemy's unit with active taunt is the only factor that needs to be considered)
 
 <img src="../uploads/browndust-sample-taunt-priority.jpg">
 
