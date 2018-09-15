@@ -51,6 +51,9 @@ The OLS summary always stated there is a strong indication for multicollinearity
 I was looking through some VIF example up on google and found out that you can't just straight up OLS summary to get the VIF. Read this [post](https://stackoverflow.com/questions/42658379/variance-inflation-factor-in-python) for more information why I'm adding constant to figure out the VIF.
 
 {% highlight python %}
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+from statsmodels.tools.tools import add_constant
+
 mc_x = add_constant(x_2)
 pd.Series([variance_inflation_factor(mc_x.values, i)
           for i in range(mc_x.shape[1])],index=mc_x.columns)
@@ -76,7 +79,7 @@ WorkersMade           1.286370
 
 Damn... there isn't a concrete value that says if it's over x, it's highly correlated, but usually if the values is near 1 it's good and if it's over 5, it's not.
 
-By the way, APM having high VIF value is somewhat logical. It will correlate with most of the activity measured because the higher the APM, it usually means you have keyboard inputs and more mouse clicks, resulting in higher numbers in other variables as well.
+By the way, APM having high VIF value is somewhat logical. It will correlate with most of the activity measured because the higher the APM, the higher number of keyboard inputs and mouse clicks. Therefore, resulting in higher numbers in other variables as well.
 
 Usually, you'd do a stepwise regression, but I've read lots of posts stating that stepwise regression should be avoided if possible. Perhaps moving one or few of the variables with high VIF may help. Guess we're back to making more Models.
 
