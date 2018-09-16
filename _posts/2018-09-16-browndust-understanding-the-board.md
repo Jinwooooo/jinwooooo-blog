@@ -7,10 +7,8 @@ tags:
 - Brown Dust (Intermediate)
 description: 'Getting to know the Brown Dust Board in detail'
 categories:
-- Brown Dust
+- Brown Dust (Mechanics)
 ---
-
-### This is not an Introduction
 
 Most of my posts aren't going to actually introduce Brown Dust. You will have to be somewhat familiar with the game to understand what I'm posting about (if the tags include 'Basic', that might be a post that can be understood without even knowing what Brown Dust is, otherwise, you'd have to know the game at least a little)
 
