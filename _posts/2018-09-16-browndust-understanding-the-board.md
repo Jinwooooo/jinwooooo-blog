@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brown Dust Understanding Attack Priority"
+title:  "Brown Dust : Understanding Attack Priority"
 image: ''
 date:   2018-09-16 00:12:00
 tags:
@@ -34,9 +34,9 @@ If your current unit is on the Middle Row and if there is a unit on the enemy's 
 
 It will attack the row that's colored <span style="color:red">red</span>. The only way to forcefully change the row it's naturally going to attack is by using the skills :
 
-* Focus Fire
-* Ignore Taunt
-* Taunt
+* <span style="color:red">Focus Fire</span>
+* <span style="color:blue">Ignore Taunt</span>
+* <span style="color:green">Taunt</span>
 
 ---
 
@@ -46,14 +46,16 @@ It will attack the row that's colored <span style="color:red">red</span>. The on
 
 <img src="../uploads/browndust-attack-priority-priority-changing-skills.jpg">
 
-**IMPORTANT** How I ordered these skills are related to priority. In a sense, if there is a ***Focus Fire*** active on the board, ***it doesn't matter if there are taunts or ignore taunts ability active, because it will target the unit that has the Focus Fire ability active***. If there are no ***Focus Fire*** ability active on the board, then ***Ignore Taunt*** is up next. Even if there is taunt on board, it will attack the same cell(s) on the board even if there is a ***Taunt*** active on board. If there are no ***Focus Fire*** and ***Ignore Taunt*** available on the board, then ***Taunt*** takes highest priority and any unit that attack will attack the unit that has ***Taunt*** active.
+**IMPORTANT**
 
-For the sake of simplicity say there are only ***Focus Fire*** or only ***Taunt*** on the board. Everything seems fine if there is only 1 ***Focus Fire*** or ***Taunt*** on the map, but what happens if there are 2? For this we can no longer use only rows, but we will have to consider columns as well. Here is the ***Focus Fire*** and ***Taunt*** priority shown with the board.
+How I ordered these skills are related to priority. In a sense, if there is a <span style="color:red">***Focus Fire***</span> active on the board, <span style="color:red">***it doesn't matter if there are taunts or ignore taunts ability active, because it will target the unit that has the Focus Fire ability active***</span>. If there are no <span style="color:red">***Focus Fire***</span> ability active on the board, then <span style="color:blue">***Ignore Taunt***</span> is up next. Even if there is taunt on board, it will attack the same cell(s) on the board even if there is a <span style="color:green">***Taunt***</span> active on board. If there are no <span style="color:red">***Focus Fire***</span> and <span style="color:blue">***Ignore Taunt***</span> available on the board, then <span style="color:green">***Taunt***</span> takes highest priority and any unit that attack will attack the unit that has <span style="color:green">***Taunt***</span> active.
+
+For the sake of simplicity say there are only <span style="color:red">***Focus Fire***</span> or only <span style="color:green">***Taunt***</span> on the board. Everything seems fine if there is only 1 <span style="color:red">***Focus Fire***</span> or <span style="color:green">***Taunt***</span> on the map, but what happens if there are 2? For this we can no longer use only rows, but we will have to consider columns as well. Here is the <span style="color:red">***Focus Fire***</span> and <span style="color:green">***Taunt***</span> priority shown with the board.
 
 <img src="../uploads/browndust-attack-priority-focusfire-taunt-priority.jpg">
 (Lower the number, the higher the priority)
 
-The question I had when I first saw this focus fire and taunt priority board was : ***Does the position (cell) of the unit that is about to attack matter?*** The answer is **NO**. The only factor that's taken into account is the position of the unit that currently has ***Focus Fire*** or ***Taunt*** active.
+The question I had when I first saw this focus fire and taunt priority board was : ***Does the position (cell) of the unit that is about to attack matter?*** The answer is **NO**. The only factor that's taken into account is the position of the unit that currently has <span style="color:red">***Focus Fire***</span> or <span style="color:green">***Taunt***</span> active.
 
 Perhaps, examples will help...
 
@@ -74,28 +76,28 @@ Pretty straight forward. It follows the priority as shown beforehand.
 
 <img src="../uploads/browndust-attack-priority-sample-2.jpg">
 
-Due to ***Ignore Taunt*** by unit X, it will attack B even though A as ***Taunt*** active.
+Due to <span style="color:blue">***Ignore Taunt***</span> by unit X, it will attack B even though A as <span style="color:green">***Taunt***</span> active.
 
 **Example 3**
 
 <img src="../uploads/browndust-attack-priority-sample-3.jpg">
 
-If A didn't have ***Focus Fire***, it will attack C. However, A's ***Focus Fire*** takes higher priority, so it will attack A.
+If A didn't have <span style="color:red">***Focus Fire***</span>, it will attack C. However, A's <span style="color:red">***Focus Fire***</span> takes higher priority, so it will attack A.
 
 **Example 4**
 
 <img src="../uploads/browndust-attack-priority-sample-4.jpg">
 
-Now C has ***Focus Fire*** and A still has ***Focus Fire***. When A and C both don't have ***Focus Fire***, ***Ignore Taunt*** takes over and attacks C, but since both has ***Focus Fire*** active it follows the priority shown previously, so it will attack A.
+Now C has <span style="color:red">***Focus Fire***</span> and A still has <span style="color:red">***Focus Fire***</span>. When A and C both don't have <span style="color:red">***Focus Fire***</span>, <span style="color:blue">***Ignore Taunt***</span> takes over and attacks C, but since both has <span style="color:red">***Focus Fire***</span> active it follows the priority shown previously, so it will attack A.
 
 **Example 5**
 
 <img src="../uploads/browndust-attack-priority-sample-5.jpg">
 
-Even without ***Ignore Taunt***, it will attack ***Focus Fire*** active unit.
+Even without <span style="color:blue">***Ignore Taunt***</span>, it will attack <span style="color:red">***Focus Fire***</span> active unit.
 
 ---
 
-Before concluding, I'd like to say that ***Focus Fire*** ability isn't activated by the enemy. It's a debuff given to an enemy unit by an ally unit. This is why it has higher priority. Since there's no point of having a ***Focus Fire*** ability without a ***Ignore Taunt*** (what's the point of having it when you are gonna give ***Focus Fire*** to an enemy unit ***Taunt*** unit that already has the highest priority?), you will find that every single unit with ***Focus Fire*** ability have ***Ignore Taunt*** ability as well.
+Before concluding, I'd like to say that <span style="color:red">***Focus Fire***</span> ability isn't activated by the enemy. It's a debuff given to an enemy unit by an ally unit. This is why it has higher priority. Since there's no point of having a <span style="color:red">***Focus Fire***</span> ability without a <span style="color:blue">***Ignore Taunt***</span> (what's the point of having it when you are gonna give <span style="color:red">***Focus Fire***</span> to an enemy unit ***Taunt*** unit that already has the highest priority?), you will find that every single unit with <span style="color:red">***Focus Fire***</span> ability have <span style="color:blue">***Ignore Taunt***</span> ability as well.
 
 If there are any confusing parts or any parts you'd like more elaboration, leave a comment or contact me in any ways possible :^)
