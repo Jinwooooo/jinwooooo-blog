@@ -32,7 +32,7 @@ If your current unit is on the Middle Row and if there is a unit on the enemy's 
 
 <img src="../uploads/browndust-attack-priority-row-priority-example.jpg">
 
-It will attack the row that's colored ![#f03c15](red). The only way to forcefully change the row it's naturally going to attack is by using the skills :
+It will attack the row that's colored <span style="color:red">red</span>. The only way to forcefully change the row it's naturally going to attack is by using the skills :
 
 * Focus Fire
 * Ignore Taunt
