@@ -1,11 +1,11 @@
 # Site settings
-title: Code Doodling (코드 낙서장)
-description: "Random Code Doodles"
+title: Jinwoo's Random Doodling
+description: "Random Doodles"
 baseurl: "/jinwooooo-blog"
 url: "https://jinwooooo.github.io/jinwooooo-blog/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Jinwoo Chung
-user_title: Lorem Ipsum - FrontEnd
+user_title: Jinwooooo
 email: chungjinwoo5d@naver.com
 twitter_username: Jinwooooo1
 github_username:  Jinwooooo
@@ -40,12 +40,12 @@ links:
   - title: about me
     url: /about
 # projects in header index
-projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara
+# projects:
+#   - name: asciilang
+#     url: https://github.com/victorvoid/asciilang
+#   - name: vim-frontend
+#     url: https://github.com/victorvoid/vim-frontend
+#   - name: generator-capybara
+#     url: https://github.com/victorvoid/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
