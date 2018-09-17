@@ -8,13 +8,12 @@ tags:
 - Linear Regression
 - Stream of Progress
 - Python
-- R
 description: 'Reviewing Linear Regression for Practice. Using Kaggle Public Dataset : Skillcraft'
 categories:
 - Linear Regression
 ---
 
-## I strongly suggest you read this part first
+## Read me first
 
 I'm going to do a simple linear regression on the variable provided in the dataset and try to visualize some problematic variables and try to make a final model with the most correlated variable. In the end, I will organize and make a kernel up on Kaggle.com if possible, so go to the link on the bottom for an organized report. 'Stream of Progress' tags are a progressive post that are going to talk about stuff that maybe aren't so worth your time.
 
@@ -149,7 +148,37 @@ TotalMapExplored     1.300130
 WorkersMade          1.189928
 {% endhighlight %}
 
-Lovely. Let's check the summary.
+Lovely. Just in case let me reduce ActionLatency instead of NumberOfPACs to see if the other model is better (ActionLatency also had VIF value over 5)
+
+{% highlight python %}
+# reducing the other variable
+removed_cols = ['GameID','LeagueIndex','TotalHours','MinimapRightClicks',
+                'UniqueUnitsMade','ComplexUnitsMade','ComplexAbilitiesUsed']
+removed_cols = removed_cols + ['APM','ActionLatency']
+x_7 = df_train.drop(removed_cols, axis=1)
+model_7 = sm.OLS(y,x_7).fit()
+
+# testing with VIF again
+mc_x = add_constant(x_7)
+pd.Series([variance_inflation_factor(mc_x.values, i) for i in range(mc_x.shape[1])],index=mc_x.columns)
+{% endhighlight %}
+
+{% highlight text %}
+const               157.123643
+Age                   1.104197
+HoursPerWeek          1.096788
+SelectByHotkeys       1.462628
+AssignToHotkeys       1.611384
+UniqueHotkeys         1.270006
+MinimapAttacks        1.122171
+NumberOfPACs          3.020198
+GapBetweenPACs        1.933692
+ActionsInPAC          1.824861
+TotalMapExplored      1.392885
+WorkersMade           1.261149
+{% endhighlight %}
+
+Hmm... while Model 6 has 2 variables with VIF over 2, Model 7 has 1 variable with VIF over 3 but others are lower than 2. Perhaps we should check this with ANOVA. Before going into ANOVA, let's check out their model summary!
 
 {% highlight python %}
 print(model_6.summary())
@@ -194,6 +223,62 @@ Warnings:
 strong multicollinearity or other numerical problems.
 {% endhighlight %}
 
-Just by skimming through the summary, seems like it's not a bad model. It still have the warning, but we have checked the VIF values. Even if ANOVA test states that Model 2 is superior, due to multicollinearity problems, I am going to pick Model 6 anyway, so let's now hop on Residual Analysis and how well it does on the test set!
+{% highlight python %}
+print(model_7.summary())
+{% endhighlight %}
+
+{% highlight text %}
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:            LeagueIndex   R-squared:                       0.947
+Model:                            OLS   Adj. R-squared:                  0.947
+Method:                 Least Squares   F-statistic:                     4361.
+Date:                Sat, 15 Sep 2018   Prob (F-statistic):               0.00
+Time:                        12:00:00   Log-Likelihood:                -3795.7
+No. Observations:                2670   AIC:                             7613.
+Df Residuals:                    2659   BIC:                             7678.
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Age                  0.0212      0.004      5.184      0.000       0.013       0.029
+HoursPerWeek         0.0099      0.002      5.710      0.000       0.006       0.013
+SelectByHotkeys     31.3489      4.939      6.347      0.000      21.664      41.034
+AssignToHotkeys    874.1684    117.459      7.442      0.000     643.848    1104.489
+UniqueHotkeys        0.0297      0.009      3.155      0.002       0.011       0.048
+MinimapAttacks    1050.7058    137.136      7.662      0.000     781.802    1319.610
+NumberOfPACs       692.5465     25.562     27.093      0.000     642.423     742.670
+GapBetweenPACs      -0.0104      0.001     -9.035      0.000      -0.013      -0.008
+ActionsInPAC         0.1599      0.013     12.540      0.000       0.135       0.185
+TotalMapExplored    -0.0069      0.003     -2.209      0.027      -0.013      -0.001
+WorkersMade        185.1212     41.172      4.496      0.000     104.389     265.853
+==============================================================================
+Omnibus:                       10.968   Durbin-Watson:                   1.999
+Prob(Omnibus):                  0.004   Jarque-Bera (JB):               10.836
+Skew:                          -0.139   Prob(JB):                      0.00444
+Kurtosis:                       2.856   Cond. No.                     3.97e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.97e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+{% endhighlight %}
+
+Just by skimming through the summaries, seems like Model 7 is a better pick. They both still have the warning about multicollinearity, but we've checked it through VIF, so I'm going to ignore this error moving forward.
+
+{% highlight python %}
+anova_result = anova_lm(model_6, model_7)
+print(anova_result)
+{% endhighlight %}
+
+{% highlight text %}
+   df_resid          ssr  df_diff     ss_diff    F  Pr(>F)
+0    2659.0  3369.798241      0.0         NaN  NaN     NaN
+1    2659.0  2684.315046     -0.0  685.483195 -inf     NaN
+{% endhighlight %}
+
+The only values that we can use is SSR. Model 7 is slighly better in this respect, so we'll use Model 7 as our final model, and do **residual analysis** and **predicting with test set**!
 
 <img src="../uploads/clapping.gif">
