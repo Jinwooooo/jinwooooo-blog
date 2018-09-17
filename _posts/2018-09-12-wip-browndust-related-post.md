@@ -10,7 +10,7 @@ categories:
 - Brown Dust
 ---
 
-<img src="../uploads/browndust-main.jpg">
+<img src="../uploads/browndust-wip-main.jpg">
 
 I play this mobile game called Brown Dust, a SRPG (Strategic Role Playing Game). Currently there are 3 servers : Korea, Japan, and SEA. I play in the Korea server which is few patches ahead of the other regions. I will be making posts related strategies, unit reviews, formations, and etc.
 
