@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brown Dust Arena Formation - 2 Row Variation"
+title:  "Brown Dust Arena Formation : 2 Row Variation"
 image: ''
 date:   2018-09-20 00:12:00
 tags:
@@ -15,7 +15,7 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ---
 
-### Chapter 1 : Defensive / Offensive Row
+## Chapter 1 : Defensive / Offensive Row
 
 The 2 Row Variation Formation will only be using 2 rows out of 3. One of the row is Defensive row (aka Dummy row) and the other row is Offensive Row.
 
@@ -32,14 +32,14 @@ The most popular units used for Defensive Row are as follows:
 2. **Arkan** Above average sandbag.
 3. **Lilian** Conditional sandbag. (highly likely to be very effective)
 4. **Aron** One of the most reliable damage reflector w/ or w/o taunt.
-5. **Seir** Reliable taunt unit with conditional damage reflection
-6. **Caylen** New unit, need more data and experience to evaluate, but she's gaining popularity
+5. **Seir** Reliable taunt unit with conditional damage reflection.
+6. **Caylen** New unit, need more data and experience to evaluate, but she's gaining popularity.
 
 **Offensive Row**
 
 You typically use the most heavily invested offensive unit in this row. Most of the time the offensive units are placed in the middle and supports and extra defensive units are located at the front or the back (the placement in the Offensive Row heavily depends on the current meta). Because there are many offensive units, I will not be showing a example list. However, I do believe elaborating on support is important.
 
-Usually 2 Row Variation Formation lacks durability compared to other formations. Since 2 Row Variation Formation does not like a elongated fights, it puts a lot of importance on support units. I'd probably even say that you need at least 2 of the top tier supports with this formation (the choice of top tier supports vary depending on your offensive units and formation).
+**Usually 2 Row Variation Formation lacks durability compared to other formations.** Since 2 Row Variation Formation does not like a elongated fights, it puts a lot of importance on support units. I'd probably even say that you having least 2 of the top tier supports with this formation is a requirement (the choice of top tier supports vary depending on your offensive units and formation).
 
 ***Based on September 2018 (KR Server)***
 The most popular support units used are as follows:
@@ -75,9 +75,9 @@ If the first unit that launches attack has very good AOE:
 
 ---
 
-### Chapter 2 : Traditional 2 Row Formation w/ Examples
+## Chapter 2 : Traditional 2 Row Formation w/ Examples
 
-Let's simply just look at theoretically how traditional 2 row formation in a abstract form.
+Let's simply just look at theoretically how traditional 2 row formation in an abstract form.
 
 <img src="../uploads/browndust-2-row-formation-abstract-traditional-sample.jpg">
 
@@ -89,9 +89,9 @@ If you can see from this example, all the top tier defensive and support units a
 
 ---
 
-### Chapter 3 : 2 Row Formation Variations
+## Chapter 3 : 2 Row Formation Variations
 
-There are total of 2 variations for 2 row formation (if you count the traditional, then there are 3). Here is another abstract form.
+There are total of 3 variations for 2 row formation. Here is another abstract form depiction.
 
 <img src="../uploads/browndust-2-row-formation-abstract-variation-sample.jpg">
 
@@ -118,17 +118,17 @@ So if you do any one of the traditional, variation-1, variation-2, then you have
 
 ---
 
-### Chapter 4 : Why Traditional 2 Row Formation has the title 'Traditional'
+## Chapter 4 : Why Traditional 2 Row Formation has the title 'Traditional'
 
 If may have wondered why out of 3 variations, one of them actually have a special name. The reason is simple : AOE. In Brown Dust there are unique AOE and the following AOE can be seen very frequently in arena.
 
-<img src="../uploads/browndust-2-row-aoe.jpg">
+<img src="../uploads/browndust-2-row-formation-aoe.jpg">
 
 It's possible to state that traditional 2 row formation is somewhat immune to these AOEs. Usually if a popular offensive unit has one of the AOE shown above, many top tier users will modify their 2 row formation into the traditional variation.
 
 ---
 
-### Final Thoughts
+## Final Thoughts
 
 While the traditional, variation-1, variation-2 are the statistical advantageous 2 row formation variation, it doesn't mean it's always the right to use them. It's very important to note that arena is a PvP content. **For you to win you have to be 1 step ahead of opponent.**
 
