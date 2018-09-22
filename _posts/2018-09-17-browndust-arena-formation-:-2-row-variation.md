@@ -47,67 +47,69 @@ The most popular support units used are as follows:
 <img src="../uploads/browndust-2-row-formation-support-unit-example.jpg">
 
 1. **Repithea** Best support unit if her skill level is 10. Otherwise mediocre.
-2. **Benaca** One of the two best non-lengedary support unit.
-3. **Mary** The other best non-lengedary support unit.
+2. **Benaca** One of the two best non-legendary support unit.
+3. **Mary** The other best non-legendary support unit.
 4. **Veronica** Very good if the first unit that attacks has good AOE.
 5. **Michaela** Conditional support unit. If used with right unit she's very effective.
-6. **Ceres** The only ★4 support unit. Very effective for 2 row formation variation and the key skill that she has is the stat reducing effect immunity.
+6. **Ceres** The only ★4 support unit in this list. Very effective for 2 row formation variation and the key skill that she has is the stat reducing effect immunity.
 
 ***Combinations***
 
-If you're based in Crit Rate + Crit Damage:
+If your offensive units are based on Crit Rate + Crit Damage:
 * Benaca + Mary
 * Benaca + Ceres
 * Mary + Ceres
 
-If you're mixed :
+If mixed :
 * Repithea + Ceres
 * Repithea + Benaca
 + Repithea + Mary
 
-If you're based on Att Damage :
+If based on Att Damage :
 * Repithea + Michaela
 * Mary + Michaela
 * Michaela + Ceres
 
 If the first unit that launches attack has very good AOE:
-* Repithea / Mary + Benaca / Micahela + Veronica (x / y means you either use x or y, not use x and y)
+* Repithea / Mary + Benaca / Michaela + Veronica (x / y means you either use x or y, not use x and y)
 
 ---
 
-## Chapter 2 : Traditional 2 Row Formation w/ Examples
+## Chapter 2 : Traditional 2 Row Formation w/ Example
 
 Let's simply just look at theoretically how traditional 2 row formation in an abstract form.
 
 <img src="../uploads/browndust-2-row-formation-abstract-traditional-sample.jpg">
 
-There's a reason for the placement of offensive and defensive row. It will be elaborated on the next chapter (2 row formation variations), so just take it as it is for now. So how will this actually look like in the game? I just got one random Grandmaster user who is using the traditional 2 row formation.
+There's a reason for the placement of offensive and defensive row. It will be elaborated on the next chapter (2 row formation variations), so just take it as it is for now. I just got one random Grandmaster user who is using the traditional 2 row formation to show you how it will look in the game.
 
 <img src="../uploads/browndust-2-row-formation-sample-1.jpg">
 
-If you can see from this example, all the top tier defensive and support units are used. This deck will likely start with Ceres → Benaca → Eliza.
+If you can see from this example, all the top tier defensive and support units that I listd above are used. This deck will likely start with Ceres → Benaca → Eliza.
 
 ---
 
 ## Chapter 3 : 2 Row Formation Variations
 
-There are total of 3 variations for 2 row formation. Here is another abstract form depiction.
+There are total of 3 variations for 2 row formation. Here is another abstract depiction.
 
 <img src="../uploads/browndust-2-row-formation-abstract-variation-sample.jpg">
 
-Any other variation that is 2 row formation but does not follow the 3 abstract sample as shown above are likely to be inefficient. Explanation requires some rudimentary probability and statistics, but I will try to provide as many figures and examples to make it clean and simple.
+Any other variation that only uses 2 rows but does not follow the 3 abstract sample as shown above are likely to be inefficient. Explanation requires some rudimentary probability and statistics, but I will try to provide as many figures and examples to make it clean and simple.
 
 So let's take 2 row formation variation that is not the one of the 3 as shown above.
 
 <img src="../uploads/browndust-2-row-formation-abstract-wrong-sample.jpg">
 
-Let's test this wrong 2 row formation variation with the other 3.
+Let's test this 'wrong' 2 row formation variation with the other 3.
 
 <img src="../uploads/browndust-2-row-formation-comparison-1.jpg">
 
 If the cell color is colored lightly blue it means it's a favorable for trade for <span style="color:blue">ally</span> and if it's colored lightly red it means it's a unfavorable trade for <span style="color:blue">ally</span>. As you can see when it's up against Traditional and Variation-2, it doesn't really present a problem. However, if you look at Variation-1, it's advantageous to the enemy because <span style="color:blue">ally defensive row</span> can't not fulfill its role.
 
-If you test anyone of traditional, variation-1, variation-2 against each other, all of the engagement is going to be even.
+If you test anyone of traditional, variation-1, variation-2 against each other, you'd find that in the end, the scores are even.
+
+The key part to understand in the 2 row formation variation is that the defensive row is always on top of the offensive row. If you don't know much about attack priority, it's going to be hard to understand. So, I suggest you to read the post I already uploaded that elaborates on attack priority :^).
 
 **This part includes some numbers, so if you don't like numbers you can skip**
 
@@ -120,7 +122,7 @@ So if you do any one of the traditional, variation-1, variation-2, then you have
 
 ## Chapter 4 : Why Traditional 2 Row Formation has the title 'Traditional'
 
-If may have wondered why out of 3 variations, one of them actually have a special name. The reason is simple : AOE. In Brown Dust there are unique AOE and the following AOE can be seen very frequently in arena.
+You may have wondered why out of 3 variations, one of them actually have a special name. The reason is simple : AOE. In Brown Dust there are unique AOE and the following AOE can be seen very frequently in arena.
 
 <img src="../uploads/browndust-2-row-formation-aoe.jpg">
 
@@ -133,3 +135,5 @@ It's possible to state that traditional 2 row formation is somewhat immune to th
 While the traditional, variation-1, variation-2 are the statistical advantageous 2 row formation variation, it doesn't mean it's always the right to use them. It's very important to note that arena is a PvP content. **For you to win you ONLY have to be 1 step ahead of opponent.**
 
 If it just so happens that out of 100 users, 99 users are using the traditional 2 row formation variation. Then using the 'Wrong Variation' that I have used as a sample that's not very good isn't actually a bad formation to use at that point in time.
+
+Ah, also I play on the KR server, so I might get some names of the units wrong... you can leave a comment or whatever to notify me if you see one.
