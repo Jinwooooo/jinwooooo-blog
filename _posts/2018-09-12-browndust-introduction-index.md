@@ -33,7 +33,7 @@ no post yet
 
 ## Intermediate
 
-* [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-the-board/)
+* [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-attack-priority/)
 
 ---
 
