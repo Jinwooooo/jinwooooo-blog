@@ -17,6 +17,7 @@ I play this mobile game called Brown Dust, a SRPG (Strategic Role Playing Game).
 If you are interested in my regular arena placements here are the particulars
 
 **Deck Type** Granhildr Support Variation Formation
+(Used to use 2 Row Formation Variation, but switched to Granhildr deck on July 2018)
 
 * August : Master I ~ Master III
 * September 1st week : Master II
@@ -32,10 +33,10 @@ no post yet
 
 ## Intermediate
 
-* (Brown Dust : Understanding Attack Priority)[https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-the-board/]
+* [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-the-board/)
 
 ---
 
 ## Advanced
 
-* (Brown Dust Arena Formation : 2 Row Variation)[https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/]
+* [Brown Dust Arena Formation : 2 Row Variation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)

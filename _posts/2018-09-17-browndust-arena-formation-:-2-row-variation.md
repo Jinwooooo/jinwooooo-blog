@@ -130,6 +130,6 @@ It's possible to state that traditional 2 row formation is somewhat immune to th
 
 ## Final Thoughts
 
-While the traditional, variation-1, variation-2 are the statistical advantageous 2 row formation variation, it doesn't mean it's always the right to use them. It's very important to note that arena is a PvP content. **For you to win you have to be 1 step ahead of opponent.**
+While the traditional, variation-1, variation-2 are the statistical advantageous 2 row formation variation, it doesn't mean it's always the right to use them. It's very important to note that arena is a PvP content. **For you to win you ONLY have to be 1 step ahead of opponent.**
 
-If it just so happens that out of 100 users, 99 users are using the traditional 2 row formation variation. Then using the 'Wrong Variation' that I have used isn't actually a bad formation to use at that point in time.
+If it just so happens that out of 100 users, 99 users are using the traditional 2 row formation variation. Then using the 'Wrong Variation' that I have used as a sample that's not very good isn't actually a bad formation to use at that point in time.
