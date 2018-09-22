@@ -32,8 +32,9 @@ The most popular units used for Defensive Row are as follows:
 2. **Arkan** Above average sandbag.
 3. **Lilian** Conditional sandbag. (highly likely to be very effective)
 4. **Aron** One of the most reliable damage reflector w/ or w/o taunt.
-5. **Seir** Reliable taunt unit with conditional damage reflection.
-6. **Caylen** New unit, need more data and experience to evaluate, but she's gaining popularity.
+5. **Caylen** New unit, need more data and experience to evaluate, but she's gaining popularity.
+6. **Seir** Reliable taunt unit with conditional damage reflection.
+
 
 **Offensive Row**
 
