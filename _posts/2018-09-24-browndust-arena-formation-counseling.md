@@ -20,11 +20,13 @@ This is a **beta mode**, so there might be abrupt changes '^'.
 On the comment, you need to give me the following:
 
 * **(MUST)** Your current arena formation
+
 e.g.
 <img src="../uploads/browndust-arena-counseling-sample-1.jpg">
 
 
 * **(MUST)** Your top 6 rows of of units (arranged by default ordering)
+
 e.g. (I photoshopped, but you don't have to, you can just insert 3 images)
 <img src="../uploads/browndust-arena-counseling-sample-2.jpg">
 

@@ -86,7 +86,7 @@ There's a reason for the placement of offensive and defensive row. It will be el
 
 <img src="../uploads/browndust-2-row-formation-sample-1.jpg">
 
-If you can see from this example, all the top tier defensive and support units that I listd above are used. This deck will likely start with Ceres → Benaca → Eliza.
+If you can see from this example, all the top tier defensive and support units that I listed above are used. This deck is likely start with Ceres → Benaca → Eliza.
 
 ---
 
@@ -106,7 +106,7 @@ Let's test this 'wrong' 2 row formation variation with the other 3.
 
 <img src="../uploads/browndust-2-row-formation-comparison-1.jpg">
 
-If the cell color is colored lightly blue it means it's a favorable for trade for <span style="color:blue">ally</span> and if it's colored lightly red it means it's a unfavorable trade for <span style="color:blue">ally</span>. As you can see when it's up against Traditional and Variation-2, it doesn't really present a problem. However, if you look at Variation-1, it's advantageous to the enemy because <span style="color:blue">ally defensive row</span> can't not fulfill its role.
+If the cell color is colored lightly blue it means it's a favorable for trade for <span style="color:blue">ally</span> and if it's colored lightly red it means it's a favorable trade for <span style="color:red">enemy</span>. As you can see when it's up against Traditional and Variation-2, it doesn't really present a problem. However, if you look at Variation-1, it's advantageous to the enemy because <span style="color:blue">ally defensive row</span> cannot fulfill its role.
 
 If you test anyone of traditional, variation-1, variation-2 against each other, you'd find that in the end, the scores are even.
 
