@@ -17,7 +17,7 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ## Prerequisite & Abstract
 
-If you aren't familiar with (2 Row Variation Formation)[https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/], I suggest you go read it first, because this formation is an extension.
+If you aren't familiar with [2 Row Variation Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/), I suggest you go read it first, because this formation is an extension.
 
 If you are familiar, the variation-1 and variation-2 has a weakness for AOE. This is why the 3 row formation started in KR server. It allows for the offensive row to be placed in the middle and lower row, but is less impacted by the AOE. KR server users call it **3 Row Power Formation**. The concept is very similar to 2 row variations.
 
