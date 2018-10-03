@@ -40,3 +40,5 @@ no post yet
 ## Advanced
 
 * [Brown Dust Arena Formation : 2 Row Variation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
+
+* [Brown Dust Arena Formation : 2 Row Variation Extension (3 Row Power Formation)](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)
