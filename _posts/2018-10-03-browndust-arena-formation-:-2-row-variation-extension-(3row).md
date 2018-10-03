@@ -17,9 +17,9 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ## Prerequisite & Abstract
 
-If you aren't familiar with (2 Row Variation Formation)[(https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)], I suggest you go read it first, because this formation is an extension.
+If you aren't familiar with (2 Row Variation Formation)[https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/], I suggest you go read it first, because this formation is an extension.
 
-If you are familiar, the variation-1 and variation-2 has a weakness for AOE. This is why the 3 row formation is very popular in KR server right now. It allows for the offensive row to be placed in the middle and lower row, but is less impacted by the AOE. We call it **3 Row Power Formation**. The concept is very similar to 2 row variations.
+If you are familiar, the variation-1 and variation-2 has a weakness for AOE. This is why the 3 row formation started in KR server. It allows for the offensive row to be placed in the middle and lower row, but is less impacted by the AOE. KR server users call it **3 Row Power Formation**. The concept is very similar to 2 row variations.
 
 ---
 
@@ -38,13 +38,13 @@ Here is a abstract depiction
 
 <img src="../uploads/browndust-3-row-power-formation-abstract-sample.jpg">
 
-If you fully understood why 2 row variation formations must have defensive row on top of offensive row, you will probably have understood it here as well. **If you go against a enemy who has an offensive row that is one row above your offensive row, you NEED a sandbag!**
+If you fully understood why 2 row variation formations must have defensive row on top of the offensive row, you will probably have understood it here as well. <span style="color:red">**If you go against an enemy who has an offensive row that is one row above your offensive row, you NEED a sandbag!**</span>
 
-In terms of order, you won't be startig with taunt, taunt should go last to avoid the large AOE from mages.
+Also important : **In terms of order, taunt should go last to avoid the large AOE from mages.**
 
 ---
 
-## Chapter 2 : Units Appropriate for Taunt Row
+## Chapter 2 : Taunt Row Units
 
 You usually have total of 1 unit on the taunt row (sometimes 1 support unit is placed in this row as well). It's also important that this taunt unit is very efficient on itself. In KR there are usually 2 units that are very suitable for the role.
 
@@ -52,13 +52,13 @@ You usually have total of 1 unit on the taunt row (sometimes 1 support unit is p
 
 1. **Aron** His damage reflect is a permanent skill
 2. **Seir** She's very tanky, has immunity before attack, also has a dmg/curse skill that's permanently on
-S. **Zakan** He's not very good, due to very short taunt... but he's probably the only ★4 unit that's good in this position
+3. **(S) Zakan** He's not very good, due to very short taunt... but he's probably the only ★4 unit that's good in this position
 
-These are units that will probably do well without considering current meta, enemy's unit, and enemy's formation. You should be using units that are suitable to the current meta.
+These are units that will probably do well regardless of the meta (except in meta where first unit to launch attack is viola). For better performance, you should be using units that are suitable to the current meta.
 
 ---
 
-## Chapter 3 : Units Appropriate for Defensive Row
+## Chapter 3 : Defensive Row Units
 
 The list is pretty much the same from the 2 row variation formation.
 
@@ -68,10 +68,13 @@ The list is pretty much the same from the 2 row variation formation.
 2. **Arkan** Lucius is a hard unit to get, so users w/o Lucius can use him instead
 3. **Lilian** She's one of the reason why this formation started to get popular as well. She can easily reach 100% armor when her skill level is +3. Also if she is attacked multiple times before she attacks, she's can deal surprising aoe damage.
 
-In KR server, there's a popular saying **front Lucius back Lilian an abhorring combination**. Because there is only 1 unit that has a armor piercing attack that attack that jumps (Seto, who is ***surprise surprise*** is also a legendary units like Lucius and 6 Devils...), you can pretty much say she's almost invincible.
+In KR server, there's a popular saying <span style="color:red">**front Lucius back Lilian : an abhorring combination**</span>. Because there is only 1 unit that has a armor piercing attack that attack that jumps (Seto, who is ***surprise surprise*** also a legendary units like Lucius and 6 Devils...), you can pretty much say she's almost invincible.
 
 ---
 
+No chapter for Offensive Row just like 2 row variation formation, making a list for offensive units would be too long and pointless.
+
+---
 ## Chapter 4 : Examples
 
 These are random Grandmaster users in KR Server who uses the 3 Row Power Formation.
@@ -82,16 +85,16 @@ This one is the offensive row that is placed in the lower row. The starting orde
 
 <img src="../uploads/browndust-3-row-power-formation-sample-2.jpg">
 
-2 Support units for maximum wreckage. The starting order should be Michaela → Nartas → Alec
+2 Support units for maximum wreckage. The starting order should be Michaela → Nartas → Alec.
 
 <img src="../uploads/browndust-3-row-power-formation-sample-3.jpg">
 
-Offensive row placed in the middle row. The starting order is Ceres → Mary → Hanya. Hanya is a upgraded version of Eunrang (he hits from the back, but he hits total of 3 while Eunrang only hits 2).
+Offensive row placed in the middle row. The starting order is Ceres → Mary → Hanya. Hanya is a upgraded version of Eunrang (he hits from the back, but he hits total of 3 cells while Eunrang only hits 2 cells).
 
 ---
 
 ## Final Thoughts
 
-While it was popular for the last few weeks, it's slightly losing popularity due to the increase of Granhildr's Support Variation Formation users in the Grandmaster tier. This formation has a very high winrate when it goes first, but a a very low winrate when it goes second.
+While it was popular for the last few weeks, it's slightly losing popularity due to the increase of Granhildr's Support Variation Formation users in the grandmaster tier. This formation has a very high winrate when it goes first, but a very low winrate when it goes second.
 
-If you like going super ham, this formation is recommended (you can also see in high tier who uses the Alec - Angelica - Nartas set likes to go this formation).
+If you like going super ham, this formation is recommended (you can also see in high tier who uses the Alec - Angelica - Nartas set likes to use this formation).
