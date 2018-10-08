@@ -20,8 +20,8 @@ If you are interested in my regular arena placements here are the particulars
 (Used to use 2 Row Formation Variation, but switched to Granhildr deck on July 2018)
 
 * August : Master I ~ Master III
-* September 1st week : Master II
-* September 2nd week : Master II
+* September : Master II ~ Grandmaster III
+* October 1st week : Master III
 
 ---
 
