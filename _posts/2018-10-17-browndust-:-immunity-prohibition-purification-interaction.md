@@ -60,7 +60,7 @@ I don't think further explanations are required here.
 
 ## Analogy
 
-Perhaps an analogy might help.
+Perhaps an analogy might help. body = unit, clothes = positive buffs, harmful effect on body = negative buffs.
 
 * **Getting an positive buff (e.g. stat enhancement, damage reduction, etc)** is like putting clothes on. Removing positive buff (i.e. nullifier) is like removing the clothes.
 
@@ -74,24 +74,41 @@ Perhaps an analogy might help.
 
 ## Examples
 
-**1. Simple Scenario (Arines + Aie vs Angelica / Frederica)**
+I'm going to simplify for simple scenarios
+* **Arines** 1 positive buff (ATK Boost Bestowal)
+* **Angelica** 1 prohibition (Buff Prohibition)
+* **Frederica** 1 nullifier (Nullifier)
+
+**1. Simple Scenario (Arines + Aie vs Angelica)**
 
 Arines gives ATK Boost Bestowal to Aie before enemy attacks.
 
-* Angelica hits Aie : Aie gets Buff Prohibition effect, but the ATK Boost Bestowal still effective on Aie.
-* Frederica hits Aie : With or without Buff Prohibition on Aie, Frederica's Nullifier will strip ATK Boost Bestowal from Aie.
+* **Arines** gives ATK Boost Bestowal
+* **Angelica** Aie gets Buff Prohibition effect, but the ATK Boost Bestowal still effective on Aie.
 
 Arines gives ATK Boost Bestowal to Aie after enemy attacks.
 
-* Angelica hits Aie : Aie is under Buff Prohibition effect before the ATK Boost Bestowal, so Aie receives no buffs from Arines
-* Frederica hits Aie : Assume that Aie is not under Buff Prohibition effect and Frederica hits. Since Aie has no buffs to be removed, so Aie just receives damage from Frederica. There is no Buff Prohibition effect on Aie, so Arines is able to give ATK Boost Bestowal to Aie.
+* **Angelica** Aie gets Buff Prohibition effect
+* **Arines** Aie is under Buff Prohibition effect before the ATK Boost Bestowal, so Aie cannot receive ATK Boost Bestowal from Arines.
 
+**2. Simple Scenario (Arines + Aie vs Frederica)**
 
-**2. Complex Scenario (Refithea + Seir vs Viola)**
+Arines gives ATK Boost Bestowal to Aie before enemy attacks.
 
+* **Arines** gives ATK Boost Bestowal
+* **Frederica** Frederica's Nullifier will strip ATK Boost Bestowal from Aie.
+
+Arines gives ATK Boost Bestowal to Aie after enemy attacks.
+
+* **Frederica** Since Aie has no buffs to be removed, so Aie just receives damage from Frederica.
+* **Arines** is able to give ATK Boost Bestowal to Aie.
+
+Time for a complex one!
 * **Refithea** has 3 positive buffs (Glutti + Barrier + Crit Rate) and 1 removal (Purification).
 * **Seir** has PERM Death Infliction Counter + Debuff Immunity (activates before attack) + PERM Masochism + Taunt.
 * **Viola** has 2 negative buffs (Silence + Curse), 1 DoT (Decomposition) and 1 prohibition (Buff Prohibition)
+
+**3. Complex Scenario (Refithea + Seir vs Viola)**
 
 Refithea gives support to Seir and Seir attacks before Viola attacks.
 
