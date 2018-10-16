@@ -33,8 +33,9 @@ no post yet
 ---
 
 ## Intermediate
-
+ 
 * [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-attack-priority/)
+* [Brown Dust : Immunity, Prohibition, Purification Interaction](https://jinwooooo.github.io/jinwooooo-blog/browndust-immunity-prohibition-purification-interaction/)
 
 ---
 

@@ -16,9 +16,9 @@ Most of my posts aren't going to actually introduce Brown Dust. You will have to
 
 ## Introduction
 
-Many users in KR who are quite new to this game gets surprised with specific interactions in game because they sound like it's supposed to work like X, but it actually works like Y.
+Many users who are quite new to this game gets surprised with specific interactions in game because they sound like it's supposed to work like X, but it actually works like Y.
 
-Lets first start with getting to know what Immunity, Prohibition, and Purficiation are and while on the way explain how they interact. I will finish off by giving an analogy in the hopes of giving a more easier depiction of the interaction and specific examples to clarify.
+Lets first start with getting to know what Immunity, Prohibition, and Purification are. While on the way I will briefly explain how they interact. Because an plain explanation may still leave some users confused, I will finish off by giving an analogy in the hopes of giving a more easier depiction of the interaction and specific examples to clarify.
 
 ---
 
