@@ -13,7 +13,7 @@ categories:
 
 ## Abstract
 
-Hadoop has a Traditional Combiner which **writes** it's Iterables to memory. In-Mapper is basically moving parts of this **writes** to local aggregation, which optimizes the running time since it has <span style="color:orange">less write</span>. However, due to states being perserved within the mapper (local), it causes large memory overhead. To put it simply you may think that In-Mapper Combiner takes up <span style="color:blue">more space</span>, but in return takes <span style="color:red">less time</span>.
+Hadoop has a Traditional Combiner which **writes** it's Iterables to memory. In-Mapper is basically moving parts of this **writes** to local aggregation, which optimizes the running time since it has <span style="color:orange">less write</span>. However, due to states being perserved within the mapper (local), it causes large memory overhead. To put it simply you may think that In-Mapper Combiner takes up <span style="color:red">more space</span>, but in return takes <span style="color:blue">less time</span>.
 
 Most likely programmers will have to tweak parts of other parts of the MapReduce process, but in this example it is a simple Word Length Count, so it's not required here.
 
@@ -144,4 +144,4 @@ The In-Mapper Combiner process was
 
 47 seconds and 29 seconds. Quite an improvement eh?
 
-However, I'd like to re-highlight the part that local aggregation **will use more memory overhead**. I mean I'm pretty sure if you have coded before there's a balance between space and time. When one is improving the other one is probably diminishing. It's not a strict 1:1 trade, so if given infinite values for both, you can do whatever that suits your needs, but in real life, you will have limitation and importance that you will have to balance to get it just right ;).
+However, I'd like to re-highlight the part that local aggregation <span style="color:red">**will use more memory overhead**</span>. I mean I'm pretty sure if you have coded before there's a balance between space and time. When one is improving the other one is probably diminishing. It's not a strict 1:1 trade, so if given infinite values for both, you can do whatever that suits your needs, but in real life, you will have limitation and importance that you will have to balance to get it just right ;).
