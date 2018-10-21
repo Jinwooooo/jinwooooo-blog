@@ -107,6 +107,7 @@ public static class Map extends Mapper<Object, Text, Text, IntWritable> {
         }
     }
 }
+{% endhighlight %}
 
 As you can see HashMap is used to do local aggregation. After the local aggregation is finished, the cleanup method will go through the HashMap with Iterator to flush out the accumulated results. As I mentioned there is type overriding in some places due to the same reason I have stated previously.
 
