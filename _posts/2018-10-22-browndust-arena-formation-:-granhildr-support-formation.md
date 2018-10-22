@@ -2,7 +2,7 @@
 layout: post
 title:  "Brown Dust Arena Formation : Granhildr Support Formation"
 image: ''
-date:   2018-10-22 00:12:00
+date:   2018-10-22 00:01:00
 tags:
 - Brown Dust (Advanced)
 - Arena Formation
