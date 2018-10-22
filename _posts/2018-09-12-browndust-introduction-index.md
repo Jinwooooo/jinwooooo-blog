@@ -23,6 +23,7 @@ If you are interested in my regular arena placements here are the particulars
 * September : Master II ~ Grandmaster III
 * October 1st week : Master III
 * October 2nd week : Grandmaster III
+* October 3rd week : Grandmaster III
 
 ---
 
@@ -33,7 +34,7 @@ no post yet
 ---
 
 ## Intermediate
- 
+
 * [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-attack-priority/)
 * [Brown Dust : Immunity, Prohibition, Purification Interaction](https://jinwooooo.github.io/jinwooooo-blog/browndust-immunity-prohibition-purification-interaction/)
 
@@ -43,4 +44,6 @@ no post yet
 
 * [Brown Dust Arena Formation : 2 Row Variation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
 
-* [Brown Dust Arena Formation : 2 Row Variation Extension (3 Row Power Formation)](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)
+* [Brown Dust Arena Formation : 3 Row Power Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)
+
+* [Brown Dust Arena Formation : Granhildr Support Formation](https://jinwooooo.github.io/jinwooooo-blog/)
