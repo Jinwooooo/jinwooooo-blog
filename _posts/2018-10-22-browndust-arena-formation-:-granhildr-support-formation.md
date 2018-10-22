@@ -69,7 +69,7 @@ I'd suggest investing into +10 Refithea first. A +10 Refithea can be used anywhe
 
 <span style="color:blue">Say the answer was no and AC was invested into Granhildr.</span> The moment you hit +6 on Granhildr you will want to give around 3 offensive and defensive buff <span style="color:red">(MUST have at least 1 Healing Support)</span> to Granhildr and refresh the buff with Elijah. I call this strategy **Granhildr Shredder**.
 
-Basically what happens is that Granhildr with Titan's x, you have a chance of killing 1~2 units (any unit that has weak defensive ability will die). After that because enemy can't kill Granhildr with reflect + glutty on, so enemy dps unit will die from attacking Granhildr, but leaving perhaps a bit of scratch on Granhildr.
+Basically what happens is that Granhildr with Titan's Strike, you have a chance of killing 1~2 units (any unit that has weak defensive ability will die). After that because enemy can't kill Granhildr with reflect + glutty on, so enemy dps unit will die from attacking Granhildr, but leaving perhaps a bit of scratch on Granhildr.
 
 Just an example what **Granhildr Shredder** would look like (it doesn't have to be exactly like this, there are many ways you can make this work).
 
