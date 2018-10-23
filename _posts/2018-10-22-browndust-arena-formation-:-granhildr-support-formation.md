@@ -48,8 +48,8 @@ Let's look at each unit's skills more carefully.
 
 * **+0 ~ +2** Improvement in Damage Reflect. It's quite good for Granhildr because she lacks damage reflect.
 * **+3 ~ +5** Improvement in Crit Rate. Reflect can crit, so pretty much improving damage reflect.
-* <span style="color:green">**+6 ~ +8** This is where Refithea becomes really good. Her Glutty Bestowal now as a simlar effect to Masochism where she the unit under Glutty effect heal when they are hit. (Note that unlike Masochism, they heal AFTER the auto attack). Moreover, the heal can crit, so her Improvement in Crit Rate actually is now has more value than previously.</span>
-* **+9** Increase the buff by 2 turns. This is quite good for GSF because of the number of supports that are used with GSF, they eat up a lot of turns and this gives more flexibility.</spa>
+* <span style="color:green">**+6 ~ +8** This is where Refithea becomes really good. Her Glutty Bestowal now as a similar effect to Masochism where the unit under Glutty effect heal when they are hit. (Note that unlike Masochism, they heal AFTER the auto attack). Moreover, the heal can crit, so her Improvement in Crit Rate actually now has more value than previously.</span>
+* **+9** Increase the buff by 2 turns. This is quite good for GSF because of the number of supports that are used with GSF, they eat up a lot of turns and this gives more flexibility.
 * <span style="color:blue">**+10** This is when Refithea becomes the God of supports. She gives huge dps, survivability, and utility.</span>
 
 **Celia**
