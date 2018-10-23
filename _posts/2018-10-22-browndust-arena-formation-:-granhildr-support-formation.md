@@ -50,7 +50,7 @@ Let's look at each unit's skills more carefully.
 * **+3 ~ +5** Improvement in Crit Rate. Reflect can crit, so pretty much improving damage reflect.
 * <span style="color:green">**+6 ~ +8** This is where Refithea becomes really good. Her Glutty Bestowal now as a simlar effect to Masochism where she the unit under Glutty effect heal when they are hit. (Note that unlike Masochism, they heal AFTER the auto attack). Moreover, the heal can crit, so her Improvement in Crit Rate actually is now has more value than previously.</span>
 * **+9** Increase the buff by 2 turns. This is quite good for GSF because of the number of supports that are used with GSF, they eat up a lot of turns and this gives more flexibility.</spa>
-* **+10** <span style="color:blue">This is when Refithea becomes the God of supports. She gives huge dps, survivability, and utility.</span>
+* <span style="color:blue">**+10** This is when Refithea becomes the God of supports. She gives huge dps, survivability, and utility.</span>
 
 **Celia**
 
@@ -81,9 +81,17 @@ You have to consider a case where Granhildr dies on the first turn (e.g. enemy's
 
 If you noticed, the example I have shown previously kind of uses the theory I have just elaborated on. You can see that Veronia's dps buff goes on to Celia if Granhildr was taken out on Round 1.
 
-### What formations and combinations do I do when I'm in the middle?
+### What formations / stratgies do I use while I invest in my Traitorous Trinity?
 
-This is the part I can't help you out with. This is very specific to the meta and the units that are available.
+This is the part I can't help you out very well, this is very specific to the user's available unit and meta. However, I will try to make a small list of strategies you could use.
+
+**All Traitorous Trinity Skill Level Lower than 3**
+
+* **Pushing Turn Strategy** First start with a taunt (can be anything, John+Celia, Zakan, Seir, etc). Enemy units will likely have distributed all of their buffs on their first turn. Next you use up 3~4 turns before activating Granhildr. Since usually most other formations use 3 or more offensive unit, it's highly likely the 3rd and after unit that attacks will have no offensive buff so that it's no threat to Granhildr.
+
+* **Mage Holocaust Strategy** At this strategy, Granhildr is just used as a taunt tank pretty much. If she is likely to die in 1 hit, you have to use 3 taunts. If Granhildr is able to take more hits than 1, 2 taunt may work (depends on who the other taunt unit is). Other than these 3 taunts, other 3 units should be either 3 mage or 2 mage + 1 offensive unit. All you are hoping is for the round to go to 2 and all your mage will eradicate important pieces of the enemy formation or completely wipe out the enemy. If possible you should try to incorporate Pushing Turn Strategy here (1st taunt → support → support → mage → support/taunt → ...)
+
+* **Granhildr Dynasty** This requires a really good healer, so if there isn't any good healers available, this strategy is a bust. Basically, you want to attack with offensive units first to get rid of threats and then activate Granhildr at the last turn when they are weak. If you either manage to kill most of the enemy's support or offensive units, this strategy has a high winrate. However, there are many scenarios where this doesn't work very well, so this strategy is very hard to use.
 
 ### Are there other variations?
 
