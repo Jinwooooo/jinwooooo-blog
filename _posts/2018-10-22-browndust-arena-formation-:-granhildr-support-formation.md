@@ -17,7 +17,7 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ## Abstract
 
-GSF (Granhildr Support Formation) has been able to stay in meta from almost beginning of Brown Dust and is still one of the most popular and powerful formation currently. GSF can be said to be efficient because it is able to adapt to different meta. However, GSF also requires to adjust to the meta by tweaking part of the formation and units.
+GSF (Granhildr Support Formation) has been able to stay in meta from almost beginning of Brown Dust and is still one of the most popular and powerful formation currently. GSF can be said to be efficient because it is able to adapt to different meta. (note that GSF also requires to adjust to the meta by tweaking formation and substituting units)
 
 Due to dependency of meta, I will not be able to give out solid examples and formations like the other formations I have posted about (in KR official cafe, I posted about GSF a month ago and is already starting to become outdated). I am going to introduce key units in GSF and talk about the theory behind how GSF works.
 
@@ -29,7 +29,7 @@ The most primary units that are focused in GSF are the **Traitorous Trinity** se
 
 <img src="../uploads/browndust-granhildr-support-formation-traitorous-trinity.jpg">
 
-It's very important to note that the unit who gets the spotlight changes depending on the meta. For example, when there weren't many units that could actually safely kill Granhildr, the spotlight naturally went to Granhildr. But, when meta shifted and Granhildr started dying in the 1st round, the spotlight went to Celia.
+It's very important to note that the unit who gets the spotlight changes depending on the meta. For example, when there weren't many units that could efficiently kill Granhildr, the spotlight naturally went to Granhildr (what I mean by "efficiently kill" means that the unit is able to perform decently when it goes against other formtions). But, when meta shifted and Granhildr started dying in the 1st round, the spotlight went to Celia.
 
 Let's look at each unit's skills more carefully.
 
@@ -39,7 +39,7 @@ Let's look at each unit's skills more carefully.
 
 * **+0 ~ +2** Improvement in Barrier. It's not bad, but there's a upper bound for barriers, so it's not much of an improvement
 * **+3 ~ +5** Now has reflect damage on Debuff Reflection. The numbers aren't so high, so I wouldn't expect too much from here either
-* **+6 ~ +8** This is the pinnacle of Granhildr. With set hp buff and decent % hp runes, she will hit like a truck if you give enough buffs on her. This is the moment where Granhildr is able to become a dps tank (like fighter/brawler type) instead of just taunt tank with ok reflection.
+* <span style="color:blue">**+6 ~ +8** This is the pinnacle of Granhildr. With set hp buff and decent % hp runes, she will hit like a truck if you give enough buffs on her. This is the moment where Granhildr is able to become a dps tank (like fighter/brawler type) instead of just taunt tank with ok reflection.</span>
 * **+9 ~ +10** I wouldn't recommend investing AC here. In terms of functionality, nothing changes.
 
 **Refithea**
@@ -48,9 +48,9 @@ Let's look at each unit's skills more carefully.
 
 * **+0 ~ +2** Improvement in Damage Reflect. It's quite good for Granhildr because she lacks damage reflect.
 * **+3 ~ +5** Improvement in Crit Rate. Reflect can crit, so pretty much improving damage reflect.
-* **+6 ~ +8** This is where Refithea becomes really good. Her Glutty Bestowal now as a simlar effect to Masochism where she the unit under Glutty effect heal when they are hit. (Note that unlike Masochism, they heal AFTER the auto attack). Moreover, the heal can crit, so her Improvement in Crit Rate actually is now has more value than previously.
-* **+9** Increase the buff by 2 turns. This is quite good for GSF because of the number of supports that are used with GSF, they eat up a lot of turns and this gives more flexibility.
-* **+10** This is when Refithea becomes the God of supports. She gives huge dps, survivability, and utility.
+* <span style="color:green">**+6 ~ +8** This is where Refithea becomes really good. Her Glutty Bestowal now as a simlar effect to Masochism where she the unit under Glutty effect heal when they are hit. (Note that unlike Masochism, they heal AFTER the auto attack). Moreover, the heal can crit, so her Improvement in Crit Rate actually is now has more value than previously.</span>
+* **+9** Increase the buff by 2 turns. This is quite good for GSF because of the number of supports that are used with GSF, they eat up a lot of turns and this gives more flexibility.</spa>
+* **+10** <span style="color:blue">This is when Refithea becomes the God of supports. She gives huge dps, survivability, and utility.</span>
 
 **Celia**
 
@@ -98,6 +98,12 @@ What I have discussed earlier on what to invest is probably the most safest way 
 <img src="../uploads/browndust-granhildr-support-formation-dynamic-support.jpg">
 
 I think these units are substitutable depending on the current meta. **Elijah especially**. <span style="color:blue">Recently Mary has been replaced quite heavily by Benaca in KR Server</span>, so I suppose Mary isn't as good as the other two.
+
+### What about Offensive Units and other Support Units?
+
+<span style="color:red">They are like interchangeable parts in GSF</span>. Think of Granhildr, Refithea, and Celia are engine of a car. Other units are tires, body parts, suspension, etc. For example, Floria was a key part of GSF from June ~ August in KR Server, but now it's very hard to see GSF with Floria. That defensive support role is now taken by Themis. There is no point of giving recommendation of these interchangeable units because within few months they are highly likely to be obsolete.
+
+Sorry if you were looking for a list of units which are good for GSF. I just don't see the point of taking time to make them and see them become completely outdated before 2019.
 
 ---
 
