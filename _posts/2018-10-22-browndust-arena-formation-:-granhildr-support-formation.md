@@ -83,7 +83,7 @@ If you noticed, the example I have shown previously kind of uses the theory I ha
 
 ### What formations / stratgies do I use while I invest in my Traitorous Trinity?
 
-This is the part I can't help you out very well, this is very specific to the user's available unit and meta. However, I will try to make a small list of strategies you could use.
+This is the part I can't help you out very well, this is very specific to the user's available unit and meta. However, I made a small list of general strategies you could use.
 
 **All Traitorous Trinity Skill Level Lower than 3**
 
@@ -91,7 +91,7 @@ This is the part I can't help you out very well, this is very specific to the us
 
 * **Mage Holocaust Strategy** For this strategy, Granhildr is just used as a taunt tank pretty much. If she is likely to die in 1 hit, you have to use 3 taunts. If Granhildr is able to take more hits than 1, 2 taunt may work (depends on who the other taunt unit is). Other than these 2~3 taunts, other 3 units should be either 3 mage or 2 mage + 1 offensive unit. All you are hoping is for the round to go to 2 so that all your mages can unleash hell. If possible you should try to incorporate Pushing Turn Strategy here (1st taunt → support → support → mage → support/taunt → ...)
 
-* **Granhildr Dynasty** This requires a really good healer, so if there isn't any good healers available, this strategy is a bust. Basically, you want to attack with offensive units first to get rid of threats and then activate Granhildr at the last turn when they are weak. If you manage to kill most of the enemy's support or offensive units, this strategy has a high winrate. However, there are many scenarios where Granhildr or the healer dies before they get the chance to activate, so this strategy is very hard to use.
+* **Granhildr Dynasty Strategy** This requires a really good healer, so if there isn't any good healers available, this strategy is a bust. Basically, you want to attack with offensive units first to get rid of threats and then activate Granhildr at the last turn when they are weak. If you manage to kill most of the enemy's support or offensive units, this strategy has a high winrate. However, there are many scenarios where Granhildr or the healer dies before they get the chance to activate, so this strategy is very hard to use.
 
 ### Are there other variations?
 
