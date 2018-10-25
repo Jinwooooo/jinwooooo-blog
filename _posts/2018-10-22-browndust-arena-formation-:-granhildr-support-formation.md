@@ -87,7 +87,7 @@ This is the part I can't help you out very well, this is very specific to the us
 
 **All Traitorous Trinity Skill Level Lower than 3**
 
-* **Pushing Turn Strategy** First start with a taunt that is not Granhildr (can be anything, John+Celia, Zakan, Seir, etc). Enemy units will likely have distributed all of their buffs on their first turn. Next you use up 3~4 turns before activating Granhildr. Usually most other formations use 3 or more offensive unit, it's highly likely the 3rd and after unit that attacks will have no offensive buff so that it has minimal threat to Granhildr.
+* **Pushing Turn Strategy** First start with a taunt that is not Granhildr (can be anything, John+Cecilia, Zakan, Seir, etc). Enemy units will likely have distributed all of their buffs on their first turn. Next you use up 3~4 turns before activating Granhildr. Usually most other formations use 3 or more offensive unit, it's highly likely the 3rd and after unit that attacks will have no offensive buff so that it has minimal threat to Granhildr.
 
 * **Mage Holocaust Strategy** For this strategy, Granhildr is just used as a taunt tank pretty much. If she is likely to die in 1 hit, you have to use 3 taunts. If Granhildr is able to take more hits than 1, 2 taunt may work (depends on who the other taunt unit is). Other than these 2~3 taunts, other 3 units should be either 3 mage or 2 mage + 1 offensive unit. All you are hoping is for the round to go to 2 so that all your mages can unleash hell. If possible you should try to incorporate Pushing Turn Strategy here (1st taunt → support → support → mage → support/taunt → ...)
 
@@ -109,7 +109,7 @@ I think these units are substitutable depending on the current meta. **Elijah es
 
 ### What about Offensive Units and other Support Units?
 
-<span style="color:red">They are like interchangeable parts in GSF</span>. Think of Granhildr, Refithea, and Celia are engine of a car. Other units are tires, body parts, suspension, etc. For example, Floria was a key part of GSF from June ~ August in KR Server, but now it's very hard to see GSF with Floria. That defensive support role is now taken by Themis. There is no point of giving recommendation of these interchangeable units because within few months they are highly likely to be obsolete.
+<span style="color:red">They are like interchangeable parts in GSF</span>. Think of Granhildr, Refithea, and Celia as an engine of a car. Other units are tires, body parts, suspension, etc. For example, Floria was a key part of GSF from June ~ August in KR Server, but now it's very hard to see GSF with Floria. That defensive support role is now taken by Themis. There is no point of giving recommendation of these interchangeable units because within few months they are highly likely to be obsolete.
 
 Sorry if you were looking for a list of units which are good for GSF. I just don't see the point of taking time to make them and see them become completely outdated before 2019.
 
