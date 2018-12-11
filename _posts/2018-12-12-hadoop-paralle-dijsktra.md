@@ -14,7 +14,7 @@ categories:
 
 ## Abstract
 
-Hadoop is a distributive processing framework that allows large repetitive computation more efficient than a regular script programming languages like python or java. This post will go through how Dijsktra's SP algorithm was implemented in Hadoop.
+Hadoop is a distributive processing framework that allows large repetitive computation more efficient than a regular programming languages like python or java. This post will go through how Dijsktra's SP algorithm was implemented in Hadoop.
 
 Note that the environment that the program was executed is a fully distributed mode (1 namenode and 2 datanode in total).
 
@@ -26,7 +26,7 @@ For the full source code, visit [Github](https://github.com/Jinwooooo/dijsktra-h
 
 Let's first go through some of the assumptions.
 
-1. Input is in a format (node1, node2, weight)
+* Input is in a format (node1, node2, weight)
 
 {% highlight text %}
 1 2 7
@@ -41,7 +41,7 @@ this would be equivalent to
 
 <img src="../uploads/hadoop-dijkstra-sample-graph.png">
 
-2. in the code to start hadoop to process the SP: (args[0] = input file; args[1] = output dir; args[2] = rootID or sourceID; args[3] = max iteration (if 0, iterate until SP is all found from args[2]);)
+* in the code to start hadoop to process the SP: (args[0] = input file; args[1] = output dir; args[2] = rootID or sourceID; args[3] = max iteration (if 0, iterate until SP is all found from args[2]);)
 
 example would be : $[hadoop blah blah blah] input/simple-1.txt simple-1 1 0
 
