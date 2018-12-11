@@ -13,7 +13,7 @@ categories:
 
 ## Abstract
 
-Hadoop has a Traditional Combiner which **writes** it's Iterables to memory. In-Mapper is basically moving parts of this **writes** to local aggregation, which optimizes the running time since it has <span style="color:orange">less write</span>. However, due to states being perserved within the mapper (local), it causes large memory overhead. To put it simply you may think that In-Mapper Combiner takes up <span style="color:red">more space</span>, but in return takes <span style="color:blue">less time</span>.
+Hadoop has a Traditional Combiner which **writes** it's Iterables to memory. In-Mapper is basically moving parts of this **writes** to local aggregation, which optimizes the running time since it has <span style="color:orange">less write</span>. However, due to states being preserved within the mapper (local), it causes large memory overhead. To put it simply you may think that In-Mapper Combiner takes up <span style="color:red">more space</span>, but in return takes <span style="color:blue">less time</span>.
 
 Most likely programmers will have to tweak parts of other parts of the MapReduce process, but in this example it is a simple Word Length Count, so it's not required here.
 

@@ -22,9 +22,8 @@ If you are interested in my regular arena placements here are the particulars
 * August : Master I ~ Master III
 * September : Master II ~ Grandmaster III
 * October : Master III ~ Grandmaster III
-* November 1st Week : Grandmaster II
-* November 2nd Week : Grandmaster III
-* November 3rd Week : Master I
+* November : Master I ~ Grandmaster II
+* December 1st Week : Master I
 
 ---
 
