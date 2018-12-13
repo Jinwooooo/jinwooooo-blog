@@ -6,7 +6,7 @@ date:   2018-12-14 00:12:00
 tags:
 - Brown Dust (Advanced)
 - Arena Formation
-description: 'A new type of formation created solely due to a Reckless (defensive taunt unit)'
+description: 'A new type of formation created solely due to Reckless (defensive taunt unit)'
 categories:
 - Brown Dust (Arena Formation)
 ---
@@ -99,11 +99,11 @@ It is also important to note that units here do not need **Stat Reducing Effect 
 
 Utilizes Rafina for the first attack. Since most dps units are usually placed on the top row, it placed the suicide boys up on top. The main weakness for this formation is that it has no taunt to save the dps row if it is unluckily targeted.
 
-I also want to point out that if the first unit that launch attack has AOE same as Gunthur or Rafina, it is advantageous to place the dps row in middle to fully utilize their AOE. However, as I always mention, you only have to be 1 step ahead of the others, so if your current tier places many dummy rows on middle and bottom row, modifying the formation should result in better results.
+I also want to point out that if the first unit that launches attack has AOE same as Gunthur or Rafina, it is advantageous to place the dps row in middle to fully utilize their AOE. However, as I always mention, you only have to be 1 step ahead of the others, so if your current tier places many dummy rows on middle and bottom row, modifying the formation should be considered.
 
 <img src="../uploads/browndust-6-turn-push-formation-example-3.jpg">
 
-This formation is almost the same as the example above, but it uses Wulya instead of Beneca. It gives more safety for unlucky cases, but it sacrificed durability (heal from Beneca and the fact Beneca main dps buff lasts 35 turns).
+This formation is almost the same as the example above, but it uses Wulya instead of Beneca. It gives more safety for unlucky cases, but sacrificed durability (heal from Beneca and the fact Beneca main dps buff lasts 35 turns).
 
 ---
 
