@@ -43,7 +43,7 @@ no post yet
 
 ## Advanced
 
-* [Brown Dust Arena Formation : 2 Row Variation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
+* [Brown Dust Arena Formation : 2 Row Variation FOrmation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
 * [Brown Dust Arena Formation : 3 Row Power Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)
 * [Brown Dust Arena Formation : Granhildr Support Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-granhildr-support-formation/)
-* [Brown Dust Arena Formation : 6 Turn Push](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-6-turn-push-formation/)
+* [Brown Dust Arena Formation : 6 Turn Push Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-6-turn-push-formation/)
