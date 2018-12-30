@@ -9,6 +9,7 @@ tags:
 description: 'Optimizing combining process in Hadoop'
 categories:
 - Hadoop
+- Optimizing
 ---
 
 ## Abstract
