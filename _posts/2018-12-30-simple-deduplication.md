@@ -17,7 +17,7 @@ A commonly known cloud storage product is **Dropbox**. Previously (pre-2016), Dr
 
 **Deduplication** is a approach that eliminates redundant data on storage. (i.e. instead of storing multiple copies of data of the same content, only one copy is stored).
 
-<img>
+<img src="../uploads/deduplication-general.png>
 
 Deduplication process can be reduced to 3 subprocesses: **Chunking, Fingerprinting, and Indexing**. Chunking is dividing data stream into different chunks. Fingerprinting is checking if the chunk is redundant (if new, upload chunk and fingerprint; if redundant, copy/upload the fingerprint). Indexing is maintaining fingerprints of existing chunks.
 
@@ -37,7 +37,7 @@ Chunking in itself is a very simple process, but can become slightly complicated
 
 Chunking is basically a process where a file is separated into multiple smaller files.
 
-<img>
+<img src="../uploads/deduplication-chunking-basic.png>
 
 Splitting into multiple files is utilized because even if you have a backup of some document, the current and the backup are usually not exactly the same. While they hold similar contents, perhaps names, dates, sentences, etc can be different. If someone deduplicated by the whole file itself, it would be inefficient because if the multiple documents (data) hold exactly the same contents but only different dates, they will be stored separately. In a sense, chunking is already an optimization technique.
 
