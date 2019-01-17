@@ -19,14 +19,15 @@ If you are interested in my regular arena placements here are the particulars
 **Deck Type** Granhildr Support Variation Formation
 (Used to use 2 Row Formation Variation, but switched to Granhildr deck on July 2018)
 
+**2018**
 * August : Master I ~ Master III
 * September : Master II ~ Grandmaster III
 * October : Master III ~ Grandmaster III
 * November : Master I ~ Grandmaster II
-* December 1st Week : Master I
-* December 2nd Week : Grandmaster III
-* December 3rd Week : Master I
-* December 4th Week : Grandmaster III
+* December : Master I ~ Grandmaster III
+**2019**
+* January 1st Week : Master I
+* January 2st Week : Master I
 
 ---
 
