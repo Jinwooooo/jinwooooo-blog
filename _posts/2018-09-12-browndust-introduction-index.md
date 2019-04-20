@@ -26,8 +26,9 @@ If you are interested in my regular arena placements here are the particulars
 * November : Master I ~ Grandmaster II
 * December : Master I ~ Grandmaster III
 **2019**
-* January 1st Week : Master I
-* January 2st Week : Master I
+* January 1st Week : Master III ~ Master I
+**2019 Feb and onwards**
+No longer competitive in arena, mostly hoarding AC related items for future use (probably season 3).
 
 ---
 
