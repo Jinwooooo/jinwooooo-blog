@@ -40,7 +40,7 @@ There are only 2 prohibition.
 
 Before explaining the 2 prohibition, I'd like to highlight that <span style="color:red">**the only way to stop prohibition is DEBUFF REFLECTION (which only Granhildr has)**</span>, otherwise there is no way to stop getting these effect onto your unit.
 
-Healing prohibition stops enemy from getting healed by a skill that is labelled as healing. Basically, **if a skill is not labelled as healing, but has a healing factor, it will go through**. In current KR server, only 2 skills is able to go through, which are : 1st skill for Sabrina and 1st skill for Benaca (will add the benaca's skill image when it's released in Global Server). ***If you are interested, Sabrina's skill is labeled as barrier and Benaca's skill is labeled as stat enhancement. <span style="color:blue">(funny interaction : you can actually remove Sabrina's 1st skill with protection nullifier)</span>***
+Healing prohibition stops enemy from getting healed by a skill that is labelled as healing. Basically, **if a skill is not labelled as healing, but has a healing factor, it will go through**. In current KR server, only 2 skills is able to go through, which are : 1st skill for Sabrina and 1st skill for Venaka. ***If you are interested, Sabrina's skill is labeled as barrier and Venaka's skill is labeled as stat enhancement. <span style="color:blue">(funny interaction : you can actually remove Sabrina's 1st skill with protection nullifier)</span>***
 
 <img src="../uploads/browndust-immunity-prohibition-purification-exception.jpg">
 

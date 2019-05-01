@@ -45,7 +45,7 @@ This is very important because in a regular formation you usually want to have a
 
 <img src="../uploads/browndust-6-turn-push-formation-offensive-mage-list.jpg">
 
-1. **Balpharen** he's the new AC octo in KR server. Very imbalanced unit (deals pure damage 3x3 AOE that even OHKO 20k hp Granhildr and not die to reflect) If he's available, he's the unit to go for.
+1. **Velfern** he's the new AC octo in KR server. Very imbalanced unit (deals pure damage 3x3 AOE that even OHKO 20k hp Granhildr and not die to reflect) If he's available, he's the unit to go for.
 2. **Nartas** he does have ups and downs due to his AOE, but he can be used.
 3. **Celia** she needs to be at least +3 to be utilized in this area, but she does work as well.
 4. **Anubis** he's very good against GSF, so if you see lots of GSF, consider utilizing him.
@@ -59,7 +59,7 @@ If you noticed, all of the mages either is able to kill taunt tanks (except Gran
 
 <img src="../uploads/browndust-6-turn-push-formation-defensive-mage-list.jpg">
 
-1. **Balthor** already quite known mage tank. Consider using him with John.
+1. **Valthor** already quite known mage tank. Consider using him with John.
 2. **Lilian** it's usually not so wise to give her an early turn, but this formation does not have enough flexibility to give her attack on the 9th turn.
 3. **Edwin** he is doing quite well in KR at the moment (2018 December). His charm is more advanced than a normal charm so unless the unit has the full immunity or the deck has no pure purification, he's very problematic.
 4. **Bathory** the worst one here due to the fact that she has brings no utility when she attacks and is not as tanky as others.

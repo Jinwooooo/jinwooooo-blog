@@ -15,6 +15,14 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ---
 
+**(2019 May Update)**
+
+As a GSF user, It pains me to say that GSF is no longer good. 2nd batch of Dominus Octo (Velfern, Valze, Asmod, Mamonir) pretty much all pummels GSF. You will have to mix in Dominus Octo into the GSF in order to stay competitive. In KR, many competitive GSF users have either quit or have abandon the Traitorous Trinity set. Few still uses GSF with Dominous Octo(s) and is able to hang on in high tiers.
+
+There is still little hope with the helper/assistant patch that they will be able to stand their ground against the Dominus Octo, but we will have to wait.
+
+---
+
 ## Abstract
 
 GSF (Granhildr Support Formation) has been able to stay in meta from almost beginning of Brown Dust and is still one of the most popular and powerful formation currently. GSF can be said to be efficient because it is able to adapt to different meta. (note that GSF also requires to adjust to the meta by tweaking formation and substituting units)
@@ -29,7 +37,7 @@ The most primary units that are focused in GSF are the **Traitorous Trinity** se
 
 <img src="../uploads/browndust-granhildr-support-formation-traitorous-trinity.jpg">
 
-It's very important to note that the unit who gets the spotlight changes depending on the meta. For example, when there weren't many units that could efficiently kill Granhildr, the spotlight naturally went to Granhildr (what I mean by "efficiently kill" means that the unit is able to perform decently when it goes against other formtions). But, when meta shifted and Granhildr started dying in the 1st round, the spotlight went to Celia.
+It's very important to note that the unit who gets the spotlight changes depending on the meta. For example, when there weren't many units that could efficiently kill Granhildr, the spotlight naturally went to Granhildr (what I mean by "efficiently kill" means that the unit is able to perform decently when it goes against other formations). But, when meta shifted and Granhildr started dying in the 1st round, the spotlight went to Celia.
 
 Let's look at each unit's skills more carefully.
 

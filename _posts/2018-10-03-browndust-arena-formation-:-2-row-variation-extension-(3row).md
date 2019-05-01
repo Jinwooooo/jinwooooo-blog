@@ -15,6 +15,12 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ---
 
+**(2019 May Update)**
+Note that the unit mentioned in this posts are somewhat outdated. I've added ***(Updates)*** on completely wrong evaluations. However, I am not willing to periodically update the post, so please try to understand and take away the abstract idea and concept of the 2 Row Variation.
+
+---
+
+
 ## Prerequisite & Abstract
 
 If you aren't familiar with [2 Row Variation Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/), I suggest you go read it first, because this formation is an extension.
@@ -50,7 +56,7 @@ You usually have total of 1 unit on the taunt row (sometimes 1 support unit is p
 
 <img src="../uploads/browndust-3-row-power-formation-taunt-unit-example.jpg">
 
-1. **Aron** His damage reflect is a permanent skill
+1. **Aaron** His damage reflect is a permanent skill
 2. **Seir** She's very tanky, has immunity before attack, also has a dmg/curse skill that's permanently on
 3. **(S) Zakan** He's not very good, due to very short taunt... but he's probably the only ★4 unit that's good in this position
 
@@ -66,9 +72,7 @@ The list is pretty much the same from the 2 row variation formation.
 
 1. **Lucius** He's one of the reason why this formation started to get popular
 2. **Arkan** Lucius is a hard unit to get, so users w/o Lucius can use him instead
-3. **Lilian** She's one of the reason why this formation started to get popular as well. She can easily reach 100% armor when her skill level is +3. Also if she is attacked multiple times before she attacks, she's can deal surprising aoe damage.
-
-In KR server, there's a popular saying <span style="color:red">**front Lucius back Lilian : an abhorring combination**</span>. Because there is only 1 unit that has a armor piercing attack that attack that jumps (Seto, who is ***surprise surprise*** also a legendary units like Lucius and 6 Devils...), you can pretty much say she's almost invincible.
+3. **Lilian** She's one of the reason why this formation started to get popular as well. She can easily reach 100% armor when her skill level is +3. Also if she is attacked multiple times before she attacks, she's can do terrible terrible damage.
 
 ---
 
@@ -97,4 +101,4 @@ Offensive row placed in the middle row. The starting order is Ceres → Mary →
 
 While it was popular for the last few weeks, it's slightly losing popularity due to the increase of Granhildr's Support Variation Formation users in the grandmaster tier. This formation has a very high winrate when it goes first, but a very low winrate when it goes second.
 
-If you like going super ham, this formation is recommended (you can also see in high tier who uses the Alec - Angelica - Nartas set likes to use this formation).
+If you like going super ham, this formation is recommended.

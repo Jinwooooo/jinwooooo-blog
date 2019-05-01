@@ -15,6 +15,12 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ---
 
+**(2019 May Update)**
+
+Note that the unit mentioned in this posts are somewhat outdated. I've added ***(Updates)*** on completely wrong evaluations. However, I am not willing to periodically update the post, so please try to understand and take away the abstract idea and concept of the 2 Row Variation.
+
+---
+
 ## Chapter 1 : Defensive / Offensive Row
 
 The 2 Row Variation Formation will only be using 2 rows out of 3. One of the row is Defensive row (aka Dummy row) and the other row is Offensive Row.
@@ -31,8 +37,8 @@ The most popular units used for Defensive Row are as follows:
 1. **Lucius** The BEST sandbag in the game.
 2. **Arkan** Above average sandbag.
 3. **Lilian** Conditional sandbag. (highly likely to be very effective)
-4. **Aron** One of the most reliable damage reflector w/ or w/o taunt.
-5. **Caylen** New unit, need more data and experience to evaluate, but she's gaining popularity.
+4. **Aaron** One of the most reliable damage reflector w/ or w/o taunt.
+5. **Kaylin** <span style="color:red">(Update) This merc is not good, taunter nowadays have to survive.</span>
 6. **Seir** Reliable taunt unit with conditional damage reflection.
 
 
@@ -47,32 +53,32 @@ The most popular support units used are as follows:
 
 <img src="../uploads/browndust-2-row-formation-support-unit-example.jpg">
 
-1. **Repithea** Best support unit if her skill level is 10. Otherwise mediocre.
-2. **Benaca** One of the two best non-legendary support unit.
+1. **Refithea** Best support unit if her skill level is 10. Otherwise mediocre.
+2. **Venaka** One of the two best non-legendary support unit.
 3. **Mary** The other best non-legendary support unit.
-4. **Veronica** Very good if the first unit that attacks has good AOE.
+4. **Veronia** Very good if the first unit that attacks has good AOE.
 5. **Michaela** Conditional support unit. If used with right unit she's very effective.
 6. **Ceres** The only ★4 support unit in this list. Very effective for 2 row formation variation and the key skill that she has is the stat reducing effect immunity.
 
 ***Combinations***
 
 If your offensive units are based on Crit Rate + Crit Damage:
-* Benaca + Mary
-* Benaca + Ceres
+* Venaka + Mary
+* Venaka + Ceres
 * Mary + Ceres
 
 If mixed :
-* Repithea + Ceres
-* Repithea + Benaca
-+ Repithea + Mary
+* Refithea + Ceres
+* Refithea + Venaka
+* Refithea + Mary
 
-If based on Att Damage :
-* Repithea + Michaela
+If based on ATK Damage :
+* Refithea + Michaela
 * Mary + Michaela
 * Michaela + Ceres
 
 If the first unit that launches attack has very good AOE:
-* Repithea / Mary + Benaca / Michaela + Veronica (x / y means you either use x or y, not use x and y)
+* Refithea / Mary + Venaka / Michaela + Veronia (x / y means you either use x or y, not use x and y)
 
 ---
 
