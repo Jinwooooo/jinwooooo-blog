@@ -16,9 +16,7 @@ categories:
 
 Hadoop is a distributive processing framework that allows large repetitive computation more efficient than a regular programming languages like python or java. This post will go through how Dijsktra's SP algorithm was implemented in Hadoop.
 
-Note that the environment that the program was executed is a fully distributed mode (1 namenode and 2 datanode in total).
-
-For the full source code, visit [Github](https://github.com/Jinwooooo/dijsktra-hadoop)!
+Note that the environment that the program was executed is a fully distributed mode (1 namenode and 2 datanode in total).s
 
 ---
 
@@ -92,7 +90,7 @@ The termination condition is either when the all SP is found from root node or t
 
 After the nodeID, the -1 will be used as indication that the next 2 tokens are not a (nodeID, distance) tuple, but a (temporary SP value, predecessor node ID) tuple. I'm not an expert on MapReduce programming, but by surfing the web, I've heard multiple statements from experienced MapReduce programmers that it's common practice to utilize temporary values within the iterables.
 
-**During MapReduce** The program has a class: ***NodeWritable***, this will keep all the intermediate parts of the data during MapReduce phase (utilizes HashMap to keep node ID and temporary distance value). I highly encourage you to actually look at the code uploaded on [Github](https://github.com/Jinwooooo/dijsktra-hadoop). It's very intuitive, so I will not go on further to explain how it works functions in intermediate stages.
+**During MapReduce** The program has a class: ***NodeWritable***, this will keep all the intermediate parts of the data during MapReduce phase (utilizes HashMap to keep node ID and temporary distance value). It's very intuitive, so I will not go on further to explain how it works functions in intermediate stages.
 
 **End MapReduce** It will output a similar adjacency matrix as **Before MapReduce**, but it will include updated SP value and predecessor node ID. For example, the after first iteration the adjacency matrix will look like:
 
