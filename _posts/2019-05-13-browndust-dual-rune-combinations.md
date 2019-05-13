@@ -25,17 +25,17 @@ Unlike mono runes, dual runes have **main** and **sub** category. One easy way t
 
 ## Possible Dual Rune Combinations
 
+<img src="../uploads/browndust-dual-rune-combination-assault.jpg">
+
 <table style="text-align: center; border: 1px solid black;">
     <thead>
         <tr>
-            <th style="border: 1px solid black;">Rune Type</th>
             <th style="border: 1px solid black;">Main</th>
             <th style="border: 1px solid black;">Sub</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 style="border: 1px solid black;">Assault</td>
             <td style="border: 1px solid black;">Flat Assault</td>
             <td style="border: 1px solid black;">% Vital</td>
         </tr>
@@ -51,8 +51,20 @@ Unlike mono runes, dual runes have **main** and **sub** category. One easy way t
             <td style="border: 1px solid black;">Flat Assault</td>
             <td style="border: 1px solid black;">Shield</td>
         </tr>
+    </tbody>
+</table>
+
+<img src="../uploads/browndust-dual-rune-combination-vital.jpg">
+
+<table style="text-align: center; border: 1px solid black;">
+    <thead>
         <tr>
-            <td rowspan=4 style="border: 1px solid black;">Vital</td>
+            <th style="border: 1px solid black;">Main</th>
+            <th style="border: 1px solid black;">Sub</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td style="border: 1px solid black;">Flat Vital</td>
             <td style="border: 1px solid black;">% Assault</td>
         </tr>
