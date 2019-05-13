@@ -6,7 +6,7 @@ date:   2019-05-13 00:12:00
 tags:
 - Brown Dust (Intermediate)
 - Runes
-description: 'Every rune combination exists, but there are constraints'
+description: 'Every rune combination exists, but there are constraints depending on the main type'
 categories:
 - Brown Dust (Runes)
 ---
@@ -190,6 +190,6 @@ One easy way to understand this is to think **sub** as **bonus** because it does
 
 ## Recommendation for 9th and 12th Floor Rune Farming/mining
 
-If you have looked closely at the table you've probably notice some of the duals are quite useless on general cases (i.e. shield + flat vital). So my recommendation is that you should go to 12th floor for **Assault** and **Rage** (50% chance to get a useful dual types), and for others you should go 9th floor, since it's better to try for mono runes since you only have 25% chance to get a useful dual type runes. This is only for general cases, if you have specific rune that you would like to obtain the chance of obtaining "useful dual type" will be different.
+If you have looked closely at the table you've probably notice some of the duals are quite useless on general cases (i.e. shield + flat vital). So my recommendation is that you should go to 12th floor for **Assault** and **Rage** (50% chance to get a useful dual types), and for others you should go 9th floor, since it's better to try for mono runes since you only have 25% chance to get a useful dual type runes. This is only for general cases, if you have specific rune that you would like to obtain, the chance of obtaining "useful dual type" will be different.
 
 However, you have to note that 12th floor gives you a lot more runes than 9th floor. So if you consistently buy horseshoes with diamonds, I suggest you go for only 12th floor.
