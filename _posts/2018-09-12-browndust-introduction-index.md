@@ -33,7 +33,7 @@ If you are interested in my regular arena placements here are the particulars
 
 **2019 Feb and onwards**
 
-No longer competitive in arena, mostly hoarding AC related items for future use (probably season 3). ***if you really like to know, I usally end up in sapphire due to the fact that I generally do not use Dominus Ictos (I do have them)***
+No longer competitive in arena, mostly hoarding AC related items for future use (probably season 3). ***if you really like to know, I usually end up in sapphire due to the fact that I generally do not use Dominus Octos (I do have them)***
 
 ---
 
@@ -47,6 +47,7 @@ no post yet
 
 * [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-attack-priority/)
 * [Brown Dust : Immunity, Prohibition, Purification Interaction](https://jinwooooo.github.io/jinwooooo-blog/browndust-immunity-prohibition-purification-interaction/)
+* [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
 
 ---
 
@@ -55,4 +56,5 @@ no post yet
 * [Brown Dust Arena Formation : 2 Row Variation Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
 * [Brown Dust Arena Formation : 3 Row Power Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)
 * [Brown Dust Arena Formation : Granhildr Support Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-granhildr-support-formation/)
+* [Brown Dust Arena Formation : S2 GSF](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-s2-gsf/)
 * [Brown Dust Arena Formation : 6 Turn Push Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-6-turn-push-formation/)

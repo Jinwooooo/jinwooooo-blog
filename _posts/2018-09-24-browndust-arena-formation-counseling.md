@@ -11,10 +11,10 @@ categories:
 - Brown Dust (Interactive)
 ---
 
-I will restructure the consulting so that I can do less but more thorough consulting. Please note that my recommendation will be based on the current meta and will strictly stick with efficiency and synergy. At the end, I will give you my opinion on the potential meta shifts, but note that they are **my opinion**
+Please note that my recommendation will be based on the current meta and will strictly stick with efficiency and synergy. At the end, I will give you my opinion on the potential meta shifts, but note that they are **my opinion**
 
 ---
 
-## Instruction
+## Update
 
-**Updating...***
+I don't think I will do counseling in my blog (requires too much time and effort from me). I'm not sure if I will stream, but if that ever happens, I'll integrate counseling with the stream. Sorry for anyone who was looking forward for this :(.
