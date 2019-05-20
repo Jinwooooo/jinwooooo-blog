@@ -41,7 +41,7 @@ This user is one of the oldest known GSF user in Korea (KR IGN: 시아리). He h
 
 * **Main DPS** Velfern and Celia
 * **Sub DPS** Leto
-* **R1 Tanks** Granhildr (shield + shield runes) and Recliss
+* **R1 Tanks** Granhildr (shield + shield runes) and Lecliss
 * **R2~ Tanks** Lucius
 * **Required Support** Eindolyn or John (i.e. support that gives taunt)
 
@@ -63,7 +63,7 @@ If you have a really strong DPS lineup, you may consider doing some special vari
 
 <img src="../uploads/browndust-s2-gsf-special-defense-sample.jpg">
 
-Because 6 turn push formation is not a popular in higher tiers (power formations does not utilize Recliss), this is using that specific information to its advantage. After Recliss taking hit for the team in the first enemy's turn, Refithea + Beliath pretty much gives buffs to kill anything that hits afterwards. Foxy is there to nullify Eindolyn buffs (taunt with heal and damage reduction) so that Anastasia and Edin has a higher chance to hit key units.
+Because 6 turn push formation is not a popular in higher tiers (power formations does not utilize Lecliss), this is using that specific information to its advantage. After Lecliss taking hit for the team in the first enemy's turn, Refithea + Beliath pretty much gives buffs to kill anything that hits afterwards. Foxy is there to nullify Eindolyn buffs (taunt with heal and damage reduction) so that Anastasia and Edin has a higher chance to hit key units.
 
 Note that here, Granhildr is using vital + vital runes so that she can kill off enemy Anastasia / Edin with reflect (shield + shield runes may not kill Anastasia / Edin with reflect if they received any defensive buff). Also see that in the back 3 defensive units, they are all in unique column because of high usage rate of Valze in KR competitive tier.
 
