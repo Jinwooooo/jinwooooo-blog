@@ -76,7 +76,7 @@ for pageIndex in range(0, lastIndex):
     for elements in splitCommentList:
         splitElement = elements.split('/')
         userID = splitElement[0].replace(' ','')
-        unitVoted = splitElement[1].replace(' ','')\
+        unitVoted = splitElement[1].replace(' ','')
         data = pd.DataFrame({'user_ID': userID, 'unit_voted': unitVoted}, index=[dfIndexCounter])
         df = pd.concat([df,data])
         dfIndexCounter += 1
