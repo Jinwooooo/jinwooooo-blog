@@ -47,11 +47,11 @@ This user is one of the oldest known GSF user in Korea (KR IGN: 시아리). He h
 
 As mentioned previously, Levia +10 can sub in for Velfern and Mamonir +6 or higher can sub in for Lucius. However, you must note that if there are lots of Levia +10 → Velfern combos, then you should try to avoid using Mamonir. For Sub DPS, you should be able to substitute any offensive unit that can is able to fill at least 1 unit's role (I believe that for now, most successful replacement for this role is taylor +15, edin +10, valze +10).
 
-Here are some other similar GSF + Dominus Octo formations that is modified a little bit from the above.
+Here is another similar GSF + Dominus Octo formations that is modified a little bit from the above.
 
 <img src="../uploads/browndust-s2-gsf-variation-sample.jpg">
 
-In this deck I purposely changed John + Lucius from 7 → 8 to 8 → 9 (actual is 7 → 8) if John isn't +10, his taunt duration may fall short on R2. For none taunts shorter than 10 turns, you should use the taunt at the last possible moment.
+In this deck I purposely changed John + Lucius from 7 → 8 to 8 → 9 (actual is 7 → 8) if John isn't +10, his taunt duration may fall short on R2. For taunts shorter than 10 turns, you should use the taunt at the last possible moment.
 
 Sadly, none of the other formations are successful enough to reach Master tiers and higher with a full GSF set. You may synergize with part of the units from GSF, but most likely either Celia and/or Granhildr has to go.
 
@@ -65,9 +65,9 @@ If you have a really strong DPS lineup, you may consider doing some special vari
 
 Because 6 turn push formation is not a popular in higher tiers (power formations does not utilize Recliss), this is using that specific information to its advantage. After Recliss taking hit for the team in the first enemy's turn, Refithea + Beliath pretty much gives buffs to kill anything that hits afterwards. Foxy is there to nullify Eindolyn buffs (taunt with heal and damage reduction) so that Anastasia and Edin has a higher chance to hit key units.
 
-Note that here, Granhildr is using vital + vital runes so that she can kill off enemy Anastasia / Edin with reflect (shield + shield runes may not kill Anastasia / Edin with reflect if she received any defensive buff). Also see that in the back 3 defensive units, they are all in unique column because of high usage rate of Valze in competitive tier in KR.
+Note that here, Granhildr is using vital + vital runes so that she can kill off enemy Anastasia / Edin with reflect (shield + shield runes may not kill Anastasia / Edin with reflect if they received any defensive buff). Also see that in the back 3 defensive units, they are all in unique column because of high usage rate of Valze in KR competitive tier.
 
-**This formation is not used on the last day of Regular Arena (it's not bad, it's just not the best formation to use to get points when you can go first), so use take this sample for users who are busy and can't burn swords regularly on weekdays or busy with real life on weekends**
+**This formation is not used on the last day of Regular Arena (it's not bad, it's just not the best formation to get points when you can go first), so this sample is for users who are busy and can't burn swords regularly on weekdays or busy with real life on weekends**
 
 ---
 
