@@ -13,7 +13,7 @@ categories:
 
 ## Abstract
 
-Units that have the right AOE to kill off units are based on low tier units. However, in order to reduce turn order units like Asmode and Jin are required. Note that you may borrow 1 unit from your friend list, so if you have one but not the other, try to find a friend who has one.
+Units that have the right AOE to kill off units are based on low tier units. However, in order to reduce turn order, units like Asmode and Jin are required. Note that you may borrow 1 unit from your friend list, so if you have one but not the other, try to find a friend who has one.
 
 * Any unit that's below 3★ is basically just taking up space, so you can place whatever units there
 * I assume that users will have maxed out 4★, so I didn't mention any substitutes
@@ -71,4 +71,4 @@ I have referenced formations from one of the rune guru in KR server (IGN: 불꽃
 * **Rage** 6 Turns
 * **Shield** 7 Turns
 
-To make the shortest turn possible, you'll need legendary tier runes and +10 units. **(These numbers are based on a 카이, KR user)**
+To make the shortest turn possible, you'll need legendary tier runes and +10 units. **(These numbers are based on 카이, KR user)**
