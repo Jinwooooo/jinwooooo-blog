@@ -21,6 +21,8 @@ As a GSF user, It pains me to say that GSF is no longer good. 2nd batch of Domin
 
 There is still little hope with the helper/assistant patch that they will be able to stand their ground against the Dominus Octo, but we will have to wait.
 
+Read [this](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-s2-gsf/) post for season 2 updates.
+
 ---
 
 ## Abstract
