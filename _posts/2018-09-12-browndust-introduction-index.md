@@ -47,6 +47,7 @@ no post yet
 
 * [Brown Dust : Understanding Attack Priority](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-attack-priority/)
 * [Brown Dust : Immunity, Prohibition, Purification Interaction](https://jinwooooo.github.io/jinwooooo-blog/browndust-immunity-prohibition-purification-interaction/)
+* [Brown Dust : Rune Tier & Grade Comparison with Charts](https://jinwooooo.github.io/jinwooooo-blog/browndust-rune-tier-grade-comparison/)
 * [Brown Dust : Reducing Turns for 12th Floor](https://jinwooooo.github.io/jinwooooo-blog/browndust-reducing-turns-for-12th-floor/)
 * [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
 
