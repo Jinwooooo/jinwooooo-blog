@@ -25,9 +25,9 @@ So this posts is based on Markdown, so I cannot fully utilize the HTML functions
 
 [JSFiddle Link](https://jsfiddle.net/Baloomon/84kdtbo7/show)
 
-In case you'd just like to see in there I posted the charts below. However, do note the charts are in png, so they are not interactive (the interactions allows the charts to show you the BBB and BBS refined values as shown below).
+In case you'd just like to see in there I posted the charts below. However, do note the charts are in PNG, so they are not interactive (the interactions allows the charts to show you the BBB and BBS refined values as shown below).
 
-<img src="../uploads/browndust-runes-tier-grade-comparison-interactive.png">
+<img src="../uploads/browndust-runes-tier-grade-comparison-interactive.PNG">
 
 Morever, I did not include **common** runes and runes lower than **4★ <span style="color:red">legend</span>** because they aren't worth keeping in the first place (only when you have just started should you use those lesser runes, after some time those eventually become dismantled or sold).
 
@@ -35,9 +35,9 @@ Morever, I did not include **common** runes and runes lower than **4★ <span st
 
 ## Charts (in Image form)
 
-<img src="../uploads/browndust-runes-tier-grade-comparison-flat-assault.png">
-<img src="../uploads/browndust-runes-tier-grade-comparison-flat-vital.png">
-<img src="../uploads/browndust-runes-tier-grade-comparison-perc.png">
-<img src="../uploads/browndust-runes-tier-grade-comparison-fatal.png">
-<img src="../uploads/browndust-runes-tier-grade-comparison-rage.png">
-<img src="../uploads/browndust-runes-tier-grade-comparison-shield.png">
+<img src="../uploads/browndust-runes-tier-grade-comparison-flat-assault.PNG">
+<img src="../uploads/browndust-runes-tier-grade-comparison-flat-vital.PNG">
+<img src="../uploads/browndust-runes-tier-grade-comparison-perc.PNG">
+<img src="../uploads/browndust-runes-tier-grade-comparison-fatal.PNG">
+<img src="../uploads/browndust-runes-tier-grade-comparison-rage.PNG">
+<img src="../uploads/browndust-runes-tier-grade-comparison-shield.PNG">
