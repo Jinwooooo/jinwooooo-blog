@@ -1,0 +1,859 @@
+  <!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Browndust Assault/Vital Rune Graphs</title>
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <link href="https://cdn.anychart.com/releases/8.6.0/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4" rel="stylesheet" type="text/css">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+  <style>
+  html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+  body div {
+    position: relative;
+    float: left;
+    width: 47%;
+    height: 47%;
+    padding: 1.5%;
+  }
+  </style>
+ </head>
+ <body>
+  <div id="cd-flat-atk"></div>
+  <div id="cd-flat-hp"></div>
+  <div id="cd-perc"></div>
+  <div id="cd-fatal"></div>
+  <div id="cd-rage"></div>
+  <div id="cd-shield"></div>
+  <script src="https://cdn.anychart.com/releases/8.6.0/js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.6.0/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.6.0/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script src="https://cdn.anychart.com/releases/8.6.0/js/anychart-annotations.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+  <script type="text/javascript">anychart.onDocumentReady(function () {
+    var flatAtkData = [
+      {x: "6★ Legend", low: 208, high: 442, bbb: 286, bbs: 364,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 192, high: 408, bbb: 264, bbs: 336,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 176, high: 374, bbb: 242, bbs: 308,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 161, high: 341, bbb: 221, bbs: 281,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 146, high: 308, bbb: 200, bbs: 254,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 131, high: 275, bbb: 179, bbs: 227,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 112, high: 238, bbb: 175, bbs: 223,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var flatAtkChart = anychart.bar();
+    var flatAtkSeries = flatAtkChart.rangeBar(flatAtkData);
+    flatAtkSeries.labels().format("{%low} ~ {%high}");
+    flatAtkSeries.labels().fontColor("Black");
+
+  	var flatAtkTooltip = flatAtkChart.getSeries(0).tooltip();
+	  flatAtkTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    flatAtkChart.title("Assault (Flat)");
+    flatAtkChart.xAxis().title("Rune Tier");
+    flatAtkChart.yAxis().title("ATK (Flat)");
+    flatAtkChart.container("cd-flat-atk");
+    flatAtkChart.draw();
+
+    var flatHpData = [
+      {x: "6★ Legend", low: 832, high: 1768, bbb: 1144, bbs: 1456,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 768, high: 1632, bbb: 1056, bbs: 1344,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 704, high: 1496, bbb: 968, bbs: 1232,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 646, high: 1366, bbb: 914, bbs: 1160,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 590, high: 1238, bbb: 806, bbs: 1022,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 524, high: 1100, bbb: 716, bbs: 908,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 460, high: 964, bbb: 628, bbs: 796,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var flatHpChart = anychart.bar();
+    var flatHpSeries = flatHpChart.rangeBar(flatHpData);
+    flatHpSeries.labels().format("{%low} ~ {%high}");
+    flatHpSeries.labels().fontColor("Black");
+
+  	var flatHpTooltip = flatHpChart.getSeries(0).tooltip();
+	  flatHpTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    flatHpChart.title("Vital (Flat)");
+    flatHpChart.xAxis().title("Rune Tier");
+    flatHpChart.yAxis().title("HP (Flat)");
+    flatHpChart.container("cd-flat-hp");
+    flatHpChart.draw();
+
+    var percData = [
+      {x: "6★ Legend", low: 42.56, high: 67.40, bbb: 50.84, bbs: 59.12,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 37.68, high: 58.20, bbb: 44.52, bbs: 51.36,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 32.80, high: 49.00, bbb: 38.20, bbs: 43.60,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 34.00, high: 53.80, bbb: 40.60, bbs: 47.20,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 30.24, high: 46.80, bbb: 35.76, bbs: 41.28,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 26.24, high: 39.20, bbb: 30.56, bbs: 34.88,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 25.44, high: 40.20, bbb: 30.36, bbs: 25.28,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var percChart = anychart.bar();
+    var percSeries = percChart.rangeBar(percData);
+    percSeries.labels().format("{%low}% ~ {%high}%");
+    percSeries.labels().fontColor("Black");
+
+  	var percTooltip = percChart.getSeries(0).tooltip();
+	  percTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    percChart.title("Assault / Vital (%)");
+    percChart.xAxis().title("Rune Tier");
+    percChart.yAxis().title("ATK / HP (%)");
+    percChart.container("cd-perc");
+    percChart.draw();
+
+    var fatalData = [
+      {x: "6★ Legend", low: 43.76, high: 70.40, bbb: 52.64, bbs: 61.52,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 38.64, high: 60.60, bbb: 45.96, bbs: 53.28,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 33.52, high: 50.80, bbb: 39.28, bbs: 45.04,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 36.92, high: 58.16, bbb: 42.40, bbs: 49.60,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 31.94, high: 49.58, bbb: 36.84, bbs: 42.72,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 26.96, high: 41.00, bbb: 31.64, bbs: 36.32,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 26.16, high: 42.00, bbb: 31.44, bbs: 36.72,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var fatalChart = anychart.bar();
+    var fatalSeries = fatalChart.rangeBar(fatalData);
+    fatalSeries.labels().format("{%low}% ~ {%high}%");
+    fatalSeries.labels().fontColor("Black");
+
+  	var fatalTooltip = fatalChart.getSeries(0).tooltip();
+	  fatalTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    fatalChart.title("Fatal (%)");
+    fatalChart.xAxis().title("Rune Tier");
+    fatalChart.yAxis().title("Critical Rate (%)");
+    fatalChart.container("cd-fatal");
+    fatalChart.draw();
+
+    var rageData = [
+      {x: "6★ Legend", low: 107.20, high: 190.00, bbb: 134.80, bbs: 162.40,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 93.40, high: 161.80, bbb: 116.40, bbs: 139.20,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 80.00, high: 134.00, bbb: 98.00, bbs: 116.00,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 80.52, high: 142.80, bbb: 101.28, bbs: 122.04,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 73.18, high: 124.66, bbb: 87.48, bbs: 104.64,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 60.12, high: 100.80, bbb: 73.68, bbs: 87.24,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 61.82, high: 109.70, bbb: 77.78, bbs: 93.74,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var rageChart = anychart.bar();
+    var rageSeries = rageChart.rangeBar(rageData);
+    rageSeries.labels().format("{%low}% ~ {%high}%");
+    rageSeries.labels().fontColor("Black");
+
+  	var rageTooltip = rageChart.getSeries(0).tooltip();
+	  rageTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    rageChart.title("Rage (%)");
+    rageChart.xAxis().title("Rune Tier");
+    rageChart.yAxis().title("Critical Damage (%)");
+    rageChart.container("cd-rage");
+    rageChart.draw();
+
+    var shieldData = [
+      {x: "6★ Legend", low: 21.40, high: 34.0, bbb: 25.6, bbs: 29.8,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Epic", low: 18.96, high: 29.40, bbb: 22.44, bbs: 25.92,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "6★ Rare", low: 16.52, high: 24.80, bbb: 19.28, bbs: 22.04,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Legend", low: 19.38, high: 30.90, bbb: 23.22, bbs: 27.06,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Epic", low: 17.28, high: 27.00, bbb: 20.52, bbs: 23.76,
+      	normal:   {
+           fill: "#7B1E7A",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#9C329E",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "5★ Rare", low: 14.94, high: 22.50, bbb: 17.46, bbs: 19.98,
+      	normal:   {
+           fill: "#0086C9",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#35AEDD",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+      {x: "4★ Legend", low: 17.12, high: 27.20, bbb: 20.48, bbs: 23.48,
+      	normal:   {
+           fill: "#E63B2E",
+           stroke: null,
+           label: {enabled: true}
+         },
+       hovered:  {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         },
+       selected: {
+           fill: "#EC5766",
+           stroke: null,
+           label: {enabled: true},
+         }
+      },
+    ];
+
+    var shieldChart = anychart.bar();
+    var shieldSeries = shieldChart.rangeBar(shieldData);
+    shieldSeries.labels().format("{%low}% ~ {%high}%");
+    shieldSeries.labels().fontColor("Black");
+
+  	var shieldTooltip = shieldChart.getSeries(0).tooltip();
+	  shieldTooltip.format("BBB: {%bbb}\n BBS: {%bbs}\n");
+
+    shieldChart.title("Shield (%)");
+    shieldChart.xAxis().title("Rune Tier");
+    shieldChart.yAxis().title("Defense (%)");
+    shieldChart.container("cd-shield");
+    shieldChart.draw();
+});</script>
+ </body>
+</html>
