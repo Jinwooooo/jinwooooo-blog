@@ -16,24 +16,25 @@ I play this mobile game called Browndust, a SRPG (Strategic Role Playing Game). 
 
 If you are interested in my regular arena placements here are the particulars
 
-**Deck Type** Granhildr Support Variation Formation
-(Used to use 2 Row Formation Variation, but switched to Granhildr deck on July 2018)
+**KR Server Deck Type** Granhildr Support Variation Formation (Used to use 2 Row Formation Variation, but switched to Granhildr deck on July 2018)
 
-**2018**
+**KR Server 2018 ~ 2019**
 
-* August : Master I ~ Master III
-* September : Master II ~ Grandmaster III
-* October : Master III ~ Grandmaster III
-* November : Master I ~ Grandmaster II
-* December : Master I ~ Grandmaster III
+* 2018 August : Master I ~ Master III
+* 2018 September : Master II ~ Grandmaster III
+* 2018 October : Master III ~ Grandmaster III
+* 2018 November : Master I ~ Grandmaster II
+* 2018 December : Master I ~ Grandmaster III
+* 2019 January : Master III ~ Master I
+* 2019 February and Onwards : Hoarding AC related resources (i.e. no longer competitive)
 
-**2019**
+I don't even burn natural swords regularly now on KR. I usually end up in Sapphire. High chance I'm going to let my KR account go due to the fact that my previously invested AC units are completely outclassed by Dominus Octos.
 
-* January 1st Week : Master III ~ Master I
+**Asia Server Deck Type** 2 Row Power Variations (I switch up accordingly)
 
-**2019 Feb and onwards**
+**Asia Server 2019**
 
-No longer competitive in arena, mostly hoarding AC related items for future use (probably season 3). ***if you really like to know, I usually end up in sapphire due to the fact that I generally do not use Dominus Octos (I do have them)***
+* 2019 May : Grandmaster II ~ Grandmaster I
 
 ---
 
