@@ -16,7 +16,7 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 ---
 
 **(2019 May Update)**
-Note that the unit mentioned in this posts are somewhat outdated. I've added ***(Updates)*** on completely wrong evaluations. However, I am not willing to periodically update the post, so please try to understand and take away the abstract idea and concept of the 2 Row Variation.
+Note that the unit mentioned in this posts are somewhat outdated. I've added ***(Updates)*** on completely wrong evaluations. However, I am not willing to periodically update the post, so please try to understand and take away the abstract idea and concept of the 3 Row Power Formation.
 
 ---
 

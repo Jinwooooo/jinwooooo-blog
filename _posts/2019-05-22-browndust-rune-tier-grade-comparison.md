@@ -11,7 +11,7 @@ categories:
 - Brown Dust (Runes)
 ---
 
-## Astract
+## Abstract
 
 As one starts getting more and more experience in Browndust, he/she starts to look at runes and tries to figure out what to keep and what to throw away. At first, if you haven't looked closely into it, it's intuitive the more ★ it has the better and the higher the tier (common → <span style="color:blue">rare</span> → <span style="color:purple">epic</span> → <span style="color:red">legend</span>), the better. However, you'll find some exception to this rule and now you'll probably become unsure. If that's the case, this is the right post for you to read.
 
@@ -29,7 +29,7 @@ In case you'd just like to see in there I posted the charts below. However, do n
 
 <img src="../uploads/browndust-runes-tier-grade-comparison-interactive.PNG">
 
-Morever, I did not include **common** runes and runes lower than **4★ <span style="color:red">legend</span>** because they aren't worth keeping in the first place (only when you have just started should you use those lesser runes, after some time those eventually become dismantled or sold).
+Moreover, I did not include **common** runes and runes lower than **4★ <span style="color:red">legend</span>** because they aren't worth keeping in the first place (only when you have just started should you use those lesser runes, after some time those eventually become dismantled or sold).
 
 ---
 
