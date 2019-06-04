@@ -19,7 +19,7 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 Before the helper/assistance update, the only batch left in non-KR Server is the Ludia/Indolyn/Niel. In this post I will elaborate on successful integration of Indolyn into **3 Row (Power) Formation** (if you aren't familiar, [click me](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)).
 
-Unlike most regular offensive formations and decks, Indolyn Tank Chaining Formation, does not start with a strong assault, but starts with indolyn → tank1 → tank2 → (optional: tank3) → offensive support chaining → attack (similar with defensive formation and deck). As seen in the list above, the most important unit here is **Cecelia**. Before her helper/assistance update Indolyn only had reasonable result with Mamonir, but now even without Mamonir, she can be utilized in a high competitive level.
+Unlike most regular offensive formations and decks, Indolyn Tank Chaining Formation, does not start with a strong assault, but starts with Indolyn → tank1 → tank2 → (optional: tank3) → offensive support chaining → attack (similar with defensive formation and deck). The most important unit other than Indolyn for this formation/deck is **Cecelia**. Before her helper/assistance update Indolyn only had reasonable result with Mamonir (basically using Indolyn as an expensive and better version of John), but now even without Mamonir, she can be utilized in a high competitive level.
 
 ---
 
