@@ -19,10 +19,6 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 Before the helper/assistance update, the only batch left in non-KR Server is the Ludia/Indolyn/Niel. In this post I will elaborate on successful integration of Indolyn into **2 and 3 Row (Power) Formation**.
 
-In case if you are wondering what key units are required in this formation here is the list.
-
-<img>
-
 Unlike most regular offensive formations and decks, Indolyn Tank Chaining Formation, does not start with a strong assault, but starts with indolyn → tank1 → tank2 → (optional: tank3) → offensive support chaining → attack (similar with defensive formation and deck). As seen in the list above, the most important unit here is **Cecelia**. Before her helper/assistance update Indolyn only had reasonable result with Mamonir, but now even without Mamonir, she can be utilized in a high competitive level.
 
 ---
@@ -31,7 +27,7 @@ Unlike most regular offensive formations and decks, Indolyn Tank Chaining Format
 
 To start off let's get to know about Indolyn (Based on +10).
 
-<img src="../uploads/browndust-indolyn-tank-chaining-indolyn.jpg>
+<img src="../uploads/browndust-indolyn-tank-chaining-indolyn.jpg">
 
 * ★5 Support Unit
 * X AOE Bestowal
@@ -44,7 +40,7 @@ Her **Skill 2** and **Skill 3** is a very good stat enhancements on any DPS unit
 
 This problem was solved when Cecelia got renewed and got helper/assistant. The new Cecelia (Based on +12).
 
-<img src="../uploads/browndust-indolyn-tank-chaining-cecelia.jpg>
+<img src="../uploads/browndust-indolyn-tank-chaining-cecelia.jpg">
 
 * ★5 Defensive Unit
 * **Skill 1** Any skill targeted toward self will reduce AOE to self only and Heal 35% of the Damage Received
@@ -79,7 +75,7 @@ So as you can see only DPS you have to really worry about is Anastasia (with any
 
 So after bestowing Indolyn's buff on Cecelia, you have two choices. Choice 1 is to go for the offensive support buff chaining into a strong attack. Choice 2 is to let one of your main tanks go after Cecelia (usually Lucius or Mamonir). The basic way to choose can be easily determined.
 
-<img src="../uploads/browndust-indolyn-tank-chaining-flowchart.PNG>
+<img src="../uploads/browndust-indolyn-tank-chaining-flowchart.PNG">
 
 The reasoning is pretty simple. If your Cecelia is likely to die in the 1st Round, 2nd Round is very dangerous if you don't have contingency plan for opponent's potential Velfern and Levia. So by doing Tank Chaining, you have a high chance of being safe in the 2nd round's Mage Bombardments.
 
@@ -89,11 +85,11 @@ Moreover, it isn't that disadvantageous to push your attacks till the last few t
 
 ## Example Formations and Elaborations
 
-<img src="../uploads/browndust-indolyn-tank-chaining-sample-1.jpg>
+<img src="../uploads/browndust-indolyn-tank-chaining-sample-1.jpg">
 
 This one is mix up with **Indolyn Tank Chaining** and **3 Row Power Formation**. The stat enhanced buff goes to Anastasia and Foxy. Enemy's first DPS is tanked through Cecelia, second DPS is tanked through Recliss, and third DPS is tanked through Walya. Foxy → Anastasia order is to erase any taunts with Foxy and then hope for Anastasia to hit enemy's DPS. This formation is assuming that Valze is not used for second turn DPS. It's pretty standard deck for good defensive winrate and offensive winrate.
 
-<img src="../uploads/browndust-indolyn-tank-chaining-sample-2.jpg>
+<img src="../uploads/browndust-indolyn-tank-chaining-sample-2.jpg">
 
 As you can see the stat enhanced buffs goes to Valze and Velfern in which both benefits pretty well and to make sure Cecelia has a higher survival chance against Anastasia, Michaela buff is added on top (in KR highly competitive tier you meet +10 Valze 9 out of 10 times, so she will still likely die in Round 1). This one is quite good even with 2 main DPS unit (Valze and Velfern) due to the fact that refi will kill enemy Anastasia with reflect. In Round 2, Lucius gets taunted to avoid enemy DPS hitting Valze/Velfern.
 
