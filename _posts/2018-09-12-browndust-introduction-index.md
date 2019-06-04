@@ -61,3 +61,4 @@ no post yet
 * [Brown Dust Arena Formation : Granhildr Support Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-granhildr-support-formation/)
 * [Brown Dust Arena Formation : S2 GSF](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-s2-gsf/)
 * [Brown Dust Arena Formation : 6 Turn Push Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-6-turn-push-formation/)
+* [Brown Dust Arena Formation : Indolyn Tank Chaining](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-indolyn-tank-chaining/)
