@@ -26,6 +26,8 @@ I'm pretty sure most of the users would have assumed that in Browndust AOE is ap
 * The **first board** represents the Main Target (labelled as <span style="color:red">T</span>) and distance away from Main Target (each cell distance = 1)
 * The **second board** represents the Order in which the Effects are applied (the lower the number the higher priority)
 
+**(Additional) Information** Note that some of the AOE cannot be fully utilized to test thoroughly (e.g. Diagonal Moving Forward edge 2 order), so some of them are assumed.
+
 ### Horizontal Forward AOE
 
 <img src="../uploads/browndust-understanding-aoe-effect-order-horizontal-forward-line-aoe.jpg">
@@ -42,11 +44,12 @@ I'm pretty sure most of the users would have assumed that in Browndust AOE is ap
 
 <img src="../uploads/browndust-understanding-aoe-effect-order-diagonal-aoe.jpg">
 
-***There is no Distance 2 Diagonal AOE unit (yet)***
+There is no Distance 2 Diagonal AOE unit (yet)
 
 ### Diagonal Moving Forward AOE
 
 <img src="../uploads/browndust-understanding-aoe-effect-order-forward-diagonal-aoe.jpg">
+
 
 ### Cross AOE
 
