@@ -22,7 +22,7 @@ I'm pretty sure most of the users would have assumed that in Browndust AOE is ap
 
 ## AOE Effect Order Appendix
 
-* Note that all the boards are in <span style="color:red">**enemy board perspective**</span> (i.e. when you enter enemy's castle in GW, this ordering is directly applicable to the enemy's board)
+* Note that all the boards are in <span style="color:red">**enemy board's perspective**</span> (i.e. when you enter enemy's castle in GW, this ordering is directly applicable to the enemy's board)
 * The **first board** represents the Main Target (labelled as <span style="color:red">T</span>) and distance away from Main Target (each cell distance = 1)
 * The **second board** represents the Order in which the Effects are applied (the lower the number the higher priority)
 
@@ -62,7 +62,7 @@ I'm pretty sure most of the users would have assumed that in Browndust AOE is ap
 
 Note that I used one of the Campaign Mode and flipped the images (so it may look a bit weird), so it's directly applicable to the Appendix that is listed below.
 
-The enemy unit has a **+ (i.e. Cross AOE with Distance = 1)** with Freeze and without Immunity. Depending on where Gloria is placed, that results are different (be wary that Gloria's PERM Skill Shield is applied after normal attack, so things that are activated before normal will go through (e.g. Deomaron's Decomposition)).
+The enemy unit has a **+ (i.e. Cross AOE with Distance = 1)** with Freeze and without Immunity. Depending on where Gloria is placed, results are different (be wary that Gloria's PERM Skill Shield is applied after normal attack, so things that are activated before normal will go through (e.g. Deomaron's Decomposition)).
 
 * <span style="color:red">**Red Cell**</span> indicates Gloria's Location
 * <span style="color:orange">**Orange Cell**</span> indicates the unit got affected by freeze
