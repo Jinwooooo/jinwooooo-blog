@@ -60,7 +60,7 @@ I'm pretty sure most of the users would have assumed that in Browndust AOE is ap
 
 ## Why does it matter?
 
-Note that I used one of the Campaign Mode and flipped the images (so it may look a bit weird), so it's directly applicable to the Appendix that is listed below.
+Note that I used one of the Campaign Mode and flipped the images (so it may look a bit weird), so it's directly applicable to the Appendix that is listed above.
 
 The enemy unit has a **+ (i.e. Cross AOE with Distance = 1)** with Freeze and without Immunity. Depending on where Gloria is placed, results are different (be wary that Gloria's PERM Skill Shield is applied after normal attack, so things that are activated before normal will go through (e.g. Deomaron's Decomposition)).
 
