@@ -70,4 +70,4 @@ The enemy unit has a **+ (i.e. Cross AOE with Distance = 1)** with Freeze and wi
 
 <img src="../uploads/browndust-understanding-aoe-effect-order-example.jpg">
 
-See how depending on Gloria's location, the Pillage effect from enemy is different? There are numerous ways to utilize this mechanics to your advantage (especially in Guild War). If you are unsure, the best way is to test it out in UA with your fellow friends. If you still are confused with interaction I suppose you can leave a comment in which I'll check it out :^)
+See how depending on Gloria's location, the Freeze effect from enemy is different? There are numerous ways to utilize this mechanics to your advantage (especially in Guild War). If you are unsure, the best way is to test it out in UA with your fellow friends. If you still are confused with interaction I suppose you can leave a comment in which I'll check it out :^)
