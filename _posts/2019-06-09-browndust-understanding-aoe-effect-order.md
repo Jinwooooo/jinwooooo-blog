@@ -10,8 +10,6 @@ categories:
 - Brown Dust (Mechanics)
 ---
 
-<img src="../uploads/browndust-attack-priority-row-priority-example.jpg">
-
 ## Abstract
 
 In this game there's a concept called AOE (Area Of Effect) for each unit.
@@ -28,7 +26,7 @@ In BD the only way to really test accurately is through UA friendly matches, but
 
 The enemy unit has a **X (i.e. Diagonal AOE)** with Pillage (steals buff) and without Immunity. Depending on where Gloria is placed, that effect can be mitigated (be wary that Gloria's PERM Skill Shield is applied after normal attack, so things that are activated before normal will go through (i.e. Deomaron's Decomposition)).
 
-<img src="../uploads/browndust-understanding-aoe-effect-order-example-1.PNG">
+<img src="../uploads/browndust-understanding-aoe-effect-order-example-1.png">
 
 See how depending on Gloria's location, the Pillage effect from enemy is different? There are numerous ways to utilize this mechanics to your advantage (especially in Guild War). If you are unsure, the best way is to test it out in UA with your fellow friends. If you still are confused with interaction I suppose you can leave a comment in which I'll check it out :^)
 
