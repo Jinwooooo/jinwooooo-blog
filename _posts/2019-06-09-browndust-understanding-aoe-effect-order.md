@@ -64,9 +64,9 @@ Note that I used one of the Campaign Mode and flipped the images (so it may look
 
 The enemy unit has a **+ (i.e. Cross AOE with Distance = 1)** with Freeze and without Immunity. Depending on where Gloria is placed, that results are different (be wary that Gloria's PERM Skill Shield is applied after normal attack, so things that are activated before normal will go through (e.g. Deomaron's Decomposition)).
 
-* <span style="color:Orange">**Red Cell**</span> indicates Gloria's Location
-* <span style="color:Orange">**Orange Cell**</span> indicates the unit got affected by freeze
-* <span style="color:Green">**Green Cell**</span> indicates the unit did not get affected by freeze
+* <span style="color:red">**Red Cell**</span> indicates Gloria's Location
+* <span style="color:orange">**Orange Cell**</span> indicates the unit got affected by freeze
+* <span style="color:green">**Green Cell**</span> indicates the unit did not get affected by freeze
 
 <img src="../uploads/browndust-understanding-aoe-effect-order-example.jpg">
 
