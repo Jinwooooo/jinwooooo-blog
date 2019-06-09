@@ -4,8 +4,7 @@ title:  "Brown Dust : Arena Counseling"
 image: ''
 date:   2018-09-24 00:12:00
 tags:
-- Brown Dust
-- Arena Counseling
+- Brown Dust (Arena Counseling)
 description: 'Giving users some advice and thoughts on their arena formation'
 categories:
 - Brown Dust (Interactive)

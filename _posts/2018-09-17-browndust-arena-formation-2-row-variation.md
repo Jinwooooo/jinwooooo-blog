@@ -5,7 +5,6 @@ image: ''
 date:   2018-09-20 00:12:00
 tags:
 - Brown Dust (Advanced)
-- Arena Formation
 description: 'One of the most popular formation in Brown Dust'
 categories:
 - Brown Dust (Arena Formation)

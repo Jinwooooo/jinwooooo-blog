@@ -5,7 +5,6 @@ image: ''
 date:   2018-10-03 00:12:00
 tags:
 - Brown Dust (Advanced)
-- Arena Formation
 description: 'Extension of 2 Row Variation Formation'
 categories:
 - Brown Dust (Arena Formation)

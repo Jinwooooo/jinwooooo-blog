@@ -5,7 +5,6 @@ image: ''
 date:   2019-05-13 00:12:00
 tags:
 - Brown Dust (Intermediate)
-- Runes
 description: 'Every rune combination exists, but there are constraints depending on the main type'
 categories:
 - Brown Dust (Runes)

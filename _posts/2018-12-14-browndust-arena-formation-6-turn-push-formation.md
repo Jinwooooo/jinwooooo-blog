@@ -5,7 +5,6 @@ image: ''
 date:   2018-12-14 00:12:00
 tags:
 - Brown Dust (Advanced)
-- Arena Formation
 description: 'A new type of formation created solely due to Lecliss (defensive taunt unit)'
 categories:
 - Brown Dust (Arena Formation)

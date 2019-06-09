@@ -5,7 +5,6 @@ image: ''
 date:   2019-06-04 00:12:00
 tags:
 - Brown Dust (Advanced)
-- Arena Formation
 description: 'The new generation of defensive formation'
 categories:
 - Brown Dust (Arena Formation)

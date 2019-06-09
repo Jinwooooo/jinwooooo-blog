@@ -5,7 +5,6 @@ image: ''
 date:   2019-05-21 00:12:00
 tags:
 - Brown Dust (Intermediate)
-- Arena Formation
 description: 'Reducing turns to farm/mine rune pieces faster'
 categories:
 - Brown Dust (Runes)
