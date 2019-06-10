@@ -5,11 +5,9 @@ image: ''
 date:   2018-10-21 00:12:00
 tags:
 - Hadoop
-- Java
 description: 'Optimizing combining process in Hadoop'
 categories:
-- Hadoop
-- Optimizing
+- Coding (Java)
 ---
 
 ## Abstract

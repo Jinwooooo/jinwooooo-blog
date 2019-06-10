@@ -5,10 +5,9 @@ image: ''
 date:   2019-05-20 00:12:00
 tags:
 - Deduplication
-- Java
 description: 'Storage technique to efficiently store data in cloud'
 categories:
-- Deduplication
+- Coding (Java)
 ---
 
 ## Structure

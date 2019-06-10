@@ -6,12 +6,11 @@ date:   2018-05-07 00:12:00
 tags:
 - NaverCafe
 - Crawling
-- Selenium
-- Highcharter
+- Visualization
 description: 'Python + Selenium for Crawl and R + Highcharter for Visualization'
 categories:
-- Crawling
-- Visualization
+- Coding (R)
+- Coding (Python)
 ---
 
 ## Abstract

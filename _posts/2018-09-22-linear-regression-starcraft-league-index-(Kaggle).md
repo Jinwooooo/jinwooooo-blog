@@ -5,11 +5,10 @@ image: ''
 date:   2018-09-22 00:12:00
 tags:
 - Linear Regression
-- Python
 - Kaggle Dataset
 description: 'Reviewing Linear Regression for Practice. Using Kaggle Public Dataset : Skillcraft'
 categories:
-- Linear Regression
+- Coding (Python)
 ---
 
 I've made a full kernel on [Kaggle](www.kaggle.com). Everything is summarized and explained in the kernel, but I'm just gonna succinctly go over it on this post as well. So if you'd like to see the full report, I recommend you to go to the link below. Additionally, I'm a newbie trying out data analysis, so don't get your expectation too high. '^'
@@ -36,4 +35,4 @@ I'm thinking of actually doing a simple Logistic Regression with R, so will post
 
 ## Final Thoughts
 
-I've learnt linear regression in a very short time (in R) and don't know much about it. I wanted to try regression with Python and overall it wasn't as good as R. So, I think I will stick with R on regressions and simple machine learning. Overall great experience. 
+I've learnt linear regression in a very short time (in R) and don't know much about it. I wanted to try regression with Python and overall it wasn't as good as R. So, I think I will stick with R on regressions and simple machine learning. Overall great experience.

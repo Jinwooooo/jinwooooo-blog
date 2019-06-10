@@ -5,11 +5,10 @@ image: ''
 date:   2018-12-12 00:12:00
 tags:
 - Hadoop
-- Java
+- Shortest Path
 description: 'Brute force approach for SP with Hadoop'
 categories:
-- Hadoop
-- Shortest Path
+- Coding (Java)
 ---
 
 ## Abstract

@@ -6,10 +6,9 @@ date:   2018-05-16 00:12:00
 tags:
 - Deep Learning
 - Neural Network
-- Python
 description: 'One of the popular Deep Learning Algorithms for Image Classification'
 categories:
-- Neural Network
+- Coding (Python)
 ---
 
 ## Abstract
