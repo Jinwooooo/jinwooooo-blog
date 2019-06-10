@@ -1,8 +1,10 @@
 # Github Pages Theme
 
-**Space Jekyll** A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+**Space Jekyll** A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well. By Victor Igor.
 
 See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+
+Go to main repository [here](https://github.com/victorvoid/space-jekyll-template)
 
 # Besides the Theme...
 
