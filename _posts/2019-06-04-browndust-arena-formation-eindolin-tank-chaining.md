@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brown Dust Arena Formation : Indolyn Tank Chaining"
+title:  "Brown Dust Arena Formation : Eindolin Tank Chaining"
 image: ''
 date:   2019-06-04 00:12:00
 tags:
@@ -16,15 +16,15 @@ This post isn't for players who just started playing Brown Dust. You need to hav
 
 ## Abstract
 
-Before the helper/assistance update, the only batch left in non-KR Server is the Ludia/Indolyn/Niel. In this post I will elaborate on successful integration of Indolyn into **3 Row (Power) Formation** (if you aren't familiar, [click me](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)).
+Before the helper/assistance update, the only batch left in non-KR Server is the Ludia/Eindolin/Niel. In this post I will elaborate on successful integration of Eindolin into **3 Row (Power) Formation** (if you aren't familiar, [click me](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)).
 
-Unlike most regular offensive formations and decks, Indolyn Tank Chaining Formation, does not start with a strong assault, but starts with Indolyn → tank1 → tank2 → (optional: tank3) → offensive support chaining → attack (similar with defensive formation and deck). The most important unit other than Indolyn for this formation/deck is **Cecelia**. Before her helper/assistance update Indolyn only had reasonable result with Mamonir (basically using Indolyn as an expensive and better version of John), but now even without Mamonir, she can be utilized in a high competitive level.
+Unlike most regular offensive formations and decks, Eindolin Tank Chaining Formation, does not start with a strong assault, but starts with Eindolin → tank1 → tank2 → (optional: tank3) → offensive support chaining → attack (similar with defensive formation and deck). The most important unit other than Eindolin for this formation/deck is **Cecelia**. Before her helper/assistance update Eindolin only had reasonable result with Mamonir (basically using Eindolin as an expensive and better version of John), but now even without Mamonir, she can be utilized in a high competitive level.
 
 ---
 
-## Indolyn and Cecelia (Renewed)
+## Eindolin and Cecelia (Renewed)
 
-To start off let's get to know about Indolyn (Based on +10).
+To start off let's get to know about Eindolin (Based on +10).
 
 <img src="../uploads/browndust-indolyn-tank-chaining-indolyn.jpg">
 
@@ -32,10 +32,10 @@ To start off let's get to know about Indolyn (Based on +10).
 * X AOE Bestowal
 * **Skill 1** 12 Turn Taunt and Flat 50% Damage Reduction (only the main bestowal target)
 * **Skill 2** 12 Turn Support Coefficient * 50% Critical Damage and 20% Attack Damage Buff (all AOE targets)
-* **Skill 3** 12 Turn Indolyn's Max HP * 12% Heal and Support Coefficient * Critical Rate 30% (all AOE targets)
+* **Skill 3** 12 Turn Eindolin's Max HP * 12% Heal and Support Coefficient * Critical Rate 30% (all AOE targets)
 * **Skill 4** Per Ally's Graves (Ally Dead Units) Flat +60% Support Value (similar to Hanya's Grave Mechanics)
 
-Her **Skill 2** and **Skill 3** is a very good stat enhancements on any DPS units, but because her main target will have taunt it's very risky to put DPS units within the AOE (especially with high usage of Velfern rate in current 2019 May meta). So you have 2 choices. Only put tanky units near the main target who synergizes well with Indolyn's buff (e.g. Velfern) or don't place any unit and just use her like a better version of John.
+Her **Skill 2** and **Skill 3** is a very good stat enhancements on any DPS units, but because her main target will have taunt it's very risky to put DPS units within the AOE (especially with high usage of Velfern rate in current 2019 May meta). So you have 2 choices. Only put tanky units near the main target who synergizes well with Eindolin's buff (e.g. Velfern) or don't place any unit and just use her like a better version of John.
 
 This problem was solved when Cecelia got renewed and got helper/assistant. The new Cecelia (Based on +12).
 
@@ -47,11 +47,11 @@ This problem was solved when Cecelia got renewed and got helper/assistant. The n
 * **Skill 3** PERM ADV Curse Reflect (50% Stat Reduction)
 * **Skill 4** ADV Titan Strike (DPS: Self Max HP * 25%; Heal: Self Max HP * 50%)
 
-Since any main targeted AOE attacks on Cecelia (since she has taunt on) is reduced to herself only, any units near Cecelia is safe. Basically, now it's possible to give Indolyn's stat enhancement buffs to a DPS unit.
+Since any main targeted AOE attacks on Cecelia (since she has taunt on) is reduced to herself only, any units near Cecelia is safe. Basically, now it's possible to give Eindolin's stat enhancement buffs to a DPS unit.
 
 At this point you may wonder why you can't use this formation without the Renewal + Helper/Assistant. Here's some of the reason why.
 
-**Assuming Cecelia Received Indolyn's Buff**
+**Assuming Cecelia Received Eindolin's Buff**
 
 * <span style="color:blue">NEW Cecelia can tank +8 or less Valze</span>
 * <span style="color:red">OLD Cecelia straight out dies to even +0 Valze</span>
@@ -72,7 +72,7 @@ So as you can see only DPS you have to really worry about is Anastasia (with any
 
 ## Idea Behind Tank Chaining
 
-So after bestowing Indolyn's buff on Cecelia, you have two choices. Choice 1 is to go for the offensive support buff chaining into a strong attack. Choice 2 is to let one of your main tanks go after Cecelia (usually Lucius or Mamonir). The basic way to choose can be easily determined.
+So after bestowing Eindolin's buff on Cecelia, you have two choices. Choice 1 is to go for the offensive support buff chaining into a strong attack. Choice 2 is to let one of your main tanks go after Cecelia (usually Lucius or Mamonir). The basic way to choose can be easily determined.
 
 <img src="../uploads/browndust-indolyn-tank-chaining-flowchart.PNG">
 
@@ -86,7 +86,7 @@ Moreover, it isn't that disadvantageous to push your attacks till the last few t
 
 <img src="../uploads/browndust-indolyn-tank-chaining-sample-1.jpg">
 
-This one is mix up with **Indolyn Tank Chaining** and **3 Row Power Formation**. The stat enhanced buff goes to Anastasia and Foxy. Enemy's first DPS is tanked through Cecelia, second DPS is tanked through Recliss, and third DPS is tanked through Walya. Foxy → Anastasia order is to erase any taunts with Foxy and then hope for Anastasia to hit enemy's DPS. This formation is assuming that Valze is not used for second turn DPS. It's pretty standard deck for good defensive winrate and offensive winrate.
+This one is mix up with **Eindolin Tank Chaining** and **3 Row Power Formation**. The stat enhanced buff goes to Anastasia and Foxy. Enemy's first DPS is tanked through Cecelia, second DPS is tanked through Recliss, and third DPS is tanked through Walya. Foxy → Anastasia order is to erase any taunts with Foxy and then hope for Anastasia to hit enemy's DPS. This formation is assuming that Valze is not used for second turn DPS. It's pretty standard deck for good defensive winrate and offensive winrate.
 
 <img src="../uploads/browndust-indolyn-tank-chaining-sample-2.jpg">
 
