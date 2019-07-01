@@ -35,6 +35,7 @@ I don't even burn natural swords regularly now on KR. I usually end up in Sapphi
 **Asia Server 2019**
 
 * 2019 May : Grandmaster II ~ Grandmaster I
+* 2019 June : Ruby III ~ Grandmaster I
 
 ---
 
