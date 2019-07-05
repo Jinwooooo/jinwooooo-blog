@@ -12,11 +12,11 @@ categories:
 
 ## Index
 
-* **Index / General**
-* **Methods Utilized**
-* **Level 1 - Patch**
-* **Level 2 - Image**
-* **Results**
+* [Index / General](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifcation-with-cnn-(index-general)/)
+* Methods Utilized
+* Level 1 - Patch
+* Level 2 - Image
+* Results
 
 ---
 
@@ -63,7 +63,7 @@ However, the program isn't going to do what I've set the "NORM" category as in m
 
 <img src="../uploads/lung-cancer-cnn-actual.png">
 
-The reason behind understanding basic visual features is that usually in machine/deep learning you usually have incremental models. By knowing the visual features, it may act as a good guidance on where to touch on your model to be better than the preceding model. I'd also like to mention that the images below were handpicked by me in order to have a good look on the known visual features. It is possible for histology images to have very little features of what I have mentioned below.
+The reason behind understanding basic visual features is that usually in machine/deep learning you usually have incremental models. By knowing the visual features, it may act as a good guidance on where to touch on your model to enhance it. I'd also like to mention that the images below were handpicked by me in order to have a good look on the known visual features. It is possible for histology images to have very little features of what I have mentioned below.
 
 <img src="../uploads/lung-cancer-cnn-norm-adc-visual-features.png">
 

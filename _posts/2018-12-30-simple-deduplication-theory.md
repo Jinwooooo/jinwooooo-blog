@@ -64,4 +64,4 @@ The next common storage (not known for performance) is disk. There are actually 
 
 ## Implementation
 
-Will update this part when [Simple Deduplication (Impementation)](https://google.com), is finished!
+Go [Simple Deduplication (Impementation)](https://jinwooooo.github.io/jinwooooo-blog/simple-deduplication-implementation/), for the implementation post!

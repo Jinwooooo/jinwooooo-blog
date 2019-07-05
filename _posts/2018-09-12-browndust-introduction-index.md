@@ -12,7 +12,7 @@ categories:
 
 <img src="../uploads/browndust-introduction-main.jpg">
 
-I play this mobile game called Browndust, a SRPG (Strategic Role Playing Game). Currently there are 6 servers : Korea, Japan, Taiwan, Asia, Europe and Global. I play in the Korea & Asia server. For most of Browndust related post, I will be referring to Korea which is few patches ahead of other regions. I will be making posts related strategies, unit reviews, formations, and etc. However, I generally do not enjoy making posts that are ephemeral (i.e. tier list).
+I play this mobile game called Browndust, a SRPG (Strategic Role Playing Game). Currently there are 6 servers : Korea, Japan, Taiwan, Asia, Europe and Global. I play in the Korea & Asia server. For most of Browndust related post, I will be referring to Korea which is few patches ahead of other regions. I will be making posts related strategies, unit reviews, formations, and etc. However, I generally do not enjoy making posts that are ephemeral (e.g. tier list).
 
 If you are interested in my regular arena placements here are the particulars
 
@@ -30,7 +30,7 @@ If you are interested in my regular arena placements here are the particulars
 
 I don't even burn natural swords regularly now on KR. I usually end up in Sapphire. High chance I'm going to let my KR account go due to the fact that my previously invested AC units are completely outclassed by Dominus Octos.
 
-**Asia Server Deck Type** 2 Row Power Variations (I switch up accordingly)
+**Asia Server Deck Type** 2 ~ 3 Row Power Variations (I switch up accordingly)
 
 **Asia Server 2019**
 
