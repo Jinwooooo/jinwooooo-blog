@@ -126,4 +126,4 @@ As mentioned in the **Methods Utilized** post, each procedure has a BatchNorm2d 
 
 Moreover, it is common in neural network to utilize maxpooling, but I've used 2x2 convolution layer with a stride of 2 instead (they pretty much do the same thing, I've used it because with a subset it performed better in terms of accuracy). If you are familiar with machine learning, you would have noticed the log_softmax function. Since the network is trying to classify a non-binary model, it makes sense to use the SoftMax.
 
-Note that after each epoch the model is saved into a Pytorch checkpoints.
+Note that after each epoch the model is saved into a Pytorch checkpoints file.
