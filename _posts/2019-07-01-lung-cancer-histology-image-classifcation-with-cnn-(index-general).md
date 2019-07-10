@@ -13,7 +13,7 @@ categories:
 ## Index
 
 * [Index / General](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifcation-with-cnn-(index-general)/)
-* Methods Utilized
+* [Methods Utilized](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifiation-with-cnn-(methods-utilized)/)
 * Level 1 - Patch
 * Level 2 - Image
 * Results
@@ -79,3 +79,11 @@ The overall structure of the program is pretty straight forward for a CNN.
 <img src="../uploads/lung-cancer-cnn-master-architecture.png">
 
 ---
+
+## Overall Network Structure
+
+Abstract architecture for the 2 Level Neural Network.
+
+<img src="../uploads/lung-cancer-cnn-2-level-model.png">
+
+More detailed explanations are available in the other posts (**Level 1 - Patch** and **Level 2 - Image**)
