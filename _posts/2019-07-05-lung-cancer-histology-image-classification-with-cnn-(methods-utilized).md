@@ -15,7 +15,7 @@ categories:
 * [Index / General](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifcation-with-cnn-(index-general)/)
 * [Methods Utilized](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifiation-with-cnn-(methods-utilized)/)
 * [Level 1 - Patch](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifiation-with-cnn-(level-1-patch)/)
-* Level 2 - Image
+* [Level 2 - Image](https://jinwooooo.github.io/jinwooooo-blog/lung-cancer-histology-image-classifiation-with-cnn-(level-2-image)/)
 * Results
 
 ---
