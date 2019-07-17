@@ -34,6 +34,8 @@ Before going in to statistical result values, here is a compressed figure to sho
 
 <img src="../uploads/lung-cancer-cnn-stat-value-represent.png">
 
+I have highlighted the F1 value yellow because this one is a bit special value which many are not familiar with what it actually represents. Rather than me elaborating on what it is I strongly encourage you to search it up. There are plenty of good websites, posts, articles that explains what Accuracy, Precision, Recall, F1 value represents.
+
 Here are the actual results in table form and the ROC graph.
 
 <img src="../uploads/lung-cancer-cnn-level-1-result.png">
