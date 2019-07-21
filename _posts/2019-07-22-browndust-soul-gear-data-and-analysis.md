@@ -49,7 +49,7 @@ Since everyday you gain 4 chances, basically each day for clearing each Raid Dif
 * **Normal** 960k Gold
 * **Hard** 1.6m Gold
 
-If you see the % increase of Gold you get from going up a difficulty, it is **Easy → Normal (300% increase)** and **Normal → Hard (67.77% increase)**. It is easy to understand that doing a **Easy** raid is super inefficient. Some may think that because the increase from **Normal** to **Hard** isn't that big, maybe it's okay to keep doing **Normal**, but you here are some additional information you should know.
+If you see the % increase of Gold you get from going up a difficulty, it is **Easy → Normal (300% increase)** and **Normal → Hard (67.77% increase)**. It is easy to understand that doing a Easy raid is super inefficient. Some may think that because the increase from Normal to Hard isn't that big, maybe it's okay to keep doing Normal, but you here are some additional information you should know.
 
 Many users farm gold through the Friday, Saturday, Sunday gold dungeons, so I'm going to adjust the total gold value for raid in a full week.
 
@@ -57,9 +57,9 @@ Many users farm gold through the Friday, Saturday, Sunday gold dungeons, so I'm 
 * **Hard** 11.2m Gold
 * <span style="color:red">**Difference**</span> 4.48m Gold
 
-If you have experienced autoing Gold Dungeons, 4.48m Gold takes roughly about **4~5 Hours** (for 7 turns). Now since autoing gold dungeons isn't particularly costly but **HS (Horse Shoe)** is. It translates to roughly about 2.5k HS, which is almost a full 4 days of HS saving in mailbox.
+If you have experienced autoing Gold Dungeons, 4.48m Gold takes roughly about **4~5 Hours** (for 7 turns). Now, since autoing gold dungeons isn't particularly costly but **HS (Horse Shoe)** is. It translates to roughly about 2.5k HS, which is almost a full 4 days of HS saving in mailbox.
 
-**Conclusion (tl;dr)** You lose more than 4.48m Gold (resources and opportunity costs) per week by not doing **Hard** raids. If you aren't able to solo Hard, be very active to find a Raid party that can successfully clear **Hard**
+**Conclusion (tl;dr)** You lose more than 4.48m Gold (resources and opportunity costs) per week by not doing Hard raids. If you aren't able to solo Hard, be very active to find a Raid party that can successfully clear Hard
 
 ---
 
