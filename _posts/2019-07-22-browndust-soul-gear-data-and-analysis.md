@@ -59,7 +59,7 @@ Many users farm gold through the Friday, Saturday, Sunday gold dungeons, so I'm 
 
 If you have experienced autoing Gold Dungeons, 4.48m Gold takes roughly about **4~5 Hours** (for 7 turns). Now since autoing gold dungeons isn't particularly costly but **HS (Horse Shoe)** is. It translates to roughly about 2.5k HS, which is almost a full 4 days of HS saving in mailbox.
 
-**Conclusion (tl;dr)** You lose more than 4.48m Gold (resources and opportunity costs) by not doing **Hard** raids. If you aren't able to solo Hard, be very active to find a Raid party that can successfully clear **Hard**
+**Conclusion (tl;dr)** You lose more than 4.48m Gold (resources and opportunity costs) per week by not doing **Hard** raids. If you aren't able to solo Hard, be very active to find a Raid party that can successfully clear **Hard**
 
 ---
 
