@@ -20,6 +20,8 @@ If you are interested in my regular arena placements here are the particulars
 
 **KR Server 2018 ~ 2019**
 
+**IGN** Baloo
+
 * 2018 August : Master I ~ Master III
 * 2018 September : Master II ~ Grandmaster III
 * 2018 October : Master III ~ Grandmaster III
@@ -33,6 +35,8 @@ I don't even burn natural swords regularly now on KR. I usually end up in Sapphi
 **Asia Server Deck Type** 2 ~ 3 Row Power Variations (I switch up accordingly)
 
 **Asia Server 2019**
+
+**IGN** Lacheln
 
 * 2019 May : Grandmaster II ~ Grandmaster I
 * 2019 June : Ruby III ~ Grandmaster I
@@ -53,6 +57,7 @@ no post yet
 * [Brown Dust : Rune Tier & Grade Comparison with Charts](https://jinwooooo.github.io/jinwooooo-blog/browndust-rune-tier-grade-comparison/)
 * [Brown Dust : Reducing Turns for 12th Floor](https://jinwooooo.github.io/jinwooooo-blog/browndust-reducing-turns-for-12th-floor/)
 * [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
+* [Brown Dust : Soul Gear Data and Analysis](https://jinwooooo.github.io/jinwooooo-blog/browndust-soul-gear-data-and-analysis/)
 
 ---
 
