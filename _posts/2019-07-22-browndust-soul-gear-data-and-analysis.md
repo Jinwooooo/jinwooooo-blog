@@ -71,7 +71,7 @@ Some Assumptions (these numbers are NOT OFFICIAL)
 * Chance for 4★ SG = 20%
 * Chance for 3★ SG = 70%
 
-<img src="../uploads/browndust-sg-4-sg-exp.png">
+<img src="../uploads/browndust-sg-4-sg-exp.jpeg">
 
 <img src="../uploads/browndust-sg-5-sg-exp.png">
 
