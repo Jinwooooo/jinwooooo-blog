@@ -103,7 +103,7 @@ Usually with Ceres, you need a full Fatal Rune on Foxy to get ~100% Critical Rat
 
 ## P2 - How to Read the following Guide
 
-It is crucial that you know that these values are based on mostly after support buff is given to the units.
+It is crucial that you know that these values are based on AFTER support buff is given.
 
 <img src="../uploads/browndust-offense-rune-guide-post-buff.png">
 
@@ -122,6 +122,8 @@ And here are the other stuffs that you should know
 * **Clean Up** doesn't matter when he/she goes as long as it is not first (can go second if Follow Up is empty)
 * **All-Rounder** can go any turn
 * **Utility DPS** usually Utility goes after regular DPS, but that's not always the best case
+
+**Also note that these are mostly based on +10, it may work in the lower + sometimes, but it's not always the case**
 
 * **Anastasia**
 
