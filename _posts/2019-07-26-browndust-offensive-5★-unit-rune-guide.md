@@ -94,7 +94,7 @@ Usually with Ceres, you need a full Fatal Rune on Foxy to get ~100% Critical Rat
 
 * This 1.0 ~= 2.7 value is based on CBS 6★ Epic Rune, for custom optimization you'll need to find the value according to the runes available to you
 * if FlatRuneATK gives you more ATK than %RuneATK with the optimization, you can substitute FlatRuneATK (generally with support buff, FlatRuneATK may give u slightly more advantage)
-* Be mindful that, the more support buff you give, giving RuneATK is more optimal (The reasoning behind is quite simple, think if the equation is x + y = 10 and max(x,y), easily x = 5, y = 5 is the solution. If you add in more support this equation becomes x + y = 20 and max(x,y). If you put x = 5, y = 15, it is no longer the maximum, rather it is x = 10, y = 10)
+* Be mindful that the more support buff you give, giving RuneATK is more optimal (The reasoning behind is quite simple, think if the equation is x + y = 10 and max(x,y), easily x = 5, y = 5 is the solution. If you add in more support this equation becomes x + y = 20 and max(x,y). If you put x = 5, y = 15, it is no longer the maximum, rather it is x = 10, y = 10)
 * It gives you slight advantage, this optimization will not give you like insane advantage (see image below)
 
 <img src="../uploads/browndust-offense-rune-guide-margin-difference.png">

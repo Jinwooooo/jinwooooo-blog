@@ -58,6 +58,7 @@ no post yet
 * [Brown Dust : Reducing Turns for 12th Floor](https://jinwooooo.github.io/jinwooooo-blog/browndust-reducing-turns-for-12th-floor/)
 * [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
 * [Brown Dust : Soul Gear Data and Analysis](https://jinwooooo.github.io/jinwooooo-blog/browndust-soul-gear-data-and-analysis/)
+* [Brown Dust : Offensive 5★ Unit Rune Guide](https://jinwooooo.github.io/jinwooooo-blog/browndust-offensive-5-unit-rune-guide/)
 
 ---
 
