@@ -66,7 +66,7 @@ If we substitute these numbers...
 (1+x)(1.5 + 2.7(1-x))
 {% endhighlight %}
 
-and put these into [wolframalpha](https://www.wolframalpha.com/input/?i=(1%2Bx)(1.5+%2B+2.7(1-x))) for quicc mafs (click on the link to see the math stuff). Our maximum is when x = 5/18! (i.e. the damage output is **maxed when %RuneAtk = 27.7% and RuneCDMG = 197%**)
+and put these into [wolframalpha](https://www.wolframalpha.com/input/?i=(1%2Bx)(1.5+%2B+2.7(1-x))) for quicc mafs (click on the link to see the math stuff). Our maximum is when x = 5/18! (i.e. the damage output is **maxed when %RuneAtk = 0.277 and RuneCDMG = 1.97**)
 
 ### Real Example
 
