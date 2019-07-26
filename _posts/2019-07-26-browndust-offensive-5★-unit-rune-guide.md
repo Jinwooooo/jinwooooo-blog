@@ -27,7 +27,7 @@ For Units, also just **Ctrl + F** w/ the unit name.
 
 ## P1 - Mathematical Way to Optimize Damage Output
 
-Before getting into it, please note that this is for units that don't have special ability to specific runes (e.g. Aanastasia w/ Fatal Fury). This one is for more general units (e.g. Foxy, Leto, Lian, etc.)
+Before getting into it, please note that this is for units that don't have special ability to specific runes (e.g. Anastasia w/ Fatal Fury). This one is for more general units (e.g. Foxy, Leto, Lian, etc.)
 
 For impatient users, here is a **tl;dr** summary
 
