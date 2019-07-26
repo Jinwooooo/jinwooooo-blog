@@ -2,7 +2,7 @@
 layout: post
 title:  "Brown Dust Units & Runes : Offensive 5★ Unit Rune Guide"
 image: ''
-date:   2019-07-21 00:12:00
+date:   2019-07-26 00:12:00
 tags:
 - Brown Dust (Intermediate)
 description: 'General Guide on How to Arm Offensive 5★ Unit'
