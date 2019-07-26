@@ -67,7 +67,7 @@ If we substitute these numbers...
 
 and put these into [wolframalpha](https://www.wolframalpha.com/input/?i=(1%2Bx)(1.5+%2B+2.7(1-x))) for quicc mafs (click on the link to see the math stuff). Our maximum is when x = 5/18! (i.e. the damage output is **maxed when %RuneAtk = 27.7% and RuneCDMG = 197%**)
 
-###Real Example
+### Real Example
 
 I'm going to be using DPS as **Foxy** and Support as **Venaka +10** and **Ceres +10**.
 
