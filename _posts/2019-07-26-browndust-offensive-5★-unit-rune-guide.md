@@ -49,7 +49,7 @@ There are some values we are able to remove to reduce equation. I'll be removing
 (1 + %RuneATK)(1.5 + RuneCDMG)
 {% endhighlight %}
 
-At this point we have 2 variables. We have 1 equation with 2 variables, which just doesn't work. So I'm going to form a relationship with %RuneATK and RuneCDMG to reduce this equation to 1 variable. I'm going to use values that are easier to work with so I used CBS epic rune for each one.
+At this point we have 1 equation with 2 variables, which just doesn't work. So I'm going to form a relationship with %RuneATK and RuneCDMG to reduce this equation to 1 variable. I'm going to use values that are easier to work with so I used CBS epic rune for each one.
 
 <img src="../uploads/browndust-offense-rune-guide-cbs-runes.png">
 
