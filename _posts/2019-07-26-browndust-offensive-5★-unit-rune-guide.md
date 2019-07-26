@@ -115,6 +115,8 @@ And here are the other stuffs that you should know
 
 ## P3 - 5★ Offensive Unit List w/ Rune Guide
 
+For **Roles** Initiator = goes first; Follow Up = goes second; Clean Up = doesn't matter when he/she goes as long as it is not first (can go second if Follow Up is empty); All-Rounder (can go any turn)
+
 * **Anastasia**
 
 <img src="../uploads/browndust-offense-rune-guide-anastasia.png">
