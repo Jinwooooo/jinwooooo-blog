@@ -30,7 +30,7 @@ If you are interested in my regular arena placements here are the particulars
 * 2019 January : Master III ~ Master I
 * 2019 February and Onwards : Hoarding AC related resources (i.e. no longer competitive)
 
-I don't even burn natural swords regularly now on KR. I usually end up in Sapphire. High chance I'm going to let my KR account go due to the fact that my previously invested AC units are completely outclassed by Dominus Octos.
+I'm no longer active in KR.
 
 **Asia Server Deck Type** 2 ~ 3 Row Power Variations (I switch up accordingly)
 
@@ -40,6 +40,8 @@ I don't even burn natural swords regularly now on KR. I usually end up in Sapphi
 
 * 2019 May : Grandmaster II ~ Grandmaster I
 * 2019 June : Ruby III ~ Grandmaster I
+* 2019 July : Grandmaster II ~ Grandmaster I
+* 2019 August : Grandmaster I
 
 ---
 
