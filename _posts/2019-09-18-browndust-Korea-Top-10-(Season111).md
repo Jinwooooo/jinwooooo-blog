@@ -55,7 +55,7 @@ Not much modified from previous season except for Bansheena. He has massive unit
 **Rank 9 : insta**
 <img src="../uploads/S111-9.png">
 
-The 3 common magician line up is there, but threw a curve with Asmod and Alec on a different row from the mage row (Usually 1 is placed with the same row as Magician to get Lucius DG activated). He swapped deck formation consistently during the sword rush, so hard to analyze the deck he finished with.
+The 3 common magician line up is there, but threw a curve with Asmod and Alec on a different row from the mage row (Usually 1 is placed with the same row as Magician). He swapped deck formation consistently during the sword rush, so hard to analyze the deck he finished with.
 
 **Rank 10 : 내인생이영화다 (MyLifeLikeMovie)**
 <img src="../uploads/S111-10.png">
