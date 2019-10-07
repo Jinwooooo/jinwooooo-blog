@@ -18,8 +18,8 @@ You can go get the google spreadsheet in this [link](https://docs.google.com/spr
 
 ## Arcstar
 
-<img src="../uploads/wb-debuffer-arcstar.jpg">
+<img src="../uploads/wb-debuffer-arcstar.png">
 
 ## Ogdoad
 
-<img src="../uploads/wb-debuffer-ogdoad.jpg">
+<img src="../uploads/wb-debuffer-ogdoad.png">
