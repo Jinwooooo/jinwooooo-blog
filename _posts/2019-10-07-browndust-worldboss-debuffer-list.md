@@ -4,7 +4,7 @@ title:  "Brown Dust World Boss Debuffer List"
 image: ''
 date:   2019-10-07 00:12:00
 tags:
-- Brown Dust (Advanced)
+- Brown Dust (Intermediate)
 description: 'List of Debuffers for World Boss (Hunt)'
 categories:
 - Brown Dust (World Boss)

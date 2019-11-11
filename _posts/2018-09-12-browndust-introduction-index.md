@@ -42,6 +42,8 @@ I'm no longer active in KR.
 * 2019 June : Ruby III ~ Grandmaster I
 * 2019 July : Grandmaster II ~ Grandmaster I
 * 2019 August : Grandmaster I
+* 2019 September : Grandmaster II ~ Grandmaster I
+* 2019 October : Grandmaster I ~ Challenger III
 
 ---
 
@@ -61,6 +63,7 @@ no post yet
 * [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
 * [Brown Dust : Soul Gear Data and Analysis](https://jinwooooo.github.io/jinwooooo-blog/browndust-soul-gear-data-and-analysis/)
 * [Brown Dust : Offensive 5★ Unit Rune Guide](https://jinwooooo.github.io/jinwooooo-blog/browndust-offensive-5-unit-rune-guide/)
+* [Brown Dust : Worldboss Debuffer List](https://jinwooooo.github.io/jinwooooo-blog/browndust-worldboss-debuffer-list/)
 
 ---
 
