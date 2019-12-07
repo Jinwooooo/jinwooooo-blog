@@ -39,7 +39,7 @@ You can easily just wall R1 for this formation with just Lilian alone. Just addi
 
 <img src="../uploads/bd-gw-defense-example-1-2.PNG">
 
-One of main Dalvi's weakness is Lucius and one of Niya's weakness is against 100% Armored units. The two units are covering up each units weakness, making the formation more harder to deal with.
+One of Dalvi's main weakness is Lucius and one of Niya's weakness is against 100% Armored units. The two units are covering up each units weakness, making the formation more harder to deal with.
 
 ---
 
