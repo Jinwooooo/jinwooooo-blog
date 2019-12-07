@@ -44,6 +44,7 @@ I'm no longer active in KR.
 * 2019 August : Grandmaster I
 * 2019 September : Grandmaster II ~ Grandmaster I
 * 2019 October : Grandmaster I ~ Challenger III
+* 2019 November : Grandmaster I ~ Champion
 
 ---
 

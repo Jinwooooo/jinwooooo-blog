@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Brown Dust Units & Runes : Offensive 5★ Unit Rune Guide"
+title:  "Brown Dust Units & Runes : Offensive Unit Rune Guide"
 image: ''
 date:   2019-07-26 00:12:00
 tags:
 - Brown Dust (Intermediate)
-description: 'General Guide on How to Arm Offensive 5★ Unit'
+description: 'General Guide on How to Arm Offensive Units'
 categories:
 - Brown Dust (Runes)
 - Brown Dust (Units)
@@ -13,15 +13,12 @@ categories:
 
 ## Abstract
 
-Generally most of <span style="color:red">5★ Offensive Unit</span> goes with a very similar format, but there's a mathematical logic behind this format. This post is separated in **3 Parts**.
+Generally most of <span style="color:red">5★ Offensive Unit</span> goes with a very similar format, but there's a mathematical logic behind this format. This post is separated in **2 Parts**.
 
 1. **P1 - Mathematical Way to Optimize Damage Output**
-2. **P2 - How to Read the following Guide**
-3. **P3 - 5★ Offensive Unit List w/ Rune Guide**
+2. **P2 - Some 5★ Offensive Unit Examples**
 
-Please use **Ctrl + F** w/ keywords **P1, P2, P3** to get there quickly. I'll try to look into the blog framework if I can make a link to the parts with a click.
-
-For Units, also just **Ctrl + F** w/ the unit name.
+Please use **Ctrl + F** w/ keywords **P1** and **P2** to get there quickly.
 
 ---
 
@@ -101,7 +98,9 @@ Usually with Ceres, you need a full Fatal Rune on Foxy to get ~100% Critical Rat
 
 ---
 
-## P2 - How to Read the following Guide
+## P2 - Some 5★ Offensive Unit Examples
+
+### Clarifying on what some images/values mean
 
 It is crucial that you know that these values are based on AFTER support buff is given.
 
@@ -110,12 +109,6 @@ It is crucial that you know that these values are based on AFTER support buff is
 And here are the other stuffs that you should know
 
 <img src="../uploads/browndust-offense-rune-guide-general-guide.png">
-
----
-
-## P3 - 5★ Offensive Unit List w/ Rune Guide
-
-### Roles
 
 * **Initiator** goes first
 * **Follow Up** goes second
@@ -128,10 +121,6 @@ And here are the other stuffs that you should know
 * **Anastasia**
 
 <img src="../uploads/browndust-offense-rune-guide-anastasia.png">
-
-* **Babara**
-
-<img src="../uploads/browndust-offense-rune-guide-babara.png">
 
 * **Christina**
 
@@ -149,22 +138,6 @@ And here are the other stuffs that you should know
 
 <img src="../uploads/browndust-offense-rune-guide-edin.png">
 
-* **Eleaneer**
-
-<img src="../uploads/browndust-offense-rune-guide-eleaneer.png">
-
-* **Elija**
-
-<img src="../uploads/browndust-offense-rune-guide-elija.png">
-
-* **Farrel**
-
-<img src="../uploads/browndust-offense-rune-guide-farrel.png">
-
-* **Foxy**
-
-**will upload it when it's ready :3...**
-
 * **Gunther**
 
 <img src="../uploads/browndust-offense-rune-guide-gunther.png">
@@ -172,35 +145,3 @@ And here are the other stuffs that you should know
 * **Hanya**
 
 <img src="../uploads/browndust-offense-rune-guide-hanya.png">
-
-* **Jin**
-
-<img src="../uploads/browndust-offense-rune-guide-jin.png">
-
-* **Kaina**
-
-<img src="../uploads/browndust-offense-rune-guide-kaina.png">
-
-* **Rogan**
-
-<img src="../uploads/browndust-offense-rune-guide-rogan.png">
-
-* **Siegmund**
-
-<img src="../uploads/browndust-offense-rune-guide-siegmund.png">
-
-* **Ventana**
-
-<img src="../uploads/browndust-offense-rune-guide-ventana.png">
-
-* **Victor**
-
-<img src="../uploads/browndust-offense-rune-guide-victor.png">
-
-* **Wilhelmina**
-
-<img src="../uploads/browndust-offense-rune-guide-wilhelmina.png">
-
-* **Yuri**
-
-<img src="../uploads/browndust-offense-rune-guide-yuri.png">
