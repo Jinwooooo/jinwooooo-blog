@@ -24,9 +24,10 @@ I will first list them out and then elaborate on them after.
 4. Always prioritize AGI bonus stat in rune over others if possible.
 
 Of course, there are other ways in tricking opponents with some pocket strategy like Kaoli + Mich combo, activating Walya late, Lecliss first turn, but this post will cover some general stuffs. For the pocket/troll strategy, I will cover it separately (if I ever do decide to cover).
+
 ---
 
-### 1
+### 1. Pairing up offensive units to cover up each other's weakness
 
 **Bad example**
 
@@ -42,7 +43,7 @@ One of main Dalvi's weakness is Lucius and one of Niya's weakness is against 100
 
 ---
 
-### 2
+### 2. Pairing up units to stop enemy from easily removing taunt from the field
 
 **Bad example**
 
@@ -58,7 +59,7 @@ If you don't know the turn order, Grace and Gloria cannot reliably block Kaoli b
 
 ---
 
-### 3
+### 3. Avoid placing units that doesn't have debuff immunity in key locations
 
 This I feel is not very familiar with users who aren't that into Guildwar. **Concentrated Fire** if used correctly against some formation can win you the 3★ alone. Note that you need to make sure that the key units are not vulnerable to the AOE from the concentrated fire targets. If some support dies alone by getting concentrated fire, that's usually not a problem.
 
@@ -76,6 +77,6 @@ The concentrated fire targets here is only Lucius (Walya is also targetable, but
 
 ---
 
-### 4
+### 4. Prioritize on AGI bonus stats in runes
 
 What AGI basically does is by luck some units happen to survive an attack they were supposed to die which can completely mess up the opponent turn order. It also reduces the turn order of enemy's debuff into half, so it will also create problems to enemy who are thinking of using concentrated fire (very problematic with Maya because if enemy does graze, Maya's concentrated fire debuff will tick out before you get to attack). Even for DPS units, they may survive a titan strike attacks from Cecelia or Gran to survive for another turn.
