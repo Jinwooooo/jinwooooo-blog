@@ -46,9 +46,9 @@ I'm sure that not many users would've have even seen this mage in action. For so
 
 You were forced to use a taunt rod on the final turn so that you don't get your core rows fried (i.e. this start of the last taunt isolated rod strategy). Due to his massive presence in PvP Arena during his prime, <span style="color:red">he was the first unit ever to get his skill set modified/nerfed</span> (note that first stat modification was Mercedes and the first mechanics modification was Ron). Kyle's 'awakened skill' is currently PERM Adroitness, but during his Era it was actually PERM Attack Interference Immunity. As I pointed out in Stone Age, pretty much any unit that are currently popular pretty much have Debuff Immunity, but during this period, no one had a self PERM Attack Interference Immunity (you could potentially bestow with supports, but that would increase the constraints on how you form your decks). On top of his really good skill sets, he only required +6 for high tier competitive PvP deployment, so he wasn't that expensive either.
 
-{% highlight text %}
+>
 I want to highlight on the fact that a mage being the core part of the deck was unthinkable during this period. The impact that Kyle had on the arena was huge and I feel like any modern user will have a hard time comprehending Kyle's impact because of so much emphasis on mage right now in BD.
-{% endhighlight %}
+>
 
 **Cause of downfall of Kyle Era**
 
