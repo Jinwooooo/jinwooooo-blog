@@ -64,9 +64,9 @@ Most users when Suicide Squad got popular had only 1 6D and at low + and the bes
 
 <img src="../uploads/bd-pvp-arena-ancient-history-aleclul.gif">
 
-<span style="color:blue">So as you have probably guessed, Sloan was mostly located in the very front or in the skip position and the one cell behind him was almost always empty (saturated DPS units like Alec Range + other DPS like Frederica had 2 cell range).
+<span style="color:blue">So as you have probably guessed, Sloan was mostly located in the very front or in the skip position and the one cell behind him was almost always empty (saturated DPS units like Alec Range + other DPS like Frederica had 2 cell range).</span>
 
-Zakan, one of the lowest required investment (+2) required to put him into good use. Position wise, same as Sloan.</span>
+<span style="color:blue">Zakan, one of the lowest required investment (+2) required to put him into good use. Position wise, same as Sloan.</span>
 
 <img src="../uploads/bd-pvp-arena-ancient-history-suicide-formation.jpg">
 
