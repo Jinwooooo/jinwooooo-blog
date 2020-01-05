@@ -2,10 +2,10 @@
 layout: post
 title:  "Brown Dust PvP Arena Ancient History Index"
 image: ''
-date:   2020-01-05 00:12:00
+date:   2020-01-01 00:12:00
 tags:
 - Brown Dust (Intermediate)
-description: 'Browndust PvP Arena Ancient History (2017 April ~ 2018 February)'
+description: 'Browndust PvP Arena Ancient History Index (2017 April ~ 2018 February)'
 categories:
 - Brown Dust (PvP Arena Ancient History)
 ---
@@ -31,7 +31,7 @@ I will specifically inform in each post if these systems existed or not :).
 ## Index
 
 * [Stone Age](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-stone-age/)
-* [Bronze Age]()
-* [GSF Part 1]()
-* [Iron Age]()
-* [GSF Part 2]()
+* [Bronze Age](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-bronze-age/)
+* [Iron Age](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-iron-age/)
+
+* [Special Edition: GSF]()

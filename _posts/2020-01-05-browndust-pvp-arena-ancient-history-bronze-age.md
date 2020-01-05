@@ -2,7 +2,7 @@
 layout: post
 title:  "Brown Dust PvP Arena Ancient History (Bronze Age)"
 image: ''
-date:   2020-01-05 00:12:00
+date:   2020-01-03 00:12:00
 tags:
 - Brown Dust (Intermediate)
 description: 'BD Meta from 2017 July to 2017 September'
