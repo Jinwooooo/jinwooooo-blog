@@ -28,6 +28,7 @@ In **Stone Age**, majority were stuck with 3★ units and had to try to use one 
 * Dominus Octo (2nd Batch - Asmod, Mamonir, Valze, Velfern)
 * Companion System
 * Custom / Pity System
+
 ---
 
 ## Ridel Era

@@ -19,8 +19,9 @@ This category will only cover what I felt had big impact within the game. There 
 Because it was long ago there were systems that did not exist in the past. The biggest 5 systems were
 
 * Ancient Coin System
+* Dominus Octo (1st Batch - Beliath, Levia, Lucius, Seto)
 * Soul Gear System
-* Dominus Octo
+* Dominus Octo (2nd Batch - Asmod, Mamonir, Valze, Velfern)
 * Companion System
 * Custom / Pity System
 
@@ -34,4 +35,4 @@ I will specifically inform in each post if these systems existed or not :).
 * [Bronze Age](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-bronze-age/)
 * [Iron Age](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-iron-age/)
 
-* [Special Edition: GSF]()
+* [Special Edition: GSF](https://jinwooooo.github.io/jinwooooo-blog/browndust-pvp-arena-ancient-history-gsf/)
