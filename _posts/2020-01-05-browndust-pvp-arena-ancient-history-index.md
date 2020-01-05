@@ -25,6 +25,7 @@ Because it was long ago there were systems that did not exist in the past. The b
 * Custom / Pity System
 
 I will specifically inform in each post if these systems existed or not :).
+
 ---
 
 ## Index
