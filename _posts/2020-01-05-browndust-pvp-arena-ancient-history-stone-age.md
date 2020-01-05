@@ -5,7 +5,7 @@ image: ''
 date:   2020-01-05 00:12:00
 tags:
 - Brown Dust (Intermediate)
-description: ''
+description: 'BD Meta from 2017 April to 2017 June'
 categories:
 - Brown Dust (PvP Arena Ancient History)
 ---
@@ -23,11 +23,11 @@ In **Stone Age**, majority were stuck with 3★ units and had to try to use one 
 **All 3 Eras did not have the following systems**
 
 * Ancient Coin System
+* Dominus Octo (1st Batch - Beliath, Levia, Lucius, Seto)
 * Soul Gear System
-* Dominus Octo
+* Dominus Octo (2nd Batch - Asmod, Mamonir, Valze, Velfern)
 * Companion System
 * Custom / Pity System
-
 ---
 
 ## Ridel Era
