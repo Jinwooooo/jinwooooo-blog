@@ -90,7 +90,7 @@ The star of the Three Musketeer was **Camilla**. Similar to Kyle, even though Fr
 
 **Martina** was the third wheeler in the Three Musketeers. She wasn't really tanky enough to be a reasonable wall and she didn't have DPS to be a bruiser like Frederica. She usually just served as a unit to take 1 hit if she was in the formation.
 
-<img src="../uploads/bd-pvp-arena-ancient-history-jirobo.png">
+<img src="../uploads/bd-pvp-arena-ancient-history-jirobo.PNG">
 
 <span style="color:blue">Because three musketeer will take 3 of your 9 units for the formation, users usually used at least 1 unit from Suicide Squad (usually front because of Alec). Here is a sample formation.</span>
 
