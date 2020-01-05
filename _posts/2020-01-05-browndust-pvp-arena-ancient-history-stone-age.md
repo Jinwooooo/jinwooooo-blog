@@ -66,7 +66,7 @@ One of the solution was to use a combination attack: reduce the stat stuff on Ro
 
 <span style="color:blue">Here is a sample formation (Rank 42). At the beginning this one is gave 1 buff to Ron so that he can tank enemy initiation. Because Ron would rarely die anyway, this use gave Ron heal at the last moment so that he will be good to go in Round 2. Because nothing was too fixated at this period, there were quite a lot of variations...</span>
 
-<img src="../uploads/bd-pvp-arena-ancient-history-ron-formation.png">
+<img src="../uploads/bd-pvp-arena-ancient-history-ron-formation.jpg">
 
 <span style="color:blue">Theoretically, many users opted to go for Ron with 3 support buffs (popular combinations were Arines+Clarice+Julie), which gave him better ATK Reflect with Arines buff, insane DMG Reduction with Stat Weakening Reflect on top with Clarice, and one of the best Heal (at this period, there were no other better feasible healer) with additional AGI to make it 100%.</span>
 
