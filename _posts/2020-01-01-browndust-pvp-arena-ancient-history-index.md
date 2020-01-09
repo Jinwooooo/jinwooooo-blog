@@ -16,7 +16,7 @@ This category will rewind the clock back to the beginning of Browndust and elabo
 
 This category will only cover what I felt had big impact within the game. There were small meta(s) here and there.
 
-Because it was long ago there were systems that did not exist in the past. The biggest 5 systems were
+Because it was long ago there were systems that did not exist in the past. The biggest systems were
 
 * Ancient Coin System
 * Dominus Octo (1st Batch - Beliath, Levia, Lucius, Seto)
