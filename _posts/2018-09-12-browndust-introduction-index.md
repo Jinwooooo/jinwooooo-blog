@@ -20,38 +20,22 @@ If you are interested in my regular arena placements here are the particulars
 
 **KR Server 2018 ~ 2019**
 
-**IGN** Baloo
+**IGN** Baloo (no longer active)
 
-* 2018 August : Master I ~ Master III
-* 2018 September : Master II ~ Grandmaster III
-* 2018 October : Master III ~ Grandmaster III
-* 2018 November : Master I ~ Grandmaster II
-* 2018 December : Master I ~ Grandmaster III
-* 2019 January : Master III ~ Master I
-* 2019 February and Onwards : Hoarding AC related resources (i.e. no longer competitive)
+* 2018 : Master III ~ Grandmaster I
+* 2019 January ~ June : Sapphire III ~ Master I
 
 I'm no longer active in KR.
 
 **Asia Server Deck Type** 2 ~ 3 Row Power Variations (I switch up accordingly)
 
-**Asia Server 2019**
+**Asia Server 2019 ~ Onwards**
 
-**IGN** Lacheln
+**IGN** Baroo
 
-* 2019 May : Grandmaster II ~ Grandmaster I
-* 2019 June : Ruby III ~ Grandmaster I
-* 2019 July : Grandmaster II ~ Grandmaster I
-* 2019 August : Grandmaster I
-* 2019 September : Grandmaster II ~ Grandmaster I
-* 2019 October : Grandmaster I ~ Challenger III
-* 2019 November : Grandmaster I ~ Champion
-* 2019 December : Grandmaster I ~ Challenger III
-
----
-
-## Basic
-
-no post yet
+* 2019 : Ruby III ~ Champion
+* 2020 January ~ March : Grandmaster II ~ Challenger III
+* 2020 April ~ June : Grandmaster III ~ Grandmaster I
 
 ---
 
@@ -61,11 +45,10 @@ no post yet
 * [Brown Dust : Understanding AOE Effect Order](https://jinwooooo.github.io/jinwooooo-blog/browndust-understanding-aoe-effect-order/)
 * [Brown Dust : Immunity, Prohibition, Purification Interaction](https://jinwooooo.github.io/jinwooooo-blog/browndust-immunity-prohibition-purification-interaction/)
 * [Brown Dust : Rune Tier & Grade Comparison with Charts](https://jinwooooo.github.io/jinwooooo-blog/browndust-rune-tier-grade-comparison/)
-* [Brown Dust : Reducing Turns for 12th Floor](https://jinwooooo.github.io/jinwooooo-blog/browndust-reducing-turns-for-12th-floor/)
 * [Brown Dust : Dual Rune Combinations](https://jinwooooo.github.io/jinwooooo-blog/browndust-dual-rune-combinations/)
 * [Brown Dust : Soul Gear Data and Analysis](https://jinwooooo.github.io/jinwooooo-blog/browndust-soul-gear-data-and-analysis/)
 * [Brown Dust : Offensive 5★ Unit Rune Guide](https://jinwooooo.github.io/jinwooooo-blog/browndust-offensive-unit-rune-guide/)
-* [Brown Dust : Worldboss Debuffer List](https://jinwooooo.github.io/jinwooooo-blog/browndust-worldboss-debuffer-list/)
+* [Brown Dust : World Boss Debuffer List](https://jinwooooo.github.io/jinwooooo-blog/browndust-worldboss-debuffer-list/)
 
 ---
 
@@ -73,7 +56,10 @@ no post yet
 
 * [Brown Dust Arena Formation : 2 Row Variation Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation/)
 * [Brown Dust Arena Formation : 3 Row Power Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-2-row-variation-extension-(3row)/)
-* [Brown Dust Arena Formation : Granhildr Support Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-granhildr-support-formation/)
-* [Brown Dust Arena Formation : S2 GSF](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-s2-gsf/)
 * [Brown Dust Arena Formation : 6 Turn Push Formation](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-6-turn-push-formation/)
-* [Brown Dust Arena Formation : Eindolin Tank Chaining](https://jinwooooo.github.io/jinwooooo-blog/browndust-arena-formation-eindolin-tank-chaining/)
+* [Brown Dust Guildwar : Defense Formation Basics](https://jinwooooo.github.io/jinwooooo-blog/browndust-guildwar-defense-formation-basics/)
+
+**(Archived as they are no longer anywhere useful)**
+* Brown Dust Arena Formation : Granhildr Support Formation
+* Brown Dust Arena Formation : S2 GSF
+* Brown Dust Arena Formation : Eindolin Tank Chaining

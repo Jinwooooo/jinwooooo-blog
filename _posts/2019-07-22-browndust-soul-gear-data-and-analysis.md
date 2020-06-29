@@ -19,6 +19,8 @@ This post will mainly be in 2 parts.
 
 The global currency will be set as **gold**, but I will use other currency to give the readers a more cohesive understanding.
 
+**(2020 Update)** The Soul Gear values were slightly altered (in a good way), but it is not so far off when leveling a Soul Gear from Lv 1 to Lv 10. I'm going to leave this as it is since it is still a good reference.
+
 ---
 
 ## Raid Value
